@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예예빈 Yeyebeen - Sunrise [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6416506144</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6416506144</guid>
+            <pubDate>Tue, 15 Mar 2022 10:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_55/1647337457923CCuBI_JPEG/48473241618421946_858611376.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배호 - 안개 낀 장충단 공원, 신사임당 (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6416343248</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220315_60/1647333586977zC9CA_JPEG/48469475688436021_195810454.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[250 - 뽕 (Toru Kotetsu Master Edition) [CD]]]></title>
+            <title><![CDATA[이오공 250 - 뽕 (Toru Kotetsu Master Edition) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6416076431</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6416076431</guid>
             <pubDate>Tue, 15 Mar 2022 08:12:26 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:19 GMT</pubDate>
             <content:encoded><![CDATA[66,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220308_123/1646724774518Gd8wz_JPEG/47860608317256140_821289285.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄정화 - 4집 invitation (180G CLEAR RED COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6388493768</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6388493768</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220308_255/16467243174865g4xS_JPEG/47860151292146986_1525743973.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
