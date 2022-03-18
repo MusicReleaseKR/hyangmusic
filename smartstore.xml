@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 06:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시네마 Cnema - Mobydick (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6429002334</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6429002334</guid>
+            <pubDate>Fri, 18 Mar 2022 07:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_258/1647585586143xG1hV_JPEG/48721369545957294_1030631913.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이탈디그리 Vital Degree - Romantique [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6428947004</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6428947004</guid>
+            <pubDate>Fri, 18 Mar 2022 07:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_217/1647584696511445aN_JPEG/48720480199552846_279454082.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도현 - 사춘 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6428913641</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6428913641</guid>
+            <pubDate>Fri, 18 Mar 2022 07:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220318_203/1647583692363rFQ4i_JPEG/48719588089957646_463608457.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 아가씨 (180G GATEFOLD 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6426547494</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 15 Mar 2022 07:04:13 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_184/1647326572210pNcte_JPEG/48462351935351743_18877264.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andre Levy - Bach Suites for Unaccompanied Cello Vol Two (2022 Remastered) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6415979763</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6415979763</guid>
-            <pubDate>Tue, 15 Mar 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_135/16473264138107BD88_JPEG/48462193302340052_194007719.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andre Levy - Bach Suites for Unaccompanied Cello Vol One (2022 Remastered) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6415972379</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6415972379</guid>
-            <pubDate>Tue, 15 Mar 2022 07:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_77/1647326010305p3jAX_JPEG/48461790017686624_785996140.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김제형 - 1집 사치 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6415927819</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6415927819</guid>
-            <pubDate>Fri, 18 Mar 2022 06:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220315_105/1647324816694Pfv4U_JPEG/48460596197951631_690241915.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
