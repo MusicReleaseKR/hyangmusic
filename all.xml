@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Thu, 17 Mar 2022 10:07:36 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220317_291/1647503339239QNVG9_JPEG/48639181158032127_1522093982.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 - 1202 - Live [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424193759</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424193759</guid>
-            <pubDate>Thu, 17 Mar 2022 06:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[27,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_285/1647492116304OR9St_JPEG/48627899541053668_1386717600.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임재범 - After the Sunset - White Night (30주년 기념 앨범) [180G COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Tue, 15 Mar 2022 07:04:13 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220315_77/1647326010305p3jAX_JPEG/48461790017686624_785996140.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김제형 - 1집 사치 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6415927819</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6415927819</guid>
+            <pubDate>Fri, 18 Mar 2022 06:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220315_105/1647324816694Pfv4U_JPEG/48460596197951631_690241915.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임세모
