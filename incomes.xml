@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임세모
+														건강하세모 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5288&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5288&amp;album_mode=music</guid>
+            <pubDate>Wed, 23 Mar 2022 06:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[14,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005288_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무당
 														1집 - 그대 생각 / 잊지 못할 그녀 (180G LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
             <content:encoded><![CDATA[21,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Mclachlan
-														The Classic Christmas Album]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=7115&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=7115&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[8,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-007115_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

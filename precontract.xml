@@ -4,18 +4,9 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[임세모
-														건강하세모 (EP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5288&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5288&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005288_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[불독 맨션 (Bulldog Mansion)
 														1집 - Bulldog Mansionb (180G 2LP) [예약판매]]]></title>
@@ -78,6 +69,15 @@
             <pubDate>Thu, 17 Mar 2022 06:06:45 GMT</pubDate>
             <content:encoded><![CDATA[53,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008768_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
+            <pubDate>Wed, 23 Mar 2022 06:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
