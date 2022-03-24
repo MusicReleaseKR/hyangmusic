@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														5집 - 언젠가는 (180G LP) [2022 REMASTERED]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[39,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임세모
 														건강하세모 (EP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
             <content:encoded><![CDATA[10,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-000818_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gazette
-														Division]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JROK&amp;code=1640&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JROK&amp;code=1640&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JROK/JROK-001640_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman’s Hour
-														Coversations (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6300&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[21,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006300_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

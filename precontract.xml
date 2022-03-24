@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,24 +15,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														5집 - 언젠가는 (180G LP) [2022 REMASTERED] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[39,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장우혁
@@ -78,6 +60,24 @@
             <pubDate>Wed, 23 Mar 2022 06:09:11 GMT</pubDate>
             <content:encoded><![CDATA[59,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I)
+														Waterfall (Gate-Fold LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이이언 (Eaeon)
+														Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[49,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

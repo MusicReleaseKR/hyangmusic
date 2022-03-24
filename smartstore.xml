@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스톰 Storm - Christmas Gift [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6453775018</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6453775018</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[7,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_260/1648097214096U1tMt_JPEG/49233112807671294_805509159.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D_Fi & Ashtray - Intersection (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6453742390</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6453742390</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_87/1648096567451nNIhh_JPEG/49232466158769260_1766395827.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - Dawn FM (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6449916265</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 17 Mar 2022 06:06:35 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220317_47/1647489828130tNv1Q_JPEG/48625673847159454_828873074.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오르내림 OLNL - Cyber Lover (BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6423751570</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6423751570</guid>
-            <pubDate>Thu, 17 Mar 2022 03:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_195/1647485388534gpvgd_JPEG/48621223136027923_1389501281.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히식스 - 사랑의 상처 / 아름다운 인형 (180G BLUE MIX COLOURED Gate-Fold REMASTERED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420243684</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420243684</guid>
-            <pubDate>Wed, 16 Mar 2022 08:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_79/16474154036570HpAz_JPEG/48551237243193443_588453688.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

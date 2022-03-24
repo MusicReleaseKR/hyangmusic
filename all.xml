@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스톰 Storm - Christmas Gift [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6453775018</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6453775018</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[7,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_260/1648097214096U1tMt_JPEG/49233112807671294_805509159.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D_Fi & Ashtray - Intersection (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6453742390</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6453742390</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220324_87/1648096567451nNIhh_JPEG/49232466158769260_1766395827.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - Dawn FM (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6449916265</link>
@@ -312,22 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220317_47/1647489828130tNv1Q_JPEG/48625673847159454_828873074.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오르내림 OLNL - Cyber Lover (BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6423751570</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6423751570</guid>
-            <pubDate>Thu, 17 Mar 2022 03:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220317_195/1647485388534gpvgd_JPEG/48621223136027923_1389501281.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히식스 - 사랑의 상처 / 아름다운 인형 (180G BLUE MIX COLOURED Gate-Fold REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6420243684</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6420243684</guid>
-            <pubDate>Wed, 16 Mar 2022 08:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220316_79/16474154036570HpAz_JPEG/48551237243193443_588453688.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[불독 맨션 (Bulldog Mansion)
 														1집 - Bulldog Mansionb (180G 2LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5287&amp;album_mode=music</link>
@@ -335,24 +335,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														5집 - 언젠가는 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[39,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장우혁
@@ -398,6 +380,42 @@
             <pubDate>Wed, 23 Mar 2022 06:09:11 GMT</pubDate>
             <content:encoded><![CDATA[59,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I)
+														Waterfall (Gate-Fold LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이이언 (Eaeon)
+														Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</guid>
+            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[49,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														5집 - 언젠가는 (180G LP) [2022 REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
+            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[39,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상은 (Lee-Tzsche)
+														6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
+            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임세모
@@ -454,46 +472,12 @@
             <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-000818_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gazette
-														Division (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JROK&amp;code=1640&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JROK&amp;code=1640&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JROK/JROK-001640_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woman’s Hour
-														Coversations (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6300&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[21,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1집 - Bulldog Mansionb (180G 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5287&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5287&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[불독 맨션 (Bulldog Mansion)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6집 - 공무도하가 (180G COLOURED Gate-Fold 2LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8796&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5집 - 언젠가는 (180G LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[이상은 (Lee-Tzsche)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어때 Tonight (COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -541,7 +525,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[비아이 (B.I)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -549,7 +533,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5224&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[이이언 (Eaeon)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Next Episode (AKMU COLLABORATION ALBUM) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
