@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손성제 - 비의 비가 (Elegy of rain) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6458201946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6458201946</guid>
+            <pubDate>Fri, 25 Mar 2022 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_154/1648190561295fSUTh_JPEG/49326450009897653_135828310.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이적 - 3집 나무로 만든 노래 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6458087717</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6458087717</guid>
+            <pubDate>Fri, 25 Mar 2022 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220325_165/1648189079304lmMQy_JPEG/49324858572949829_1213061654.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 디즈니 베스트 주제곡 모음집 The Essential Disney Collection [CLEAR BLUE COLOURED 2LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6457493567</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 17 Mar 2022 17:16:50 GMT</pubDate>
             <content:encoded><![CDATA[100,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_53/1647534911521N885x_JPEG/48670807259575256_1888521772.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 EXO - Don't Fight The Feeling [45RPM COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6426169701</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6426169701</guid>
-            <pubDate>Thu, 17 Mar 2022 17:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_267/1647534188637b37jm_JPEG/48669972144069932_151854030.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 (2020 NEWLY REMASTERED) [MQA / HQCD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6424865075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6424865075</guid>
-            <pubDate>Thu, 17 Mar 2022 10:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220120_142/1642674220923cD5GO_JPEG/43810004410775786_2000353861.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
