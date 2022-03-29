@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 06:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 07:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 - Breathing [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474555329</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474555329</guid>
+            <pubDate>Tue, 29 Mar 2022 07:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_9/1648535307879gUrqk_JPEG/49671142714031512_267224631.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿤디판다 Khundi Panda - 가로사옥 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6474517867</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6474517867</guid>
+            <pubDate>Tue, 29 Mar 2022 07:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[64,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220329_134/1648534659389fx1VB_JPEG/49670492918188200_1442806850.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6474407616</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 18 Mar 2022 12:13:14 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220318_271/1647603486687jOWfM_JPEG/48739266413997202_685418495.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김지연과 리바이블크로스 - 내 마음 흔들려 (Gatefold LP) [블루 스플래터 한정반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429703085</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429703085</guid>
-            <pubDate>Fri, 18 Mar 2022 12:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_124/1647603107127PUzqJ_JPEG/48738886847871377_2106588066.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ennio Morricone - The Essential Ennio Morricone Film Music Collection [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6429694880</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6429694880</guid>
-            <pubDate>Fri, 18 Mar 2022 12:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220318_215/1647602795089GH2r1_JPEG/48738574578103817_1044705561.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
