@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자우림 (Jaurim)
+														10집 - 자우림 (180G COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001301_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 (Jaurim)
+														9집 - Goodbye, Grief (180G COLOURED 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이이언 (Eaeon)
 														Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 17 Mar 2022 06:06:45 GMT</pubDate>
             <content:encoded><![CDATA[53,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008768_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 (B.I)
-														Waterfall (Gate-Fold LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
-            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

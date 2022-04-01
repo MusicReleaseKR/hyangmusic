@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 05:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 06:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 사랑의 불시착 [180G MILK CLEAR & PURPLE OPAQUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6489658937</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6489658937</guid>
+            <pubDate>Fri, 01 Apr 2022 06:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[69,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220401_156/1648790444524oUdIP_JPEG/49926333231331624_850890388.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Latte E Miele - Papillon (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6480707392</link>
@@ -320,12 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220322_293/1647932005829U8HW4_JPEG/49067833409773917_1562556190.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하현우 - Anti ego [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6440812352</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6440812352</guid>
-            <pubDate>Mon, 21 Mar 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220321_291/1647844878081vjukx_JPEG/48980776784529898_814547643.jpg?type=f232_232" length="0" type="image/jpg"/>
+            <title><![CDATA[자우림 (Jaurim)
+														10집 - 자우림 (180G COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001301_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 (Jaurim)
+														9집 - Goodbye, Grief (180G COLOURED 2LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이이언 (Eaeon)
@@ -380,24 +398,6 @@
             <pubDate>Thu, 17 Mar 2022 06:06:45 GMT</pubDate>
             <content:encoded><![CDATA[53,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008768_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														봄날은 간다 (180G Gate-Fold 2LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
-            <pubDate>Wed, 23 Mar 2022 06:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 (B.I)
-														Waterfall (Gate-Fold LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
-            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상은 (Lee-Tzsche)
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-000818_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10집 - 자우림 (180G COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001301_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9집 - Goodbye, Grief (180G COLOURED 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Apr 2022 06:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5224&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5224&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Waterfall (Gate-Fold LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[비아이 (B.I)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Next Episode (AKMU COLLABORATION ALBUM) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
