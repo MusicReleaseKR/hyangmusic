@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <pubDate>Fri, 01 Apr 2022 06:08:42 GMT</pubDate>
             <content:encoded><![CDATA[52,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이이언 (Eaeon)
-														Fragile (140G DARK PURPLE COLOURED Gate-Fold LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5224&amp;album_mode=music</guid>
-            <pubDate>Thu, 24 Mar 2022 05:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[49,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불독 맨션 (Bulldog Mansion)
@@ -78,6 +69,15 @@
             <pubDate>Thu, 17 Mar 2022 06:06:45 GMT</pubDate>
             <content:encoded><![CDATA[53,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008768_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
+            <pubDate>Sat, 02 Apr 2022 06:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
