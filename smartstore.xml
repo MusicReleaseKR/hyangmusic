@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀레나 Milena - 우리들 Riddle [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6502838907</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6502838907</guid>
+            <pubDate>Mon, 04 Apr 2022 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_214/1649060085635FR7r6_JPEG/50195913464316536_1940077786.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백아 - 우주선 (140G CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6502815360</link>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 29 Mar 2022 07:03:44 GMT</pubDate>
             <content:encoded><![CDATA[64,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220329_134/1648534659389fx1VB_JPEG/49670492918188200_1442806850.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6474407616</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6474407616</guid>
-            <pubDate>Tue, 29 Mar 2022 06:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[64,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220329_284/1648532984406vkAdO_JPEG/49668830122223104_675760889.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 Jaurim - 10집 자우림 (180G COLOURED LP) [1인 1매 주문]]]></title>
