@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백아 - 우주선 (140G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6502815360</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6502815360</guid>
+            <pubDate>Mon, 04 Apr 2022 08:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220404_226/1649059537026Wjtkg_JPEG/50195364838025312_398880844.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oasis - Knebworth 1996 (Blu-Ray) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6491323308</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 07:02:55 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_154/1648190561295fSUTh_JPEG/49326450009897653_135828310.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이적 - 3집 나무로 만든 노래 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6458087717</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6458087717</guid>
-            <pubDate>Fri, 25 Mar 2022 07:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_165/1648189079304lmMQy_JPEG/49324858572949829_1213061654.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
