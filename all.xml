@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 7080 오리지널 베스트 1집 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6511263830</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6511263830</guid>
+            <pubDate>Wed, 06 Apr 2022 07:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220406_182/1649226570780JB5Gv_JPEG/50362354253142335_1385868218.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키드킹 Kidd King - Emotional Baggage [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6511193151</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6511193151</guid>
+            <pubDate>Wed, 06 Apr 2022 07:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220406_60/16492257995699pI2k_JPEG/50361583029899499_520919351.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 봄날은 간다 (180G Gate-Fold 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6508313918</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 13:50:42 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220325_188/1648212788070o0rnj_JPEG/49348686770494191_417374926.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Soul 소울 [SCORE] (Gate-Fold LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459099486</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459099486</guid>
-            <pubDate>Fri, 25 Mar 2022 13:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_82/1648212466780tSzGq_JPEG/49348365490863401_625590833.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Destroyer - LABYRINTHITIS (GREEN & BONE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6459046431</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6459046431</guid>
-            <pubDate>Fri, 25 Mar 2022 13:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220325_262/16482109485816Fs0n_JPEG/49346782397110827_1928406933.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
