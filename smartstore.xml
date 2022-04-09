@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jon Batiste - We Are [DELUXE VERSION]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6526496383</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6526496383</guid>
+            <pubDate>Sat, 09 Apr 2022 17:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_6/1649522985126FXBRB_JPEG/50658883826666248_1938222104.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김민규 - 언제 어디인지 알 수는 없지만 (YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6520347369</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Apr 2022 12:13:35 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220401_123/1648813523869YzGAz_JPEG/49949303583105067_491410697.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut - Artifacts (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6491025721</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6491025721</guid>
-            <pubDate>Fri, 01 Apr 2022 12:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220401_34/1648813198642D5BmM_JPEG/49948978366590248_1759825354.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
