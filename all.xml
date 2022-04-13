@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥스트 NEXT - 5.5집 Regame [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6541313114</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6541313114</guid>
+            <pubDate>Wed, 13 Apr 2022 07:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220413_12/16498304295446XgnU_JPEG/50966272260687588_833259868.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼빨간사춘기 - SEOUL [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6541269569</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Apr 2022 12:15:12 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220407_138/1649327956073SIOTC_JPEG/50463798788904245_1027763168.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파라솔 - 1집 언젠가 그 날이 오면 (REMASTERED / RE-PACKAGED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6516652871</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6516652871</guid>
-            <pubDate>Thu, 07 Apr 2022 12:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220407_45/1649323778062AeG5U_JPEG/50459676773150906_2133206082.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
