@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이브 Dive - I S2 MY WONDERFUL DAYS [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563494341</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563494341</guid>
+            <pubDate>Mon, 18 Apr 2022 11:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_89/16502779792299KpMn_JPEG/51413807057197601_981653287.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Beatles In Tokyo [180G WHITE COLOURED 2LP + 1DVD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563477294</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563477294</guid>
+            <pubDate>Mon, 18 Apr 2022 11:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[104,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_86/1650277209824lTsOI_JPEG/51413105560338947_175294279.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - Nevermind (30th Anniversary) [5CD + Blue-Ray Super Deluxe]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6563447413</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6563447413</guid>
+            <pubDate>Mon, 18 Apr 2022 11:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[150,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220418_132/1650276804184aoLaI_JPEG/51412699912540320_315972162.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stella Donnelly - Beware Of The Dogs (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563384166</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 10 Apr 2022 12:08:08 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210308_140/1615193339209Ipjsg_JPEG/16329118627448087_1373813014.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6526523597</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6526523597</guid>
-            <pubDate>Sat, 09 Apr 2022 18:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_238/1649524919345MEABR_JPEG/50660815081980633_2054460905.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6526519404</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6526519404</guid>
-            <pubDate>Sat, 09 Apr 2022 18:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[34,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_108/1649524705386jRRC4_JPEG/50660539208476206_2005677381.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten - We've Been Going About This All Wrong [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6526517638</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6526517638</guid>
-            <pubDate>Sat, 09 Apr 2022 18:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_3/1649524105060WMdlj_JPEG/50659888776279918_1773842552.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
