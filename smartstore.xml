@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성진환 - 1집 Baby Birds (180G LP) [2017 서울레코드페어 한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6572035790</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6572035790</guid>
+            <pubDate>Wed, 20 Apr 2022 07:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[31,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210220_29/1613831400053f78a8_JPEG/14967233692818891_1897520624.jpeg?type=f232_232" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Goldmund - The Time It Takes (TRANSPARENT ORANGE COLORED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6568290511</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 20 Apr 2022 05:27:56 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_192/1649588557198nihAK_JPEG/50724452933832537_227572541.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hurray for the Riff Raff - Life On Earth [LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6528766490</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6528766490</guid>
-            <pubDate>Wed, 20 Apr 2022 05:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[37,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220410_237/1649588261207yTkJ7_JPEG/50724103900362942_1833245391.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
