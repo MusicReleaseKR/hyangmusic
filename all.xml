@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20210531_79/1622452193507zdo9u_JPEG/23588028148110264_65755142.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘로 ELO - 8 Femmes (CD) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6567580965</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6567580965</guid>
-            <pubDate>Tue, 19 Apr 2022 08:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220419_264/1650353414070BoM87_JPEG/51489302533902353_2049683471.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다이브 Dive - I S2 MY WONDERFUL DAYS [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6563494341</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6563494341</guid>
@@ -142,14 +134,6 @@
             <pubDate>Mon, 18 Apr 2022 09:03:37 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220418_163/1650270556841Cj8Yf_JPEG/51406391676741125_960857550.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘로 ELO - Reality Check [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6563006848</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6563006848</guid>
-            <pubDate>Mon, 18 Apr 2022 08:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220418_295/1650268130605LnYSb_JPEG/51403910330474045_1561532647.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장나라 - 2집 Sweet Dream [180G BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -326,6 +310,22 @@
             <pubDate>Sun, 10 Apr 2022 12:08:08 GMT</pubDate>
             <content:encoded><![CDATA[37,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Buble - Higher [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6528771055</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6528771055</guid>
+            <pubDate>Wed, 20 Apr 2022 05:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_192/1649588557198nihAK_JPEG/50724452933832537_227572541.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hurray for the Riff Raff - Life On Earth [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6528766490</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6528766490</guid>
+            <pubDate>Wed, 20 Apr 2022 05:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_237/1649588261207yTkJ7_JPEG/50724103900362942_1833245391.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
