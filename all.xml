@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220413_267/16498417158785TC5w_JPEG/50977558585709901_1239912155.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넥스트 NEXT - 5.5집 Regame [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6541313114</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6541313114</guid>
-            <pubDate>Wed, 13 Apr 2022 07:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220413_12/16498304295446XgnU_JPEG/50966272260687588_833259868.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[볼빨간사춘기 - SEOUL [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6541269569</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6541269569</guid>
@@ -326,6 +318,14 @@
             <pubDate>Sun, 10 Apr 2022 12:08:08 GMT</pubDate>
             <content:encoded><![CDATA[28,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220410_24/1649590761214FLJ6u_JPEG/50726659925124362_608974562.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Yoko Ono Tribute - Ocean Child Songs Of Yoko Ono [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6528781919</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6528781919</guid>
+            <pubDate>Thu, 21 Apr 2022 04:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220410_207/1649588878668sfEf4_JPEG/50724767375743952_657048630.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
