@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -35,15 +35,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장우혁
-														어때 Tonight (COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8793&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[31,200]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008793_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시나위
 														4집 - Four (180G RED COLOURED LP) [1인 1매 구매] [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1297&amp;album_mode=music</link>
@@ -62,15 +53,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008779_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[키 (Key)
-														Bad Love (LP Ver.) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8768&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8768&amp;album_mode=music</guid>
-            <pubDate>Thu, 17 Mar 2022 06:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008768_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Soundtrack
 														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
@@ -78,6 +60,24 @@
             <pubDate>Sat, 02 Apr 2022 06:10:20 GMT</pubDate>
             <content:encoded><![CDATA[59,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I)
+														Waterfall (Gate-Fold LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
+            <pubDate>Thu, 21 Apr 2022 08:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[53,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[악동뮤지션 (Akdong Musician)
+														Next Episode (AKMU COLLABORATION ALBUM) [LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8710&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8710&amp;album_mode=music</guid>
+            <pubDate>Thu, 21 Apr 2022 08:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008710_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
