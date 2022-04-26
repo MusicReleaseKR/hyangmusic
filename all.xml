@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜로망스 Melomance - 초대 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6597363606</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6597363606</guid>
+            <pubDate>Tue, 26 Apr 2022 07:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220426_32/1650956153826QzVOG_JPEG/52091999545224782_1830473118.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - SBS TV 판타스틱 듀오 트롯 베스트 컬렉션, 그 첫 번째 브랜 뉴 트로트 - 첫사랑 (CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6597129548</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Apr 2022 09:07:13 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220412_244/1649752027014X4jPW_JPEG/50887914797316008_88912001.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 - Chameleon (180G 45RPM 반투명 핑크 칼라 LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6533797746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6533797746</guid>
-            <pubDate>Mon, 11 Apr 2022 15:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220215_264/1644901598139tn6Aj_JPEG/46037432972861817_1645881655.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
