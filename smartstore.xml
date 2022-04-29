@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Camila Cabello - Familia (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6611339161</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6611339161</guid>
+            <pubDate>Fri, 29 Apr 2022 07:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_52/1651213049256uUBp7_JPEG/52348891961590541_316223656.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camila Cabello - Familia (Amazon Exclusive Alternative Artwork)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6611333180</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6611333180</guid>
+            <pubDate>Fri, 29 Apr 2022 07:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220429_237/1651212600650K3T3U_JPEG/52348443154331597_934432788.jpg?type=f232_232" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Toro y Moi - MAHAL (SILVER COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6611282608</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 21 Apr 2022 08:13:12 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220421_240/165052688470107X3x_JPEG/51662773411913413_310165392.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이 PSY - 싸다9 [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6576051699</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6576051699</guid>
-            <pubDate>Thu, 21 Apr 2022 03:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220421_66/1650509848986FdrDS_JPEG/51645747434967488_1423535310.jpg?type=f232_232" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최헌 & 이연실 - 가로등 불빛아래, 시악씨 마음 [140G COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6572480490</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6572480490</guid>
-            <pubDate>Wed, 20 Apr 2022 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220420_9/1650441473656UpHv2_JPEG/51577316368401722_1449814220.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
