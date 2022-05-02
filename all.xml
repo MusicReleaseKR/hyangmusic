@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/6622661740</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6622661740</guid>
             <pubDate>Mon, 02 May 2022 08:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220502_214/16514760773878qYn8_JPEG/52611922255346427_1764742682.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -61,7 +61,7 @@
             <guid>https://smartstore.naver.com/hyangmusic/products/6622436215</guid>
             <pubDate>Mon, 02 May 2022 06:08:51 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220502_292/1651471336451IVBV6_JPEG/52607164280302653_1360802139.jpg?type=f232_232" length="0" type="image/jpg"/>
+            <enclosure url="https://shop-phinf.pstatic.net/20220502_9/1651479227453n3k17_JPEG/52615126143958786_1622506471.jpg?type=f232_232" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투피엠 2PM - Must (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
