@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008710_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[발룬티어스 (The Volunteers)
+														The Volunteers (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5220&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5220&amp;album_mode=music</guid>
+            <pubDate>Tue, 03 May 2022 06:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[38,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005220_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코듀로이 (Corduroy)
 														Tails On The Hill (3인치 CD) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5290&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
             <content:encoded><![CDATA[44,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005155_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 윌리엄즈 (The Williams)
-														1집 - Love Child (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5286&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5286&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005286_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10집 - 자우림 (180G COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -552,6 +552,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[The Volunteers (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5220&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5220&amp;album_mode=music</guid>
+            <pubDate>Tue, 03 May 2022 06:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[발룬티어스 (The Volunteers)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005220_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tails On The Hill (3인치 CD) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5290&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5290&amp;album_mode=music</guid>
@@ -621,7 +629,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1303&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:19:01 GMT</pubDate>
             <content:encoded><![CDATA[예지 (Yaeji) / 오혁 (Ohhyuk)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001303_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[David Archuleta (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -701,14 +709,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=7929&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:19:01 GMT</pubDate>
             <content:encoded><![CDATA[이안 (Eian)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[2집 - This Is Why We Are Falling For Each Other (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=1994&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=1994&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[트램폴린 (Trampauline)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
