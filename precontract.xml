@@ -4,17 +4,17 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 09:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 10:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[베어문 (Bearmoon)
 														Fate [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1309&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1309&amp;album_mode=music</guid>
-            <pubDate>Tue, 10 May 2022 08:13:50 GMT</pubDate>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5291&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5291&amp;album_mode=music</guid>
+            <pubDate>Tue, 10 May 2022 10:04:01 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001309_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005291_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 (Jaurim)
