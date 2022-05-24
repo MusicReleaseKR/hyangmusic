@@ -4,16 +4,16 @@
         <title>모바일 향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Fate]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5291&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5291&amp;album_mode=music</guid>
-            <pubDate>Tue, 10 May 2022 10:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[베어문 (Bearmoon)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005291_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[설강화 (WHITE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 May 2022 02:50:56 GMT</pubDate>
+            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001793_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10집 - 자우림 (180G COLOURED LP)]]></title>
