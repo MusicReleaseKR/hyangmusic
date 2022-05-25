@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거북이 - 1집 GO! BOOGIE (45rpm 180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6716278546</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6716278546</guid>
+            <pubDate>Wed, 25 May 2022 08:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220225_189/1645755217025FEdvA_JPEG/46891051512989650_1980756938.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조성진 Seong-Jin Cho - 2015 쇼팽 콩쿠르 우승 실황앨범 [카세트 테이프]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6716154862</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[39,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220518_59/1652869864999Ni1SB_JPEG/54005760522849542_1480191072.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재중 - 온 더 로드 ON THE ROAD an artist’s journey [180G PICTURE DISC 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6688524226</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6688524226</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_280/1652861479551w4HLH_JPEG/53997259268579643_1575641430.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
