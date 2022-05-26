@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Elvis Presley - 베스트 30 선곡집 1954 - 1962 [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6721033188</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6721033188</guid>
+            <pubDate>Thu, 26 May 2022 08:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220526_105/1653548654653Uvqxl_JPEG/54684438369277964_1944003239.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elvis Presley - Fred Beltran (엘비스 전기영화 기념 2022 remastered) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6721013448</link>
@@ -70,6 +78,22 @@
             <pubDate>Wed, 25 May 2022 07:04:06 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220525_240/1653458462034fImFK_JPEG/54594296868975957_692808539.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden And Pat Metheny - Beyond The Missouri Sky - Short Stories (SPECIAL EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6712683912</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6712683912</guid>
+            <pubDate>Thu, 26 May 2022 08:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_139/1653388485233UyFp1_JPEG/54524373939564683_619329934.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁오 Hyukoh - 23 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6712647821</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6712647821</guid>
+            <pubDate>Thu, 26 May 2022 08:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220524_132/1653388147216gaFz2_JPEG/54524035914693349_1539016515.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손성훈 - RETURN (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_245/1652939721989a7kba_JPEG/54075620688710435_1300908142.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변진섭 - 1집 홀로된다는 것 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692197551</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692197551</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_139/1652939124988iij9l_JPEG/54075023681159263_2093360449.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지영 - 2집 Rouge (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692178019</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692178019</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_6/1652938502636WyTno_JPEG/54074398372136560_644683833.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지영 - 1집 Sorrow (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692059445</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692059445</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_38/1652936295643wNa07_JPEG/54072141349467368_1340355695.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
