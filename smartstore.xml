@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 07:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Elvis Presley - Fred Beltran (엘비스 전기영화 기념 2022 remastered) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6721013448</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6721013448</guid>
+            <pubDate>Thu, 26 May 2022 07:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220526_34/1653548136245cVvts_JPEG/54683919954034831_2004210511.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6720862299</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6720862299</guid>
+            <pubDate>Thu, 26 May 2022 07:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220526_13/1653545765816QiIrV_JPEG/54681599637601855_802135142.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일 Hail - Hail (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6720752899</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_38/1652936295643wNa07_JPEG/54072141349467368_1340355695.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한희정 - Notate (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692037927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692037927</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_293/1652935546408jnllp_JPEG/54071389115399189_84682994.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니네 이발관 - 5집 - 가장 보통의 존재 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6689131906</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6689131906</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220518_35/16528701183530cvW4_JPEG/54006014090569484_1767486718.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
