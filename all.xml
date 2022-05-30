@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 04:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김신일 - Soul Soul Soul [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6736217283</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6736217283</guid>
+            <pubDate>Mon, 30 May 2022 05:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220530_1/1653887252967SuIzp_JPEG/55023032112986716_866429240.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[심현필 & 고희안 - Iceland (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6724268520</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[17,200]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220519_224/1652942965439YiIr6_JPEG/54078861167402202_61470203.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 - 욕심의 반대편으로 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6692243029</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6692243029</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220519_122/1652940293493mqkXA_JPEG/54076192199853378_1215471674.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
