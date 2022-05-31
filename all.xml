@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 06:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 07:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,15 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220519_24/1652946451922lUJTW_JPEG/54082294501197981_1372378435.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김시호
+														18평 방자 (EP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5292&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5292&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 May 2022 07:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[9,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005292_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack
 														설강화 (WHITE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1793&amp;album_mode=music</link>
@@ -389,15 +398,6 @@
             <pubDate>Sat, 02 Apr 2022 06:10:20 GMT</pubDate>
             <content:encoded><![CDATA[59,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 (B.I)
-														Waterfall (Gate-Fold LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
-            <pubDate>Thu, 21 Apr 2022 08:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[53,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베어문 (Bearmoon)
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001177_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[18평 방자 (EP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5292&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5292&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 May 2022 07:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[김시호]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005292_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설강화 (WHITE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=879&amp;album_mode=music</guid>
             <pubDate>Sat, 12 Mar 2022 16:18:49 GMT</pubDate>
             <content:encoded><![CDATA[비아이 (B.I)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000879_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Next Episode (AKMU COLLABORATION ALBUM) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
