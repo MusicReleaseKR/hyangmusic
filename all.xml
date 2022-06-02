@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 13:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 14:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IBIS - IBIS (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6749640327</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6749640327</guid>
+            <pubDate>Thu, 02 Jun 2022 14:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220602_15/1654177259318zlLHe_JPEG/55313105025365591_1248846790.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dr. Z - Three Parts To My Soul (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6749624859</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[85,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220520_199/1653021798154RHnyc_JPEG/54157686785779291_161167677.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Samurai Champloo Music Record - Departure (사무라이 참프루) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6696175463</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6696175463</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[85,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220520_67/1653021079050gAg6E_JPEG/54156967760939607_1232678262.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김시호
