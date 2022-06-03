@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 06:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 07:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yeah Yeah Yeahs - Cool It Down (OPAQUE YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6752425115</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6752425115</guid>
+            <pubDate>Fri, 03 Jun 2022 07:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220603_94/1654236783615jWsDk_JPEG/55372567331432713_1027241303.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yeah Yeah Yeahs - Cool It Down (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6752418285</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6752418285</guid>
+            <pubDate>Fri, 03 Jun 2022 07:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[38,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220603_59/1654236625703RfF06_JPEG/55372408929880884_710425224.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yeah Yeah Yeahs - Cool It Down (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6752379099</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220523_131/1653285011524jG2yu_JPEG/54420839344386356_1111537567.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - Best 2 (45rpm GOLD COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6696301698</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6696301698</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220520_94/16530239185457rKOF_JPEG/54159807250036663_972554218.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - Best 1 (45rpm GOLD COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6696291317</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6696291317</guid>
-            <pubDate>Tue, 24 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220520_128/1653023472312sCAtw_JPEG/54159360964899654_1280049978.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김시호
