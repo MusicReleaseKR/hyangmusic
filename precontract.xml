@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kendrick Lamar
+														Mr.Morale & The Big Steppers [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</guid>
+            <pubDate>Tue, 07 Jun 2022 10:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[14,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김시호
 														18평방자 (EP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
             <content:encoded><![CDATA[45,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008779_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														봄날은 간다 (180G Gate-Fold 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
-            <pubDate>Sat, 02 Apr 2022 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[59,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
