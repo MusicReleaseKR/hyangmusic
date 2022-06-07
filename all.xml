@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 13:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 14:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - Works I - CM [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6768598080</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6768598080</guid>
+            <pubDate>Tue, 07 Jun 2022 14:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_11/1654608849023WXkN0_JPEG/55744682641538654_1687481028.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - Works II - TV / Inst. (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6768589625</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6768589625</guid>
+            <pubDate>Tue, 07 Jun 2022 14:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_233/1654608576279zUppf_JPEG/55744410101984364_1790064520.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mitski 미츠키 - Bury Me at Makeout Creek [카세트 테이프] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6768545995</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 25 May 2022 07:04:06 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220525_167/1653460397348EuFpz_JPEG/54596242830105294_908493922.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기기기 - Meta Morph [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716106853</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716106853</guid>
-            <pubDate>Wed, 25 May 2022 07:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_10/1653460002500deqY5_JPEG/54595848162377522_1046365897.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배영경 - 푸른 너 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6716075348</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6716075348</guid>
-            <pubDate>Wed, 25 May 2022 07:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220525_240/1653458462034fImFK_JPEG/54594296868975957_692808539.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kendrick Lamar
