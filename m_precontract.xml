@@ -4,7 +4,7 @@
         <title>모바일 향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 04:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[18평방자 (EP)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5292&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5292&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 May 2022 07:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[김시호]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005292_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[설강화 (WHITE COLOURED LP)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</guid>
             <pubDate>Tue, 24 May 2022 02:50:56 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001793_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4집 - 꽃 (180G WHITE COLOURED Gate-Fold LP) [1인 1매 주문]]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8183&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8183&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Jun 2022 05:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[이소라]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008183_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10집 - 자우림 (180G COLOURED LP)]]></title>
