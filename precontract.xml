@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Queen
+														The Platinum Collection (180G COLOURED 6LP) [BOX SET] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6896&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6896&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[196,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006896_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신용재
+														사계 (四季) [2LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
+            <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[73,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008804_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar
 														Mr.Morale & The Big Steppers [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시나위
-														4집 - Four (180G RED COLOURED LP) [1인 1매 구매] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1297&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1297&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001297_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범수
-														1집 - A Promise ... (180G COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8779&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8779&amp;album_mode=music</guid>
-            <pubDate>Sat, 12 Mar 2022 16:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008779_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
