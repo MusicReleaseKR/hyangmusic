@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Norah Jones - Come Away With Me (20th Anniversary Super Deluxe Edition, 4LP Box Set) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6775174286</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6775174286</guid>
+            <pubDate>Thu, 09 Jun 2022 07:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[240,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220609_23/1654754658691apcJC_JPEG/55890491967518603_1348235794.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rupa - Disco Jazz [SUNSUGAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6772463916</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Jun 2022 06:07:46 GMT</pubDate>
             <content:encoded><![CDATA[17,200]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220603_11/16542357690703hTNp_JPEG/55371602887627641_611970633.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리쌍 - 1집 leessang of honey familly (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6752282716</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6752282716</guid>
-            <pubDate>Fri, 03 Jun 2022 06:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220603_56/165423429554716W35_JPEG/55370123371118534_1901924023.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 Paul Kim - Star (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
