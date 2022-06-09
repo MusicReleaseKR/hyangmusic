@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														봄날은 간다 (180G Gate-Fold 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1787&amp;album_mode=music</guid>
+            <pubDate>Thu, 09 Jun 2022 05:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김시호
 														18평방자 (EP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sat, 02 Apr 2022 06:10:28 GMT</pubDate>
             <content:encoded><![CDATA[43,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 (Lee-Tzsche)
-														5집 - 언젠가는 (180G LP) [2022 REMASTERED]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8795&amp;album_mode=music</guid>
-            <pubDate>Thu, 24 Mar 2022 05:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[39,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008795_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
