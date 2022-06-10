@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joan Baez
+														Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chuck Mangione
+														Feels So Good (180G TRANSPARENT RED COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-006750_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소울바이서울 (Soulbysel)
 														Soulbysel Compilation 01 (180G 반투명 블루컬러 LP) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
             <content:encoded><![CDATA[196,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006896_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신용재
-														사계 (四季) [2LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[73,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008804_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar
-														Mr.Morale & The Big Steppers [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</guid>
-            <pubDate>Tue, 07 Jun 2022 10:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

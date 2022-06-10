@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joan Baez - Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6781261514</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6781261514</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220610_180/1654856947716p3yKg_JPEG/55992793428732504_542577577.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chuck Mangione - Feels So Good (180G TRANSPARENT RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6781177582</link>
@@ -320,12 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220531_202/1653971884135Lwkom_JPEG/55107772574492204_324317527.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nirvana - Live On Kaos-FM Seattle 1987 (180G PICTURE DISC LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6737190135</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6737190135</guid>
-            <pubDate>Mon, 30 May 2022 12:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220530_242/1653910098976aV2YK_JPEG/55045933797853513_240181568.jpg?type=f200" length="0" type="image/jpg"/>
+            <title><![CDATA[Joan Baez
+														Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chuck Mangione
+														Feels So Good (180G TRANSPARENT RED COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-006750_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소울바이서울 (Soulbysel)
@@ -380,24 +398,6 @@
             <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
             <content:encoded><![CDATA[196,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006896_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신용재
-														사계 (四季) [2LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Jun 2022 06:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[73,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008804_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar
-														Mr.Morale & The Big Steppers [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</guid>
-            <pubDate>Tue, 07 Jun 2022 10:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005224_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[Joan Baez]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feels So Good (180G TRANSPARENT RED COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=FUSI&amp;code=6750&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Jun 2022 11:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[Chuck Mangione]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-006750_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soulbysel Compilation 01 (180G 반투명 블루컬러 LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=901&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=901&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
             <pubDate>Wed, 08 Jun 2022 06:08:15 GMT</pubDate>
             <content:encoded><![CDATA[신용재]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008804_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Mr.Morale & The Big Steppers (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HRAP&amp;code=5091&amp;album_mode=music</guid>
             <pubDate>Tue, 07 Jun 2022 10:06:30 GMT</pubDate>
             <content:encoded><![CDATA[Kendrick Lamar]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[설강화 (WHITE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
