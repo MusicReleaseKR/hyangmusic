@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀로씨티 (Holocity)
+														영화처럼 (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5295&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5295&amp;album_mode=music</guid>
+            <pubDate>Mon, 13 Jun 2022 09:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005295_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														엄마의 노래 (MOTHER SONG) [180G LP] [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005294_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 / 까데호
-														당신께 (EP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1310&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1310&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001310_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
