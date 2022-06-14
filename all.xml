@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Post Malone - Twelve Carat Toothache (Deluxe) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6794883615</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6794883615</guid>
+            <pubDate>Tue, 14 Jun 2022 06:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220614_268/1655184667505THNiL_JPEG/56320510208137964_621291217.jpg?type=f200" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Florence + The Machine - Dance Fever (LIMITED EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6791670547</link>
@@ -104,7 +112,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220610_64/1654851040941kGhSY_JPEG/55986875775523737_183326854.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - Chungking Express 중경삼림 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Soundtrack - 중경삼림 Express [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6780882482</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6780882482</guid>
             <pubDate>Fri, 10 Jun 2022 10:02:23 GMT</pubDate>
@@ -112,7 +120,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220610_125/1654850466419JoXIC_JPEG/55986294243749091_354758907.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인페이스 Inphase - The Fractal (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[인페이즈 Inphase - The Fractal (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6780838423</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6780838423</guid>
             <pubDate>Fri, 10 Jun 2022 10:02:23 GMT</pubDate>
@@ -320,12 +328,13 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220602_52/1654176658171K4rTd_JPEG/55312491983071914_1631522102.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[John Lennon - Plastic Ono Band - The Ultimate Mixes (Gate-Fold 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6749604441</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6749604441</guid>
-            <pubDate>Thu, 02 Jun 2022 13:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[75,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_128/1654175952158ejXpu_JPEG/55311785977702265_1173680749.jpg?type=f200" length="0" type="image/jpg"/>
+            <title><![CDATA[Post Malone
+														Twelve Carat Toothache (DELUXE) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
+            <pubDate>Tue, 14 Jun 2022 06:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002675_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콜드 (Colde)
@@ -389,15 +398,6 @@
             <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000521_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Chung King Express (重慶森林) [중경삼림] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000520_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kendrick Lamar
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005220_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Twelve Carat Toothache (DELUXE) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
+            <pubDate>Tue, 14 Jun 2022 06:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[Post Malone]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002675_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[생일을 축하해 (SINGLE) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1311&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1311&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=AOST&amp;code=520&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Jun 2022 10:02:47 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000520_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Fractal (모바일 향뮤직 ─ 예약 음반)]]></title>
