@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:04:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,15 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220603_11/16542357690703hTNp_JPEG/55371602887627641_611970633.jpg?type=f200" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성훈 (브라운 아이드 소울)
+														1집 - Cronicle [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</guid>
+            <pubDate>Wed, 15 Jun 2022 07:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Post Malone
 														Twelve Carat Toothache (DELUXE) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
@@ -389,15 +398,6 @@
             <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
             <content:encoded><![CDATA[40,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000901_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														동사서독 (ASHES OF TIME) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=521&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=521&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Jun 2022 10:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000521_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kendrick Lamar
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005220_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1집 - Cronicle (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8805&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8805&amp;album_mode=music</guid>
+            <pubDate>Wed, 15 Jun 2022 07:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[성훈 (브라운 아이드 소울)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Twelve Carat Toothache (DELUXE) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=AOST&amp;code=521&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Jun 2022 10:02:47 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000521_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Chung King Express (重慶森林) [중경삼림] (모바일 향뮤직 ─ 예약 음반)]]></title>
