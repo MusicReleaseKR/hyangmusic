@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해파
+														죽은 척하기 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</guid>
+            <pubDate>Thu, 16 Jun 2022 09:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005296_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김의철
 														노래모음 (180G LP) [2022 REMASTERED] [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 13 Jun 2022 09:03:30 GMT</pubDate>
             <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005295_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														엄마의 노래 (MOTHER SONG) [180G LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=895&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=895&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Jun 2022 08:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000895_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
