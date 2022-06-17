@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002675_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콜드 (Colde)
-														생일을 축하해 (SINGLE) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1311&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1311&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Jun 2022 10:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001311_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[홀로씨티 (Holocity)
 														영화처럼 (EP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5295&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Mon, 13 Jun 2022 09:03:30 GMT</pubDate>
             <content:encoded><![CDATA[10,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005295_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joan Baez
+														Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Jun 2022 08:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
