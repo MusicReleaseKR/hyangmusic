@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인페이즈 (Inphase)
+														The Fractal]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5294&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5294&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Jun 2022 07:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005294_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														동사서독 (ASHES OF TIME)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=521&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=521&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Jun 2022 07:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000521_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Chung King Express (重慶森林) [중경삼림]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Jun 2022 07:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000520_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														엄마의 노래 (MOTHER SONG) [180G LP]]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Thu, 09 Jun 2022 05:07:22 GMT</pubDate>
             <content:encoded><![CDATA[59,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001787_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김시호
-														18평방자 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5292&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5292&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Jun 2022 05:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005292_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Varios Artists
-														패닉버튼 디깅플레이트 Vol 5 - Rhythm & Blues (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=232&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=232&amp;album_mode=music</guid>
-            <pubDate>Fri, 03 Jun 2022 09:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[37,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000232_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Varios Artists
-														서울의 밤과 낮 [180G BLACK & CLEAR COLOURED LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=388&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=388&amp;album_mode=music</guid>
-            <pubDate>Fri, 03 Jun 2022 09:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000388_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
