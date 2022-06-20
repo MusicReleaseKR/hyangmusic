@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 03:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜드 (Colde)
+														생일을 축하해 (SINGLE)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1311&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1311&amp;album_mode=music</guid>
+            <pubDate>Mon, 20 Jun 2022 04:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001311_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀로씨티 (Holocity)
+														영화처럼 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5295&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5295&amp;album_mode=music</guid>
+            <pubDate>Mon, 20 Jun 2022 04:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005295_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Queen
 														The Platinum Collection (180G COLOURED 6LP) [BOX SET]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 16 Jun 2022 08:08:25 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000902_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar
-														Mr.Morale & The Big Steppers]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=5091&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Jun 2022 03:05:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-005091_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라
-														4집 - 꽃 (180G WHITE COLOURED Gate-Fold LP) [1인 1매 주문]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8183&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8183&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Jun 2022 00:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008183_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
