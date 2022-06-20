@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왑띠
+														Jordan Wants To Play (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5297&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5297&amp;album_mode=music</guid>
+            <pubDate>Mon, 20 Jun 2022 09:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005297_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해파
 														죽은 척하기 [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 17 Jun 2022 08:08:01 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chuck Mangione
-														Feels So Good (180G TRANSPARENT RED COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
-            <pubDate>Mon, 20 Jun 2022 02:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/FUSI/FUSI-006750_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
