@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방의경
+														내노래 모음 (140G PINK COLOURED LP) [재발매] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1180&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1180&amp;album_mode=music</guid>
+            <pubDate>Mon, 20 Jun 2022 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001180_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방의경
+														내노래 모음 (LP) [재발매] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</guid>
+            <pubDate>Mon, 20 Jun 2022 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001179_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왑띠
 														Jordan Wants To Play (EP) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 15 Jun 2022 07:02:49 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone
-														Twelve Carat Toothache (DELUXE) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Jun 2022 06:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002675_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joan Baez
-														Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Jun 2022 08:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
