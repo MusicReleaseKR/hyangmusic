@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 12:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 13:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백예린
+														백예린 - 물고기 (CD & KEYRING) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</guid>
+            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[56,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008808_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														물고기 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</guid>
+            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008807_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노르웨이 숲
+														4집 - 나의 밤, 너의 밤 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5298&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5298&amp;album_mode=music</guid>
+            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005298_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이즈 (Heize)
+														Undo [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</guid>
+            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008806_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버스커 버스커 (Busker Busker)
+														1집 & 1집 마무리 합본 (10TH ANNIVERSARY Uhq-CD EDITION) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</guid>
+            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001303_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방의경
 														내노래 모음 (140G PINK COLOURED LP) [재발매] [예약판매]]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Mon, 20 Jun 2022 09:03:34 GMT</pubDate>
             <content:encoded><![CDATA[11,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005297_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파
-														죽은 척하기 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</guid>
-            <pubDate>Thu, 16 Jun 2022 09:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005296_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김의철
-														노래모음 (180G LP) [2022 REMASTERED] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1178&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1178&amp;album_mode=music</guid>
-            <pubDate>Thu, 16 Jun 2022 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001178_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영소
-														Utopia [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2567&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2567&amp;album_mode=music</guid>
-            <pubDate>Thu, 16 Jun 2022 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002567_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</guid>
-            <pubDate>Thu, 16 Jun 2022 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[72,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001794_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성훈 (브라운 아이드 소울)
-														1집 - Cronicle [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</guid>
-            <pubDate>Wed, 15 Jun 2022 07:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
