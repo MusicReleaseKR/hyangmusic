@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 00:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왑띠
+														Jordan Wants To Play (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5297&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5297&amp;album_mode=music</guid>
+            <pubDate>Sat, 25 Jun 2022 03:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005297_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왑띠
+														남 보여주기 좀 더 부끄러운 노래]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5247&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5247&amp;album_mode=music</guid>
+            <pubDate>Sat, 25 Jun 2022 03:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[11,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005247_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김의철
 														노래모음 (180G LP) [2022 REMASTERED]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 17 Jun 2022 07:02:35 GMT</pubDate>
             <content:encoded><![CDATA[29,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000521_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Chung King Express (重慶森林) [중경삼림]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=520&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Jun 2022 07:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000520_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														엄마의 노래 (MOTHER SONG) [180G LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=895&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=895&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Jun 2022 06:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000895_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
