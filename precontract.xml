@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자전거 탄 풍경
+														1집 - 자전거 탄 풍경 (180G LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Jun 2022 10:04:58 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박소은
 														재활용 [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[22,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008806_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버스커 버스커 (Busker Busker)
-														1집 & 1집 마무리 합본 (10TH ANNIVERSARY Uhq-CD EDITION) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001303_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
