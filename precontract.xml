@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,13 +71,13 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001179_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해파
-														죽은 척하기 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5296&amp;album_mode=music</guid>
-            <pubDate>Sat, 25 Jun 2022 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005296_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Soundtrack
+														스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Jun 2022 05:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[72,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001794_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
