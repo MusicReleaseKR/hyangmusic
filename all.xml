@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 10:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 11:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,7 +413,7 @@
 														1집 - 자전거 탄 풍경 (180G LP) [예약판매] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 10:05:07 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:04:58 GMT</pubDate>
             <content:encoded><![CDATA[40,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
         </item>
@@ -643,7 +643,7 @@
             <title><![CDATA[1집 - 자전거 탄 풍경 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8809&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8809&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 10:05:29 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:05:17 GMT</pubDate>
             <content:encoded><![CDATA[자전거 탄 풍경]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
         </item>
