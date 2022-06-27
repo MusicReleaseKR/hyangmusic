@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 06:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 07:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001180_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방의경
-														내노래 모음 (LP) [재발매] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</guid>
-            <pubDate>Mon, 20 Jun 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001179_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Soundtrack
 														스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP] [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Mon, 27 Jun 2022 05:21:16 GMT</pubDate>
             <content:encoded><![CDATA[72,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001794_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joan Baez
+														Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Jun 2022 07:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006440_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
