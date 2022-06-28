@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 11:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 12:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio - Romance [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850896487</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850896487</guid>
+            <pubDate>Tue, 28 Jun 2022 12:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_137/1656414601566R9LlI_JPEG/57550381288307510_704421065.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Muna - Muna (OLIVE GREEN COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6850762102</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 12:09:45 GMT</pubDate>
             <content:encoded><![CDATA[54,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_73/1655290724708GfvQ5_JPEG/56426622725454768_994165519.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green - The Latin Bit (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6801110309</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6801110309</guid>
-            <pubDate>Wed, 15 Jun 2022 11:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_270/1655290476768jJxyq_JPEG/56426375472189128_1415234974.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기하와 얼굴들
