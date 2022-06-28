@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 12:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 13:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio - Best Of Best - Memories Eddie Higgins [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6850959499</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6850959499</guid>
+            <pubDate>Tue, 28 Jun 2022 13:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220628_7/1656418220272cSOdQ_JPEG/57554048098277909_331893439.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eddie Higgins Trio - Romance [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6850896487</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 12:09:45 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220615_239/165529110113834hFb_JPEG/56426999850761158_407142583.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duke Ellington, Coleman Hawkins - Duke Ellington Meets Coleman Hawkins [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6801120396</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6801120396</guid>
-            <pubDate>Wed, 15 Jun 2022 12:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220615_73/1655290724708GfvQ5_JPEG/56426622725454768_994165519.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기하와 얼굴들
