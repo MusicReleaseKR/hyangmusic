@@ -4,7 +4,7 @@
         <title>모바일 향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 00:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,7 +24,7 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Twelve Carat Toothache (DELUXE)]]></title>
+            <title><![CDATA[Twelve Carat Toothache (DELUXE) [초도한정 포스터 증정]]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
             <pubDate>Mon, 27 Jun 2022 05:21:47 GMT</pubDate>
