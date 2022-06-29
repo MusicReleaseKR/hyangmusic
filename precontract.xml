@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목인
+														4집 - 저장된 풍경 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5302&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5302&amp;album_mode=music</guid>
+            <pubDate>Wed, 29 Jun 2022 09:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005302_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장기하와 얼굴들
 														Mono (재발매) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[22,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008807_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노르웨이 숲
-														4집 - 나의 밤, 너의 밤 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5298&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5298&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005298_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
