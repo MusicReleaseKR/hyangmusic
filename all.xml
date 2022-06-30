@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김다미 Dami Kim - Timepass (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6858904001</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6858904001</guid>
+            <pubDate>Thu, 30 Jun 2022 09:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_148/16565778255844OO9C_JPEG/57713605296176030_1558758607.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙실버 Craxilver - Make A Dash (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6858871529</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6858871529</guid>
+            <pubDate>Thu, 30 Jun 2022 09:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220630_55/1656577283591vXi5G_JPEG/57713063310602197_418572846.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불싸조 - 한(국힙)합 (카세트 테이프) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6854823356</link>
@@ -312,20 +328,13 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220621_217/16558175642583IEQP_JPEG/56953459781295844_682712379.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이무진 - Room Vol 1 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6808266440</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6808266440</guid>
-            <pubDate>Fri, 17 Jun 2022 07:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220617_69/165544903607153xFl_JPEG/56584924782621441_1663941427.jpeg?type=f140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파 - 죽은 척하기 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6805016740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6805016740</guid>
-            <pubDate>Thu, 16 Jun 2022 09:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220616_130/1655367521229veCfw_JPEG/56503409935470893_1898650451.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[김다미 (Dami Kim)
+														Timepass [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Jun 2022 09:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -389,15 +398,6 @@
             <pubDate>Mon, 27 Jun 2022 09:02:52 GMT</pubDate>
             <content:encoded><![CDATA[22,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
-														백예린 - 물고기 (CD & KEYRING) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[56,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008808_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방의경
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002567_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Timepass (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Jun 2022 09:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[김다미 (Dami Kim)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Top Gun Maverick (탑 건 매버릭) [포스터 증정] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WOST&amp;code=5835&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WOST&amp;code=5835&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8808&amp;album_mode=music</guid>
             <pubDate>Tue, 21 Jun 2022 13:33:05 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008808_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[물고기 (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -620,14 +628,6 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
             <pubDate>Fri, 24 Jun 2022 02:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[9집 - Goodbye, Grief (180G COLOURED 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
-            <pubDate>Sat, 25 Jun 2022 03:00:47 GMT</pubDate>
             <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
