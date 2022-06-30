@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														Top Gun Maverick (탑 건 매버릭) [포스터 증정] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5835&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5835&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Jun 2022 08:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[14,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005835_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목인
 														4집 - 저장된 풍경 [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
             <content:encoded><![CDATA[56,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008808_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
-														물고기 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</guid>
-            <pubDate>Tue, 21 Jun 2022 13:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008807_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
