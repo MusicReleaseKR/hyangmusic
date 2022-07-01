@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤이즈 (Heize)
+														Undo]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</guid>
+            <pubDate>Fri, 01 Jul 2022 09:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008806_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방의경
 														내노래 모음 (140G PINK COLOURED LP) [재발매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 27 Jun 2022 05:21:25 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영소
-														Utopia]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2567&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2567&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 05:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002567_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
