@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 06:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 07:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성현 Huh - 926 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6873758885</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6873758885</guid>
+            <pubDate>Mon, 04 Jul 2022 07:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220704_231/1656916254592rqb1f_JPEG/58052034308434033_531061594.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 송해 1927 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6873605040</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 09:03:26 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_122/1655712726634Le1v9_JPEG/56848571892178194_1309900800.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 - 1집 도화선 (140G ORANGE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818170228</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818170228</guid>
-            <pubDate>Mon, 20 Jun 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
