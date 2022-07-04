@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 송해 1927 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6873605040</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6873605040</guid>
+            <pubDate>Mon, 04 Jul 2022 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220704_52/1656913065304ds9lX_JPEG/58048911024590197_1150243510.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌리 Billlie & 윤종신 - track by YOON: 팥빙수 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6873520953</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 08:12:27 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220620_250/1655712314307JjBc9_JPEG/56848160015877409_1019136266.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패티스 Pattys - No Food No Life (45RPM 140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6818160047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6818160047</guid>
-            <pubDate>Mon, 20 Jun 2022 08:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220620_158/1655712028323n6dsN_JPEG/56847873892560091_1330672238.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김다미 (Dami Kim)
