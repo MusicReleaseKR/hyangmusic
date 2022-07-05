@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콧 (Cott)
+														Twist [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</guid>
+            <pubDate>Tue, 05 Jul 2022 07:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박정웅
 														방울방울 (EP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 27 Jun 2022 09:02:52 GMT</pubDate>
             <content:encoded><![CDATA[15,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래지콰이 (Clazziquai)
-														Mucho Punk (RED COLOURED 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5299&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5299&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 09:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005299_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
