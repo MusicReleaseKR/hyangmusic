@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Le Orme
+														Uomo Di Pezza (180G COLOURED LP) [LIMITED EDITION]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6753&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=PROR&amp;code=6753&amp;album_mode=music</guid>
+            <pubDate>Tue, 05 Jul 2022 08:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[35,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006753_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최안순
+														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
+            <pubDate>Tue, 05 Jul 2022 08:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김제형
 														1집 - 사치 (LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 28 Jun 2022 05:18:25 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001310_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진
-														Room Vol. 1]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8810&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8810&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 10:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008810_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자전거 탄 풍경
-														1집 - 자전거 탄 풍경 (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 10:05:07 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
