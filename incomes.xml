@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김제형
+														1집 - 사치 (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5303&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5303&amp;album_mode=music</guid>
+            <pubDate>Tue, 05 Jul 2022 06:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[35,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005303_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유익종
+														Best Album (180G COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8811&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8811&amp;album_mode=music</guid>
+            <pubDate>Tue, 05 Jul 2022 06:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[32,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008811_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤이즈 (Heize)
 														Undo]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 27 Jun 2022 10:05:07 GMT</pubDate>
             <content:encoded><![CDATA[40,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone
-														Twelve Carat Toothache (DELUXE) [초도한정 포스터 증정]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2675&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 05:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002675_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성훈 (브라운 아이드 소울)
-														1집 - Cronicle]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8805&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 05:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008805_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
