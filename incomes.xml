@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Honne
+														Let's Just Say The World Ended A Week From Now What Would You Do? (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1824&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1824&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[30,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001824_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Honne
+														Let's Just Say The World Ended A Week From Now What Would You Do? (CRYSTAL CLEAR COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1823&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1823&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[32,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001823_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손성제
+														비의 비가 (ELEGY OF RAIN) [LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2568&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2568&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[35,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002568_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 (Jaurim)
+														Happy 25th Jaurim]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1304&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1304&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001304_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목인
 														4집 - 저장된 풍경]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Tue, 05 Jul 2022 06:12:25 GMT</pubDate>
             <content:encoded><![CDATA[35,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005303_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유익종
-														Best Album (180G COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8811&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8811&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 06:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[32,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008811_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이즈 (Heize)
-														Undo]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8806&amp;album_mode=music</guid>
-            <pubDate>Fri, 01 Jul 2022 09:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008806_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방의경
-														내노래 모음 (140G PINK COLOURED LP) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1180&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1180&amp;album_mode=music</guid>
-            <pubDate>Tue, 28 Jun 2022 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001180_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방의경
-														내노래 모음 (LP) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1179&amp;album_mode=music</guid>
-            <pubDate>Tue, 28 Jun 2022 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001179_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
