@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목인
+														4집 - 저장된 풍경]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5302&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5302&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 06:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005302_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Le Orme
 														Uomo Di Pezza (180G COLOURED LP) [LIMITED EDITION]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 28 Jun 2022 05:18:25 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001179_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 / 까데호
-														당신께 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1310&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1310&amp;album_mode=music</guid>
-            <pubDate>Tue, 28 Jun 2022 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001310_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
