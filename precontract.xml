@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김동률
+														1집 - The Shadow Of Forgetfulness (180G LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8814&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8814&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008814_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터보 (Turbo)
+														1집 - 280 Km/h Speed (180G RED COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[46,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008813_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터보 (Turbo)
+														2집 - New Sensation (180G PURPLE & YELLOW COLOURED 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8812&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8812&amp;album_mode=music</guid>
+            <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[66,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008812_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콧 (Cott)
 														Twist [예약판매]]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Tue, 28 Jun 2022 07:02:25 GMT</pubDate>
             <content:encoded><![CDATA[17,800]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005301_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자전거 탄 풍경
-														1집 - 자전거 탄 풍경 (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8809&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 10:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008809_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소은
-														재활용 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 09:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[15,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래지콰이 (Clazziquai)
-														Mucho Punk (RED COLOURED 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5299&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5299&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005299_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
