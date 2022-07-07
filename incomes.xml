@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박소은
+														재활용]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</guid>
+            <pubDate>Thu, 07 Jul 2022 06:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[17,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005300_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Honne
 														Let's Just Say The World Ended A Week From Now What Would You Do? (LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 05 Jul 2022 08:08:22 GMT</pubDate>
             <content:encoded><![CDATA[40,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김제형
-														1집 - 사치 (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5303&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5303&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 06:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[35,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005303_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
