@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Muse
+														Will Of The People [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 06:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[16,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003940_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김호중
+														클래식 2집 - Panorama [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 06:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오렌지 팡팡 보이즈
 														Meraki [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 05 Jul 2022 06:12:15 GMT</pubDate>
             <content:encoded><![CDATA[9,700]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미 (Dami Kim)
-														Timepass [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
-            <pubDate>Thu, 30 Jun 2022 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[13,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Top Gun Maverick (탑 건 매버릭) [포스터 증정] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5835&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5835&amp;album_mode=music</guid>
-            <pubDate>Thu, 30 Jun 2022 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[14,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005835_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
