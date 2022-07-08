@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 03:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005835_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장기하와 얼굴들
+														Mono (재발매) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5301&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5301&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 04:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005301_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박소은
 														재활용 (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Tue, 05 Jul 2022 08:08:22 GMT</pubDate>
             <content:encoded><![CDATA[35,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006753_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최안순
-														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 08:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Meraki (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -534,14 +534,6 @@
             <pubDate>Thu, 30 Jun 2022 07:02:46 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005835_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mono (재발매) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5301&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5301&amp;album_mode=music</guid>
-            <pubDate>Tue, 28 Jun 2022 07:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[장기하와 얼굴들]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[1집 - 자전거 탄 풍경 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -629,6 +621,14 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1793&amp;album_mode=music</guid>
             <pubDate>Tue, 24 May 2022 02:50:56 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식 2집 - Panorama (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 04:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[김호중]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
