@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 10:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 11:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sia - This Is Acting [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6892588949</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6892588949</guid>
+            <pubDate>Fri, 08 Jul 2022 11:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_12/1657275991308VsaGy_JPEG/58411887033887529_298053213.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 갯마을 차차차 (180G CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6891940064</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 11:02:16 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220629_186/16565004322624oXW6_JPEG/57636320975506767_1973652248.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio - Bewitched & Dear Old Stockholm (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6854786094</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6854786094</guid>
-            <pubDate>Wed, 29 Jun 2022 11:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_204/1656500053862CqMj9_JPEG/57635942565593132_534784448.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
