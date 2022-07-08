@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상
+														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[37,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효린
+														Ice (3RD MINI ALBUM) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008815_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Muse
 														Will Of The People [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
             <content:encoded><![CDATA[66,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008812_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콧 (Cott)
-														Twist [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 07:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정웅
-														방울방울 (EP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 06:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[9,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005304_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

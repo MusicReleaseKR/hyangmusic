@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Muse - Will Of The People (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6891576186</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6891576186</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220708_113/1657260428169u8v36_JPEG/58396270883892413_68369979.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Smashing Pumpkins - Mellon Collie And The Infinite Sadness (REMASTERED) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6888587131</link>
@@ -320,12 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220629_28/1656498859745otWdq_JPEG/57634748452772296_859017980.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Evans & Jim Hall - Undercurrent (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6854743184</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6854743184</guid>
-            <pubDate>Wed, 29 Jun 2022 11:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_195/1656498342374mk8hL_JPEG/57634176187317250_13145166.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[하현상
+														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[37,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효린
+														Ice (3RD MINI ALBUM) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008815_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Muse
@@ -380,24 +398,6 @@
             <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
             <content:encoded><![CDATA[66,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008812_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콧 (Cott)
-														Twist [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 07:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정웅
-														방울방울 (EP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</guid>
-            <pubDate>Tue, 05 Jul 2022 06:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[9,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005304_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기하와 얼굴들
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/PROR/PROR-006753_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[하현상]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ice (3RD MINI ALBUM) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8815&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8815&amp;album_mode=music</guid>
+            <pubDate>Fri, 08 Jul 2022 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[효린]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008815_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Will Of The People (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5305&amp;album_mode=music</guid>
             <pubDate>Tue, 05 Jul 2022 07:02:39 GMT</pubDate>
             <content:encoded><![CDATA[콧 (Cott)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[방울방울 (EP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5304&amp;album_mode=music</guid>
             <pubDate>Tue, 05 Jul 2022 06:12:35 GMT</pubDate>
             <content:encoded><![CDATA[박정웅]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005304_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Timepass (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -613,22 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Jun 2022 11:02:38 GMT</pubDate>
             <content:encoded><![CDATA[Chuck Mangione]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Soulbysel Compilation 01 (180G 반투명 블루컬러 LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=901&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=901&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Jun 2022 10:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[소울바이서울 (Soulbysel)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[사계 (四季) [2LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8804&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
-            <pubDate>Wed, 08 Jun 2022 06:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[신용재]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
