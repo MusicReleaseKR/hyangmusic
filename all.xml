@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[VA - 내일은 국민가수 라이브 앨범 (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[VA - DJ LP BAR vol1 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6903250250</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6903250250</guid>
+            <pubDate>Mon, 11 Jul 2022 10:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220711_265/1657532220187ULvq5_JPEG/58668062857155588_629554090.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 내일은 국민가수 라이브 앨범 (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6903130097</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/6903130097</guid>
             <pubDate>Mon, 11 Jul 2022 09:12:26 GMT</pubDate>
@@ -320,12 +328,13 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220704_231/1656916254592rqb1f_JPEG/58052034308434033_531061594.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 송해 1927 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6873605040</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6873605040</guid>
-            <pubDate>Mon, 04 Jul 2022 06:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220704_52/1656913065304ds9lX_JPEG/58048911024590197_1150243510.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[Various Artists
+														내일은 국민가수 라이브 앨범 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=896&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=896&amp;album_mode=music</guid>
+            <pubDate>Mon, 11 Jul 2022 10:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[17,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000896_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순
@@ -389,15 +398,6 @@
             <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008814_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터보 (Turbo)
-														1집 - 280 Km/h Speed (180G RED COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[46,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008813_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001304_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내일은 국민가수 라이브 앨범 (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOVA&amp;code=896&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOVA&amp;code=896&amp;album_mode=music</guid>
+            <pubDate>Mon, 11 Jul 2022 10:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000896_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[4집 - 하루 (2022 REMASTERED) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8816&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8816&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8813&amp;album_mode=music</guid>
             <pubDate>Wed, 06 Jul 2022 09:03:10 GMT</pubDate>
             <content:encoded><![CDATA[터보 (Turbo)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008813_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2집 - New Sensation (180G PURPLE & YELLOW COLOURED 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -621,14 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Jun 2022 11:02:38 GMT</pubDate>
             <content:encoded><![CDATA[Joan Baez]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Feels So Good (180G TRANSPARENT RED COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=FUSI&amp;code=6750&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=FUSI&amp;code=6750&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Jun 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[Chuck Mangione]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>

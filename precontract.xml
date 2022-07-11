@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists
+														내일은 국민가수 라이브 앨범 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=896&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=896&amp;album_mode=music</guid>
+            <pubDate>Mon, 11 Jul 2022 10:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[17,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000896_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장필순
 														4집 - 하루 (2022 REMASTERED) [LP] [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008814_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터보 (Turbo)
-														1집 - 280 Km/h Speed (180G RED COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8813&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 09:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[46,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008813_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
