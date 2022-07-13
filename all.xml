@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rust - The Brazilian Songbook (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6911293755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6911293755</guid>
+            <pubDate>Wed, 13 Jul 2022 06:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220713_219/1657690196012K1DOK_JPEG/58826023839882129_172655479.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리 Ali - 청춘기 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6911263490</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6911263490</guid>
+            <pubDate>Wed, 13 Jul 2022 06:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220713_118/1657689636535zK2lF_JPEG/58825482254588468_773923419.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅베이비드라이버 Big Baby Driver - Leftover & Remainder [WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6911243095</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6911243095</guid>
+            <pubDate>Wed, 13 Jul 2022 06:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220713_168/1657689226325yqejH_JPEG/58825072042109866_258386841.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금 - 6집 Here We Go [MQA CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6907686455</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 08:08:03 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_286/1657005789001FsRh7_JPEG/58141684729839842_803977339.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IBIS - IBIS (180G YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6877961863</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6877961863</guid>
-            <pubDate>Tue, 05 Jul 2022 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220602_15/1654177259318zlLHe_JPEG/55313105025365591_1248846790.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콧 Cott - Twist (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6877918523</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6877918523</guid>
-            <pubDate>Tue, 05 Jul 2022 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_201/1657004521182wFQrX_JPEG/58140416910663935_1344291502.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정웅 - 방울방울 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6877902918</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6877902918</guid>
-            <pubDate>Tue, 05 Jul 2022 07:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[9,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_39/16570040889097DSig_JPEG/58139984646418876_119410021.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛과 소금
