@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rust
+														The Brazilian Songbook (180G Gate-Fold 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</guid>
+            <pubDate>Wed, 13 Jul 2022 07:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[54,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002874_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빅베이비드라이버 (Big Baby Driver)
+														Leftover & Remainder (WHITE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5309&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5309&amp;album_mode=music</guid>
+            <pubDate>Wed, 13 Jul 2022 07:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[43,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005309_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금
 														6집 - Here We Go (MQA CD) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
             <content:encoded><![CDATA[14,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008815_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muse
-														Will Of The People [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
-            <pubDate>Fri, 08 Jul 2022 06:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[16,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003940_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중
-														클래식 2집 - Panorama [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
-            <pubDate>Fri, 08 Jul 2022 06:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[16,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
