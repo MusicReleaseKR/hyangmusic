@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ultima Grace
+														Ultima Grace [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</guid>
+            <pubDate>Thu, 14 Jul 2022 07:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001936_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김종국
+														3집 - This Is Me (180G COLOURED 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8818&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8818&amp;album_mode=music</guid>
+            <pubDate>Thu, 14 Jul 2022 07:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[60,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008818_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rust
 														The Brazilian Songbook (180G Gate-Fold 2LP) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 11 Jul 2022 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[39,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008816_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현상
-														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
-            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[37,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효린
-														Ice (3RD MINI ALBUM) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8815&amp;album_mode=music</guid>
-            <pubDate>Fri, 08 Jul 2022 07:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[14,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008815_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
