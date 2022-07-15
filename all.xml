@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 12:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 13:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시나위
+														7집 - Psychedelos (180G 2LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1296&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1296&amp;album_mode=music</guid>
+            <pubDate>Fri, 15 Jul 2022 13:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[56,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001296_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soundtrack
 														Top Gun Maverick (탑 건 매버릭) [포스터 증정] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5835&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
             <content:encoded><![CDATA[35,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002568_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 (Jaurim)
-														Happy 25th Jaurim (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1304&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001304_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Øf KingdØm And CrØwn (모바일 향뮤직 ─ 예약 음반)]]></title>
