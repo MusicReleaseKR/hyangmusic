@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 12:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 13:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있지 (Itzy)
+														Checkmate (한정반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8820&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8820&amp;album_mode=music</guid>
+            <pubDate>Mon, 18 Jul 2022 13:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008820_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백예린
 														물고기]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 07 Jul 2022 06:08:19 GMT</pubDate>
             <content:encoded><![CDATA[17,300 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honne
-														Let's Just Say The World Ended A Week From Now What Would You Do? (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1824&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1824&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[30,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001824_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
