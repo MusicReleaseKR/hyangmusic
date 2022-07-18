@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G TRANSPARENT NATURAL COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930001875</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930001875</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_7/1658124343411GA109_JPEG/59260239148503598_462809068.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6929994130</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6929994130</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_285/1658123858472aqU1o_JPEG/59259754208677388_55267316.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오르내림 OLNL - 청소년관람불가 (180G RED COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6919660195</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 05 Jul 2022 09:12:28 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220705_130/1657010614082K2npY_JPEG/58146456790242150_1867388092.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 1 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878204457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878204457</guid>
-            <pubDate>Tue, 05 Jul 2022 09:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_124/1657010303312HV3OL_JPEG/58146146027321768_310201184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Triade - 1998: La Storia Di Sabazio (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878161471</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878161471</guid>
-            <pubDate>Tue, 05 Jul 2022 09:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_142/1657009132836V5rx9_JPEG/58144912559723804_16502097.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

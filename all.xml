@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G TRANSPARENT NATURAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930001875</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930001875</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_7/1658124343411GA109_JPEG/59260239148503598_462809068.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심수봉 - 골든앨범 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6929994130</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6929994130</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_285/1658123858472aqU1o_JPEG/59259754208677388_55267316.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오르내림 OLNL - 청소년관람불가 (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6919660195</link>
@@ -312,22 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220705_130/1657010614082K2npY_JPEG/58146456790242150_1867388092.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김추자 - 스테레오힛트 앨범 Vol 1 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878204457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878204457</guid>
-            <pubDate>Tue, 05 Jul 2022 09:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_124/1657010303312HV3OL_JPEG/58146146027321768_310201184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Triade - 1998: La Storia Di Sabazio (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6878161471</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6878161471</guid>
-            <pubDate>Tue, 05 Jul 2022 09:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220705_142/1657009132836V5rx9_JPEG/58144912559723804_16502097.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Machine Head
 														Øf KingdØm And CrØwn [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=2572&amp;album_mode=music</link>
@@ -400,6 +400,24 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[백예린
+														물고기 (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8807&amp;album_mode=music</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008807_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														백예린 - 물고기 (CD & KEYRING) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8808&amp;album_mode=music</guid>
+            <pubDate>Mon, 18 Jul 2022 06:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[56,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008808_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시나위
 														7집 - Psychedelos (180G 2LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1296&amp;album_mode=music</link>
@@ -452,24 +470,6 @@
             <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
             <content:encoded><![CDATA[30,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001824_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honne
-														Let's Just Say The World Ended A Week From Now What Would You Do? (CRYSTAL CLEAR COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1823&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=SYNP&amp;code=1823&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[32,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/SYNP/SYNP-001823_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손성제
-														비의 비가 (ELEGY OF RAIN) [LP] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2568&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2568&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 08:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[35,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002568_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Øf KingdØm And CrØwn (모바일 향뮤직 ─ 예약 음반)]]></title>
