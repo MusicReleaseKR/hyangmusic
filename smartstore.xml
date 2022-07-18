@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930165425</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930165425</guid>
+            <pubDate>Mon, 18 Jul 2022 08:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_20/1658127693349iDV7r_JPEG/59263528179649956_453986396.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하덕규 - 신곡집 (180G TRANSPARENT YELLOW COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6930094154</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Jul 2022 06:08:00 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_293/165717307193105TB7_JPEG/58308899750013185_1180616553.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 - 1집 The Shadow Of Forgetfulness (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6882833306</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6882833306</guid>
-            <pubDate>Wed, 06 Jul 2022 09:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220706_160/1657095778011OzJQQ_JPEG/58231605833227784_28124543.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
