@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오렌지 팡팡 보이즈
+														Meraki]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5306&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5306&amp;album_mode=music</guid>
+            <pubDate>Tue, 19 Jul 2022 07:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005306_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버스커 버스커 (Busker Busker)
 														1집 & 1집 마무리 합본 (10TH ANNIVERSARY UHQ-CD EDITION)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 08 Jul 2022 09:12:07 GMT</pubDate>
             <content:encoded><![CDATA[54,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기하와 얼굴들
-														Mono (재발매)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5301&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5301&amp;album_mode=music</guid>
-            <pubDate>Fri, 08 Jul 2022 04:27:52 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005301_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
