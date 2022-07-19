@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필 - 16집 Eternally (140G SILVER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933914345</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933914345</guid>
+            <pubDate>Tue, 19 Jul 2022 06:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_31/1658210447840TPqOx_JPEG/59346231558118957_1075554322.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 나의 해방일지 (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6931502936</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Jul 2022 07:02:32 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220707_105/16571752955430f5eU_JPEG/58311191272236235_178644420.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지 팡팡 보이즈 - Meraki (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6887814986</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6887814986</guid>
-            <pubDate>Thu, 07 Jul 2022 06:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220707_293/165717307193105TB7_JPEG/58308899750013185_1180616553.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
