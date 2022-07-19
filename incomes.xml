@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 04:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버스커 버스커 (Busker Busker)
+														1집 & 1집 마무리 합본 (10TH ANNIVERSARY UHQ-CD EDITION)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</guid>
+            <pubDate>Tue, 19 Jul 2022 04:57:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001303_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있지 (Itzy)
 														Checkmate (한정반)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 08 Jul 2022 04:27:52 GMT</pubDate>
             <content:encoded><![CDATA[17,800]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005301_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박소은
-														재활용]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5300&amp;album_mode=music</guid>
-            <pubDate>Thu, 07 Jul 2022 06:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[17,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005300_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
