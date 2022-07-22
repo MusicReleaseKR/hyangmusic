@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														동사서독 (ASHES OF TIME) [LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</guid>
+            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Chung King Express (重慶森林) [중경삼림] (LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</guid>
+            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라
+														Best (CLEAR COLOURED 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</guid>
+            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008823_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라
+														Best (CLEAR PINK COLOURED 2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</guid>
+            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008822_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시인과 촌장
 														짝사랑 / 님타령 (150G CRYSTAL COLOURED LP) [재발매] [예약판매]]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Thu, 14 Jul 2022 09:02:47 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/BLDE/BLDE-002944_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arch Enemy
-														Deceivers [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2943&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2943&amp;album_mode=music</guid>
-            <pubDate>Thu, 14 Jul 2022 09:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/BLDE/BLDE-002943_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultima Grace
-														Ultima Grace [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</guid>
-            <pubDate>Thu, 14 Jul 2022 07:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001936_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rust
-														The Brazilian Songbook (180G Gate-Fold 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</guid>
-            <pubDate>Wed, 13 Jul 2022 07:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[54,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002874_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금
-														6집 - Here We Go (MQA CD) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</guid>
-            <pubDate>Thu, 21 Jul 2022 04:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
