@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 11:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 12:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김새녘 - 새빛깔 [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6957882754</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6957882754</guid>
+            <pubDate>Mon, 25 Jul 2022 12:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,300]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220725_243/1658748689645a7Y52_JPEG/59884535366388950_265852626.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소녀시대 - 7집 FOREVER 1 (스폐샬반) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6957730852</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Jul 2022 07:01:57 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220718_283/1658124843106QnuBD_JPEG/59260738829665435_913481857.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허림 (해와 달) - 나뭇잎 대한팔경 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6930026450</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6930026450</guid>
-            <pubDate>Mon, 18 Jul 2022 07:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220718_113/1658125326504qJveu_JPEG/59261222240600551_1454731982.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
