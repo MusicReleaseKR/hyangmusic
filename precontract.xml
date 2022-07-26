@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 10:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 11:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴 블랑코 (Paul Blanco)
+														Lake Of Fire 1&2 (2CD) [친필사인CD증정] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</guid>
+            <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001308_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부활
+														5집 불의 발견 (LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
+            <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[49,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 (Twice)
+														Between 1&2 (11ST MINI ALBUM) [4종 중 랜덤발송]  [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
+            <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/images/big_img.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김새녘
 														새빛깔 [예약판매]]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
             <content:encoded><![CDATA[80,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Chung King Express (重慶森林) [중경삼림] (LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라
-														Best (CLEAR COLOURED 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008823_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라
-														Best (CLEAR PINK COLOURED 2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008822_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
