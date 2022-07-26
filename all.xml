@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 12:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브로큰티쓰 Brokenteeth - 당신의 사랑이 늘 행복하기를 / Spring (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6962428771</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6962428771</guid>
+            <pubDate>Tue, 26 Jul 2022 13:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220726_26/1658838587097wuFqS_JPEG/59974432807191586_888895693.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴 블랑코 Paul Blanco - Lake of Fire 1&2 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6961851149</link>
@@ -320,12 +328,13 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220719_265/1658211968890Xd1x1_JPEG/59347857604113410_1074288146.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조용필 - 17집 Ambition (140G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6933946077</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6933946077</guid>
-            <pubDate>Tue, 19 Jul 2022 07:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220719_127/1658211092064zEH3P_JPEG/59346875781545032_1696616168.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[브로큰티쓰 (Brokenteeth)
+														당신의 사랑이 늘 행복하기를 / Spring [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</guid>
+            <pubDate>Tue, 26 Jul 2022 13:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[8,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴 블랑코 (Paul Blanco)
@@ -389,15 +398,6 @@
             <pubDate>Mon, 25 Jul 2022 11:04:43 GMT</pubDate>
             <content:encoded><![CDATA[62,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														동사서독 (ASHES OF TIME) [LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김목경
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001303_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신의 사랑이 늘 행복하기를 / Spring (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5313&amp;album_mode=music</guid>
+            <pubDate>Tue, 26 Jul 2022 13:32:38 GMT</pubDate>
+            <content:encoded><![CDATA[브로큰티쓰 (Brokenteeth)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lake Of Fire 1&2 (2CD) [친필사인CD증정] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1308&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1308&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=AOST&amp;code=523&amp;album_mode=music</guid>
             <pubDate>Fri, 22 Jul 2022 10:03:46 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Chung King Express (重慶森林) [중경삼림] (LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -621,14 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8817&amp;album_mode=music</guid>
             <pubDate>Tue, 12 Jul 2022 10:05:13 GMT</pubDate>
             <content:encoded><![CDATA[빛과 소금]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Phoenix Live (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5308&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5308&amp;album_mode=music</guid>
-            <pubDate>Mon, 11 Jul 2022 11:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[크라티아 (Cratia)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
