@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</guid>
             <pubDate>Tue, 26 Jul 2022 13:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[8,000 원]]></content:encoded>
+            <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
