@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 00:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,30 +78,6 @@
             <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_282/16587445954221XyOz_JPEG/59880379129690024_736242757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Red (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957711181</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957711181</guid>
-            <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_114/1658744430759my142_JPEG/59880214477184477_1545883186.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - White (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957708301</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957708301</guid>
-            <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_209/1658744361299Epzco_JPEG/59880145016892270_549628237.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Black (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957704020</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957704020</guid>
-            <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_284/1658740741398TAiGU_JPEG/59876584113873350_1549711755.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[있지 Itzy - Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -328,6 +304,30 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220719_265/1658211968890Xd1x1_JPEG/59347857604113410_1074288146.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조용필 - 17집 Ambition (140G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933946077</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933946077</guid>
+            <pubDate>Wed, 27 Jul 2022 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_127/1658211092064zEH3P_JPEG/59346875781545032_1696616168.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용필 - 16집 Eternally (140G SILVER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6933914345</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6933914345</guid>
+            <pubDate>Wed, 27 Jul 2022 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220719_31/1658210447840TPqOx_JPEG/59346231558118957_1075554322.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amy Winehouse - Live At Glastonbury 2007 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6930165425</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6930165425</guid>
+            <pubDate>Wed, 27 Jul 2022 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220718_20/1658127693349iDV7r_JPEG/59263528179649956_453986396.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[브로큰티쓰 (Brokenteeth)
 														당신의 사랑이 늘 행복하기를 / Spring [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김다미 (Dami Kim)
+														Timepass (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
+            <pubDate>Wed, 27 Jul 2022 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김목경
 														4집 - Play The Blues (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1306&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Tue, 19 Jul 2022 07:02:15 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005306_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버스커 버스커 (Busker Busker)
-														1집 & 1집 마무리 합본 (10TH ANNIVERSARY UHQ-CD EDITION) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1303&amp;album_mode=music</guid>
-            <pubDate>Tue, 19 Jul 2022 04:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[22,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001303_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신의 사랑이 늘 행복하기를 / Spring (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -632,6 +632,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[Timepass (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
+            <pubDate>Wed, 27 Jul 2022 03:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[김다미 (Dami Kim)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[4집 - Play The Blues (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1306&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1306&amp;album_mode=music</guid>
@@ -701,7 +709,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8820&amp;album_mode=music</guid>
             <pubDate>Mon, 18 Jul 2022 14:14:52 GMT</pubDate>
             <content:encoded><![CDATA[있지 (Itzy)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008820_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[물고기 (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -781,14 +789,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2568&amp;album_mode=music</guid>
             <pubDate>Wed, 06 Jul 2022 13:44:40 GMT</pubDate>
             <content:encoded><![CDATA[손성제]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy 25th Jaurim (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1304&amp;album_mode=music</guid>
-            <pubDate>Wed, 06 Jul 2022 13:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
