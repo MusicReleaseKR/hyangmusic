@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 03:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이소라
+														Best (CLEAR COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</guid>
+            <pubDate>Wed, 27 Jul 2022 04:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008823_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라
+														Best (CLEAR PINK COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</guid>
+            <pubDate>Wed, 27 Jul 2022 04:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[63,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008822_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김다미 (Dami Kim)
 														Timepass]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 21 Jul 2022 04:30:39 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005309_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정웅
-														방울방울 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5304&amp;album_mode=music</guid>
-            <pubDate>Wed, 20 Jul 2022 04:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[9,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005304_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지 팡팡 보이즈
-														Meraki]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5306&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5306&amp;album_mode=music</guid>
-            <pubDate>Tue, 19 Jul 2022 07:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005306_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
