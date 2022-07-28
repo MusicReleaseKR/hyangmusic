@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필 - 스테레오 힛트앨범 (2022 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6970797355</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6970797355</guid>
+            <pubDate>Thu, 28 Jul 2022 10:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220728_137/1659002173029UrvEI_JPEG/60138007858314931_1327788566.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집 - 아침이 올때까지 (2022 REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6970614870</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6970614870</guid>
+            <pubDate>Thu, 28 Jul 2022 10:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220728_79/1658990876387UnMQz_JPEG/60126772124927409_792080973.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골든차일드 Golden Child - AURA (6TH MINI ALBUM) [PHOTOBOOK VER] - 한정반 CD]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6970023159</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 19 Jul 2022 10:03:49 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220719_236/1658221161243kuW8b_JPEG/59356940948016347_386124141.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City - Am Fenster - Die Hits [COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6934367568</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6934367568</guid>
-            <pubDate>Tue, 19 Jul 2022 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220719_187/1658220465980cFjNb_JPEG/59356300816415768_1580391099.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello - Familia [GREEN COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6934354300</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6934354300</guid>
-            <pubDate>Tue, 19 Jul 2022 09:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220719_197/1658220174777pVXCL_JPEG/59356009606313631_2047976928.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

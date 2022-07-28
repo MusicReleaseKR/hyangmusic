@@ -4,17 +4,26 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[검정치마 (The Black Skirts)
-														3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (1인 1매 주문가능) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
-            <pubDate>Thu, 28 Jul 2022 09:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조용필
+														스테레오 힛트앨범 (2022 REMASTERED) [180G LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1182&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1182&amp;album_mode=music</guid>
+            <pubDate>Thu, 28 Jul 2022 10:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001182_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집
+														아침이 올때까지 (2022 REMASTERED) [180G LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</guid>
+            <pubDate>Thu, 28 Jul 2022 10:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브로큰티쓰 (Brokenteeth)
@@ -69,15 +78,6 @@
             <pubDate>Mon, 25 Jul 2022 12:11:32 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
-            <pubDate>Mon, 25 Jul 2022 12:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
