@@ -4,18 +4,9 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[검정치마 (The Black Skirts)
-														3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (1인 1매 주문가능) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
-            <pubDate>Thu, 28 Jul 2022 07:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[브로큰티쓰 (Brokenteeth)
 														당신의 사랑이 늘 행복하기를 / Spring [예약판매]]]></title>
@@ -78,6 +69,15 @@
             <pubDate>Mon, 25 Jul 2022 12:11:32 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
+            <pubDate>Thu, 28 Jul 2022 08:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[62,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
