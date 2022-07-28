@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 21:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 22:02:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금
+														6집 - Here We Go (MQA CD)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</guid>
+            <pubDate>Thu, 28 Jul 2022 22:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이소라
 														Best (CLEAR COLOURED 2LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 21 Jul 2022 05:21:27 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빅베이비드라이버 (Big Baby Driver)
-														Leftover & Remainder (WHITE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5309&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5309&amp;album_mode=music</guid>
-            <pubDate>Thu, 21 Jul 2022 04:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005309_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
