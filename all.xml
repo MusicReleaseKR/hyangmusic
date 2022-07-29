@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,15 +364,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검정치마 (The Black Skirts)
-														3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 07:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[브로큰티쓰 (Brokenteeth)
 														당신의 사랑이 늘 행복하기를 / Spring [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
@@ -398,6 +389,15 @@
             <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
             <content:encoded><![CDATA[49,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 (Twice)
+														Between 1&2 (11ST MINI ALBUM) [4종 중 랜덤발송]  [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 08:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[16,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -504,14 +504,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 07:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[검정치마 (The Black Skirts)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당신의 사랑이 늘 행복하기를 / Spring (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5313&amp;album_mode=music</guid>
@@ -541,7 +533,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
             <pubDate>Tue, 26 Jul 2022 11:02:31 GMT</pubDate>
             <content:encoded><![CDATA[트와이스 (Twice)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4집 - 손 (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -629,6 +621,14 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=1936&amp;album_mode=music</guid>
             <pubDate>Thu, 14 Jul 2022 07:04:32 GMT</pubDate>
             <content:encoded><![CDATA[Ultima Grace]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[The Brazilian Songbook (180G Gate-Fold 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WWMU&amp;code=2874&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WWMU&amp;code=2874&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 08:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[Rust]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
