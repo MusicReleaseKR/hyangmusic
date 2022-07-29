@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 11:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세이수미 (Say Sue Me)
+														Big Summer Night (EP) [140G ORANGE TRANSPARENT COLOURED REMASTERED LP] (MP3 DOWN CODE) [2019 영국 레코..]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4719&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4719&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 11:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004719_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세이수미 (Say Sue Me)
+														2집 - Where We Were Together (TRANSPARENT YELLOW COLOURED LP) [MP3 DOWN CODE] (LIMITED EDITION)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4434&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4434&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 11:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[35,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004434_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														그 해 우리는 (LP) [2차분]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 03:10:57 GMT</pubDate>
             <content:encoded><![CDATA[13,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경
-														4집 - Play The Blues (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1306&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1306&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 13:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[37,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001306_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정선
-														Best (180G AUDIOPHILE LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1305&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1305&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 13:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[35,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001305_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
