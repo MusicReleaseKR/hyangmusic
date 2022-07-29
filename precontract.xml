@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저스디스 (Justhis)
+														Do Not Go Gentle Into That Good Night II (SOLID WHITE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=904&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=904&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 06:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[튜너스 (The Tunas)
 														바다가 우릴 비추면 [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
             <content:encoded><![CDATA[16,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름
-														4집 - 손 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 03:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

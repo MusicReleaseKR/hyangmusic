@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														그 해 우리는 (LP) [2차분]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1797&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1797&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 06:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001797_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김새녘
 														새빛깔]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 22 Jul 2022 13:28:11 GMT</pubDate>
             <content:encoded><![CDATA[35,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민규 (스위트피)
-														우주대청소 (7INCH SINGLE LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5310&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5310&amp;album_mode=music</guid>
-            <pubDate>Fri, 22 Jul 2022 13:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[19,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005310_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
