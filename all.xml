@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 00:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -391,8 +391,17 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생각의 여름
+														4집 - 손 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 03:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김새녘
-														새빛깔 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+														새빛깔 (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5312&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5312&amp;album_mode=music</guid>
             <pubDate>Mon, 25 Jul 2022 12:11:32 GMT</pubDate>
@@ -463,15 +472,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005310_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콧 (Cott)
-														Twist (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5305&amp;album_mode=music</guid>
-            <pubDate>Thu, 21 Jul 2022 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005305_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바다가 우릴 비추면 (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5315&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5315&amp;album_mode=music</guid>
@@ -528,20 +528,12 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새빛깔 (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5312&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5312&amp;album_mode=music</guid>
-            <pubDate>Mon, 25 Jul 2022 12:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[김새녘]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005312_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[4집 - 손 (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
             <pubDate>Mon, 25 Jul 2022 12:11:52 GMT</pubDate>
             <content:encoded><![CDATA[생각의 여름]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -632,6 +624,22 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[Phoenix Live (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5308&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5308&amp;album_mode=music</guid>
+            <pubDate>Fri, 29 Jul 2022 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[크라티아 (Cratia)]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[새빛깔 (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5312&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5312&amp;album_mode=music</guid>
+            <pubDate>Mon, 25 Jul 2022 12:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005312_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[6집 - Here We Go (MQA CD) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8817&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8817&amp;album_mode=music</guid>
@@ -701,7 +709,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5309&amp;album_mode=music</guid>
             <pubDate>Thu, 21 Jul 2022 05:21:49 GMT</pubDate>
             <content:encoded><![CDATA[빅베이비드라이버 (Big Baby Driver)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005309_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[방울방울 (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -781,14 +789,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5301&amp;album_mode=music</guid>
             <pubDate>Fri, 08 Jul 2022 06:09:05 GMT</pubDate>
             <content:encoded><![CDATA[장기하와 얼굴들]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용 (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5300&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Jun 2022 09:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[박소은]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
