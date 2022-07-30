@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 00:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 03:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														동사서독 (ASHES OF TIME) [LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=523&amp;album_mode=music</guid>
+            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Chung King Express (重慶森林) [중경삼림] (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</guid>
+            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시인과 촌장
+														짝사랑 / 님타령 (150G CRYSTAL COLOURED LP) [재발매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8821&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8821&amp;album_mode=music</guid>
+            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008821_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세이수미 (Say Sue Me)
 														Big Summer Night (EP) [140G ORANGE TRANSPARENT COLOURED REMASTERED LP] (MP3 DOWN CODE) [2019 영국 레코..]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Thu, 28 Jul 2022 22:01:43 GMT</pubDate>
             <content:encoded><![CDATA[21,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라
-														Best (CLEAR COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8823&amp;album_mode=music</guid>
-            <pubDate>Wed, 27 Jul 2022 04:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008823_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라
-														Best (CLEAR PINK COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8822&amp;album_mode=music</guid>
-            <pubDate>Wed, 27 Jul 2022 04:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008822_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미 (Dami Kim)
-														Timepass]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4712&amp;album_mode=music</guid>
-            <pubDate>Wed, 27 Jul 2022 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004712_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
