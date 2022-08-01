@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 12:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조정아 - 김죽파류 가야금산조 (LP) [재발매]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6986634832</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6986634832</guid>
+            <pubDate>Mon, 01 Aug 2022 12:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_61/1659352068036Nhcyv_JPEG/60487895858075303_1095479028.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조규희 Lucio Kyuhee Cho - Alte Liebe (옛사랑) [150G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6986602043</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Jul 2022 09:02:42 GMT</pubDate>
             <content:encoded><![CDATA[63,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220722_175/1658479660216yKi7r_JPEG/59615555949365226_1259404390.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울라이츠 - 도시의 밤 (45RPM 180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6945017810</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6945017810</guid>
-            <pubDate>Fri, 22 Jul 2022 09:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220722_196/1658478963312AjGrA_JPEG/59614806023055269_1399723992.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
