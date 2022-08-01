@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyonce - Renaissance (CD) [포스터 삽입] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/6985890073</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/6985890073</guid>
+            <pubDate>Mon, 01 Aug 2022 08:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659337894460q16rQ_JPEG/60473722284249477_1128112419.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kanye West - Donda (4LP) [Limited Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6985799863</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Jul 2022 08:08:44 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220721_81/1658388261663fDttR_JPEG/59524107382816259_1914036497.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지코 Zico - Grown Ass Kid [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6939023119</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6939023119</guid>
-            <pubDate>Wed, 20 Jul 2022 12:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220720_270/16583173395048OyHP_JPEG/59453185213955782_129878906.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저스디스 (Justhis)
