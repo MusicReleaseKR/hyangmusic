@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안치환
+														2집 - 노래 한마당 (150G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8825&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8825&amp;album_mode=music</guid>
+            <pubDate>Mon, 01 Aug 2022 10:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[36,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008825_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyonce
+														Renaissance (포스터 삽입)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2676&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2676&amp;album_mode=music</guid>
+            <pubDate>Mon, 01 Aug 2022 10:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002676_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														동사서독 (ASHES OF TIME) [LP]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 29 Jul 2022 06:07:53 GMT</pubDate>
             <content:encoded><![CDATA[47,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001797_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘
-														새빛깔]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5312&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5312&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 03:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005312_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금
-														6집 - Here We Go (MQA CD)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8817&amp;album_mode=music</guid>
-            <pubDate>Thu, 28 Jul 2022 22:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008817_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
