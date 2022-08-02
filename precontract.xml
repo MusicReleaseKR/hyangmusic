@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위 아더 나잇 (We Are The Night)
+														미래를 향해, 피해, 사랑해 (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</guid>
+            <pubDate>Tue, 02 Aug 2022 08:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005316_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저스디스 (Justhis)
 														Do Not Go Gentle Into That Good Night II (SOLID WHITE COLOURED LP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 29 Jul 2022 08:08:12 GMT</pubDate>
             <content:encoded><![CDATA[16,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름
-														4집 - 손 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
-            <pubDate>Tue, 02 Aug 2022 03:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
