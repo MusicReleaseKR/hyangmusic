@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 04:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -346,7 +346,7 @@
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[튜너스 (The Tunas)
+            <title><![CDATA[더 튜나스 (The Tunas)
 														바다가 우릴 비추면 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5315&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5315&amp;album_mode=music</guid>
@@ -492,7 +492,7 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5315&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5315&amp;album_mode=music</guid>
             <pubDate>Thu, 28 Jul 2022 12:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[튜너스 (The Tunas)]]></content:encoded>
+            <content:encoded><![CDATA[더 튜나스 (The Tunas)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005315_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
