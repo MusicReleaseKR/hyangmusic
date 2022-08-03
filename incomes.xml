@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 03:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 04:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각의 여름
+														4집 - 손]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
+            <pubDate>Wed, 03 Aug 2022 04:53:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브로큰티쓰 (Brokenteeth)
 														당신의 사랑이 늘 행복하기를 / Spring]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 29 Jul 2022 11:02:38 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004719_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이수미 (Say Sue Me)
-														2집 - Where We Were Together (TRANSPARENT YELLOW COLOURED LP) [MP3 DOWN CODE] (LIMITED EDITION)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4434&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4434&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004434_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
