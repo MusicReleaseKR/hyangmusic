@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 00:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필
+														스테레오 힛트앨범 (2022 REMASTERED) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1182&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1182&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Aug 2022 02:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001182_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집
+														아침이 올때까지 (2022 REMASTERED) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Aug 2022 02:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[41,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생각의 여름
 														4집 - 손]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
             <content:encoded><![CDATA[80,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시인과 촌장
-														짝사랑 / 님타령 (150G CRYSTAL COLOURED LP) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8821&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8821&amp;album_mode=music</guid>
-            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008821_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이수미 (Say Sue Me)
-														Big Summer Night (EP) [140G ORANGE TRANSPARENT COLOURED REMASTERED LP] (MP3 DOWN CODE) [2019 영국 레코..]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4719&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4719&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004719_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
