@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 09:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 10:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김장훈 - BEST (CLEAR WINE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000434901</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000434901</guid>
+            <pubDate>Thu, 04 Aug 2022 10:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_206/1659606337566qFMeF_JPEG/60742117267631499_177882531.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonny Clark - Dial S For Sonny [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000363586</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000363586</guid>
+            <pubDate>Thu, 04 Aug 2022 10:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_250/1659605319354QhoKG_JPEG/60741162061271992_1308983095.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald And Louis Armstrong - Ella & Louis (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000347768</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000347768</guid>
+            <pubDate>Thu, 04 Aug 2022 10:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_148/1659604525821SCtY6_JPEG/60740368536170974_1188711725.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald - Ella at the Hollywood Bowl - The Irving Berlin Songbook [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000268873</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000268873</guid>
+            <pubDate>Thu, 04 Aug 2022 10:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[33,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_160/1659594541872KmsGa_JPEG/60730437608935477_285933424.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans - You Must Believe In Spring [45RPM 180g 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/6999735446</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 25 Jul 2022 13:31:00 GMT</pubDate>
             <content:encoded><![CDATA[33,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_215/1658750961744zBGxy_JPEG/59886850450143604_1933649331.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김새녘 - 새빛깔 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957882754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957882754</guid>
-            <pubDate>Mon, 25 Jul 2022 12:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[17,300]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_243/1658748689645a7Y52_JPEG/59884535366388950_265852626.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 - 7집 FOREVER 1 (스폐샬반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957730852</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957730852</guid>
-            <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_282/16587445954221XyOz_JPEG/59880379129690024_736242757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 - 7집 FOREVER 1 (일반반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957724470</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957724470</guid>
-            <pubDate>Mon, 25 Jul 2022 11:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_282/16587445954221XyOz_JPEG/59880379129690024_736242757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 NewJeans - 1st EP New Jeans Bag - Red (한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957711181</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957711181</guid>
-            <pubDate>Thu, 28 Jul 2022 08:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_114/1658744430759my142_JPEG/59880214477184477_1545883186.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위 아더 나잇 (We Are The Night)
