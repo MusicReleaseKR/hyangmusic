@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 10:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kevin Morby - This Is A Photograph (GOLD NUGGET COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000569096</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000569096</guid>
+            <pubDate>Thu, 04 Aug 2022 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[33,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_107/16596092212525riSj_JPEG/60745055068711510_218003623.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana - Nevermind (180G 9LP) [Super Deluxe] (30th Anniversary)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7000522976</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7000522976</guid>
+            <pubDate>Thu, 04 Aug 2022 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[256,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220804_213/1659608122714a4XmM_JPEG/60743957552396004_183188481.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장훈 - BEST (CLEAR WINE COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7000434901</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 25 Jul 2022 13:31:00 GMT</pubDate>
             <content:encoded><![CDATA[36,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220725_252/1658755374548cjdXP_JPEG/59891270285231652_333539975.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting - The Bridge (180G Super Deluxe LP) [LIMITED EDITION]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957995284</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957995284</guid>
-            <pubDate>Mon, 25 Jul 2022 13:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[60,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_289/1658752388277KLBFA_JPEG/59888284014749733_788969241.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sting - The Bridge (Limited Super Deluxe Edition) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6957980955</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6957980955</guid>
-            <pubDate>Mon, 25 Jul 2022 13:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220725_215/1658750961744zBGxy_JPEG/59886850450143604_1933649331.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
