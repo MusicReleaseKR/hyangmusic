@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 03:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 04:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김호중
+														클래식 2집 - Panorama (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Aug 2022 04:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조용필
 														스테레오 힛트앨범 (2022 REMASTERED) [180G LP] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1182&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
             <content:encoded><![CDATA[80,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Chung King Express (重慶森林) [중경삼림] (LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</guid>
-            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미래를 향해, 피해, 사랑해 (EP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -624,11 +624,11 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[클래식 2집 - Panorama (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 02:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[김호중]]></content:encoded>
+            <title><![CDATA[1집 - The Shadow Of Forgetfulness (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8814&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8814&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Aug 2022 04:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[김동률]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>

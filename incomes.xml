@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 03:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 04:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김호중
+														클래식 2집 - Panorama]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
+            <pubDate>Thu, 04 Aug 2022 04:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조용필
 														스테레오 힛트앨범 (2022 REMASTERED) [180G LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
             <content:encoded><![CDATA[80,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000523_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Chung King Express (重慶森林) [중경삼림] (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=522&amp;album_mode=music</guid>
-            <pubDate>Sat, 30 Jul 2022 03:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000522_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
