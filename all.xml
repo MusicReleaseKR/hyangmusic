@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Mr.Morale & The Big Steppers (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7004690428</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7004690428</guid>
+            <pubDate>Fri, 05 Aug 2022 08:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220607_231/1654594124067RnlQt_JPEG/55730012771912525_1146521829.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[템페스트 TEMPEST - 미니앨범 1집 It’s ME, It's WE [CLEAR RED COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7004484233</link>
@@ -320,12 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220728_137/1659002173029UrvEI_JPEG/60138007858314931_1327788566.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양병집 - 아침이 올때까지 (2022 REMASTERED) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6970614870</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6970614870</guid>
-            <pubDate>Thu, 28 Jul 2022 10:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220728_79/1658990876387UnMQz_JPEG/60126772124927409_792080973.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[템페스트 (Tempest)
+														It’s Me, It's We (140G CLEAR RED COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 08:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽푸른하늘
+														Nearly (T)here (140G WHITE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5317&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5317&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 08:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위 아더 나잇 (We Are The Night)
@@ -380,24 +398,6 @@
             <pubDate>Thu, 04 Aug 2022 02:55:36 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 02:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[62,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														나의 해방일지 (2LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 07:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드링킹소년소녀합창단 (Drinking Boys And Girls Choir)
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[It’s Me, It's We (140G CLEAR RED COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8827&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8827&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 08:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[템페스트 (Tempest)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nearly (T)here (140G WHITE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5317&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5317&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 08:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[곽푸른하늘]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미래를 향해, 피해, 사랑해 (EP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5316&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5316&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
             <pubDate>Mon, 25 Jul 2022 11:05:03 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
             <pubDate>Mon, 18 Jul 2022 08:09:50 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Øf KingdØm And CrØwn (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -613,22 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8812&amp;album_mode=music</guid>
             <pubDate>Thu, 04 Aug 2022 07:03:29 GMT</pubDate>
             <content:encoded><![CDATA[터보 (Turbo)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1794&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 08:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Diamonds & Rust (180G TRANSPARENT ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLFO&amp;code=6440&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLFO&amp;code=6440&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 04:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[Joan Baez]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
