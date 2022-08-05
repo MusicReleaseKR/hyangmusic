@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드링킹소년소녀합창단 (Drinking Boys And Girls Choir)
+														Marriage License]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5212&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5212&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005212_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세이수미 (Say Sue Me)
+														2집 - Where We Were Together]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5017&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5017&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 06:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005017_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rust
 														The Brazilian Songbook (180G Gate-Fold 2LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 02 Aug 2022 03:24:38 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안치환
-														2집 - 노래 한마당 (150G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8825&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8825&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 Aug 2022 10:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[36,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008825_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyonce
-														Renaissance (포스터 삽입)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2676&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2676&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 Aug 2022 10:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002676_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
