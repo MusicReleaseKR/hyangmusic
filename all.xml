@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,24 @@
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한희정
+														Notate (180G CLEAR COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5319&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5319&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 10:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[43,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005319_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우소연
+														못난이 (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5318&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5318&amp;album_mode=music</guid>
+            <pubDate>Fri, 05 Aug 2022 10:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[42,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005318_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드링킹소년소녀합창단 (Drinking Boys And Girls Choir)
 														Marriage License (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5212&amp;album_mode=music</link>
@@ -452,24 +470,6 @@
             <pubDate>Thu, 28 Jul 2022 10:03:00 GMT</pubDate>
             <content:encoded><![CDATA[41,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름
-														4집 - 손 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
-            <pubDate>Wed, 03 Aug 2022 04:53:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로큰티쓰 (Brokenteeth)
-														당신의 사랑이 늘 행복하기를 / Spring (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5313&amp;album_mode=music</guid>
-            <pubDate>Tue, 26 Jul 2022 13:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[10,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005313_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[It’s Me, It's We (140G CLEAR RED COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
