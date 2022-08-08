@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이홉 J-Hope - Jack In The Box (LP) {LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7016227149</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7016227149</guid>
+            <pubDate>Mon, 08 Aug 2022 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220808_269/1659944635364yWvm7_JPEG/61080481069214000_1557114269.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바니걸스 - 검은 장미 / 엄마의 노래 (180G MAGENTA COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7016168236</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7016168236</guid>
+            <pubDate>Mon, 08 Aug 2022 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220808_285/1659943342617I6fuY_JPEG/61079177453663380_1319945959.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[템페스트 Tempest - 블루팝스 (180G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7016142032</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7016142032</guid>
+            <pubDate>Mon, 08 Aug 2022 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[45,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220808_218/16599430321276R0KB_JPEG/61078866962915368_1699984951.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pol6 - Hidden (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7016118581</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7016118581</guid>
+            <pubDate>Mon, 08 Aug 2022 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[8,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220808_196/1659942522882GkymO_JPEG/61078357716204035_2141337077.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Porridge Radio - Waterslide, Diving Board, Ladder To The Sk [FOREST GREEN COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7005742836</link>
@@ -294,38 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 07:12:51 GMT</pubDate>
             <content:encoded><![CDATA[36,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_207/1659335576397az5pv_JPEG/60471422117346219_1884466714.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Giant Steps [180G BLUE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985723186</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985723186</guid>
-            <pubDate>Mon, 01 Aug 2022 07:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_297/1659335147739bn2UX_JPEG/60470993446646682_442092141.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cannonball Adderley - Somethin' Else [180g LP & CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985704600</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985704600</guid>
-            <pubDate>Mon, 01 Aug 2022 07:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_49/1659334513160gIpeA_JPEG/60470358878516514_1479545685.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이수미 Say Sue Me - 1집 We’ve Sobered Up (140G BLUE COLOURED REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985543708</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985543708</guid>
-            <pubDate>Mon, 01 Aug 2022 06:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_240/16593315499000QFy2_JPEG/60467333599779662_161270409.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세이수미 Say Sue Me - Big Summer Night (EP) [140G ORANGE TRANSPARENT COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6985499277</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6985499277</guid>
-            <pubDate>Mon, 01 Aug 2022 06:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[32,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_76/1659331163208V6tuo_JPEG/60466946907590356_1970968759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[템페스트 (Tempest)
