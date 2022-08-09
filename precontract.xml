@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칠보장
+														칼 세이건 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5320&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5320&amp;album_mode=music</guid>
+            <pubDate>Tue, 09 Aug 2022 09:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005320_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[템페스트 (Tempest)
 														It’s Me, It's We (140G CLEAR RED COLOURED LP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 04 Aug 2022 02:55:36 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Aug 2022 05:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[62,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

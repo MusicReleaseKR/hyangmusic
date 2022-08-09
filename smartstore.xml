@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칠보장 - 칼 세이건 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7020445388</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7020445388</guid>
+            <pubDate>Tue, 09 Aug 2022 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220809_194/16600327751905YM6q_JPEG/61168610025179185_1319076610.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TOOL - Fear Inoculum [3LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7020366029</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Aug 2022 11:03:48 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220801_241/1659350252209XTAkH_JPEG/60486031935499354_760758823.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Home Alone 나 홀로 집에 [HOLLY GREEN COLOURED LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986526374</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986526374</guid>
-            <pubDate>Mon, 01 Aug 2022 11:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_123/16593489088383fClb_JPEG/60484743651813726_1916523467.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
