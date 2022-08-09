@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴 블랑코 (Paul Blanco)
+														Lake Of Fire 1&2 (2CD) [친필사인CD증정]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</guid>
+            <pubDate>Tue, 09 Aug 2022 05:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001308_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한희정
 														Notate (180G CLEAR COLOURED LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 04 Aug 2022 02:55:44 GMT</pubDate>
             <content:encoded><![CDATA[41,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001182_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양병집
-														아침이 올때까지 (2022 REMASTERED) [180G LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1181&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 02:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[41,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001181_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
