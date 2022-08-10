@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포지션 Position - I Love You (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7024511438</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7024511438</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220810_256/1660110833525F0WRt_JPEG/61246679245719710_1962601745.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안예은 - 섬으로 [140G CLEAR COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7021021128</link>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220801_61/1659352068036Nhcyv_JPEG/60487895858075303_1095479028.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조규희 Lucio Kyuhee Cho - Alte Liebe (옛사랑) [150G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6986602043</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6986602043</guid>
-            <pubDate>Mon, 01 Aug 2022 11:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220801_206/1659351549902HpvHG_JPEG/60487329619862562_1954713846.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어반자카파 (Urban Zakapa)
 														Uz (45RPM 180G CLEAR COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1312&amp;album_mode=music</link>
@@ -391,13 +391,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부활
-														5집 - 불의 발견 (LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
-            <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[49,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[검정치마 (The Black Skirts)
+														3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists
+														20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[있지 (Itzy)
@@ -463,15 +472,6 @@
             <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002874_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김호중
-														클래식 2집 - Panorama (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 04:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Uz (45RPM 180G CLEAR COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1312&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1312&amp;album_mode=music</guid>
@@ -528,12 +528,20 @@
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[검정치마 (The Black Skirts)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5집 - 불의 발견 (LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1307&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
             <pubDate>Tue, 26 Jul 2022 11:02:31 GMT</pubDate>
             <content:encoded><![CDATA[부활]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Between 1&2 (11ST MINI ALBUM) [4종 중 랜덤발송] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -541,14 +549,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
             <pubDate>Tue, 26 Jul 2022 11:02:31 GMT</pubDate>
             <content:encoded><![CDATA[트와이스 (Twice)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
-            <pubDate>Mon, 25 Jul 2022 12:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
@@ -632,6 +632,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
+            <pubDate>Mon, 25 Jul 2022 12:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송] (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8828&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8828&amp;album_mode=music</guid>
@@ -701,7 +709,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1182&amp;album_mode=music</guid>
             <pubDate>Thu, 04 Aug 2022 07:03:41 GMT</pubDate>
             <content:encoded><![CDATA[조용필]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001182_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[아침이 올때까지 (2022 REMASTERED) [180G LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -781,14 +789,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=4434&amp;album_mode=music</guid>
             <pubDate>Fri, 29 Jul 2022 11:03:03 GMT</pubDate>
             <content:encoded><![CDATA[세이수미 (Say Sue Me)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[그 해 우리는 (LP) [2차분] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1797&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1797&amp;album_mode=music</guid>
-            <pubDate>Fri, 29 Jul 2022 06:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

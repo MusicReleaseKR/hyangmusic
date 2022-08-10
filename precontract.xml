@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,13 +71,13 @@
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부활
-														5집 - 불의 발견 (LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
-            <pubDate>Tue, 26 Jul 2022 11:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[49,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[검정치마 (The Black Skirts)
+														3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5314&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists
+														20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
+            <pubDate>Wed, 10 Aug 2022 06:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있지 (Itzy)
 														Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 05 Aug 2022 04:33:53 GMT</pubDate>
             <content:encoded><![CDATA[54,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002874_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중
-														클래식 2집 - Panorama]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4713&amp;album_mode=music</guid>
-            <pubDate>Thu, 04 Aug 2022 04:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004713_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
