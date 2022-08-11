@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안예은
+														섬으로 (140G CLEAR COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8829&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8829&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 05:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008829_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 05 Aug 2022 06:08:42 GMT</pubDate>
             <content:encoded><![CDATA[17,800]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005017_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rust
-														The Brazilian Songbook (180G Gate-Fold 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2874&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 04:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[54,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002874_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
