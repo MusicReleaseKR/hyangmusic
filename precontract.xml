@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Wed, 10 Aug 2022 07:03:02 GMT</pubDate>
             <content:encoded><![CDATA[41,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반자카파 (Urban Zakapa)
-														Uz (45RPM 180G CLEAR COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1312&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1312&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Aug 2022 12:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001312_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칠보장
@@ -78,6 +69,15 @@
             <pubDate>Thu, 11 Aug 2022 05:07:21 GMT</pubDate>
             <content:encoded><![CDATA[49,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 (Twice)
+														Between 1&2 (11ST MINI ALBUM) [4종 중 랜덤발송]  [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 06:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[16,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

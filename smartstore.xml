@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현식 - 4집 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7029359735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7029359735</guid>
+            <pubDate>Thu, 11 Aug 2022 06:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220811_75/166019628360140nzd_JPEG/61332126301648349_989591892.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 Blackpink - BORN PINK (LP) [LIMITED EDITION]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7028791341</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Aug 2022 07:02:24 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220803_291/1659506273448bIdzy_JPEG/60642101265768608_413569246.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위 아더 나잇 We Are The Night - 미래를 향해, 피해, 사랑해 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6990643164</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6990643164</guid>
-            <pubDate>Tue, 02 Aug 2022 08:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220802_130/1659423859659xI38f_JPEG/60559639374416175_375478618.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
