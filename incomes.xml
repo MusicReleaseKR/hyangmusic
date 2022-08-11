@@ -4,9 +4,36 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arch Enemy
+														Deceivers]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2943&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2943&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 08:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLDE/BLDE-002943_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ultima Grace
+														Ultima Grace]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1936&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 08:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001936_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Halo Effect
+														Days Of The Lost]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2944&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2944&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 08:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLDE/BLDE-002944_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생각의 여름
 														4집 - 손]]></title>
@@ -51,33 +78,6 @@
             <pubDate>Wed, 10 Aug 2022 06:09:34 GMT</pubDate>
             <content:encoded><![CDATA[50,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 (Itzy)
-														Checkmate (SPECIAL EDITION) [3종 중 1종 랜덤 발송]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8828&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8828&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Aug 2022 09:04:44 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008828_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴 블랑코 (Paul Blanco)
-														Lake Of Fire 1&2 (2CD) [친필사인CD증정]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1308&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Aug 2022 05:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001308_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한희정
-														Notate (180G CLEAR COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5319&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5319&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 10:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[43,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005319_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
