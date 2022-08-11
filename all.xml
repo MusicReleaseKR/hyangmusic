@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 10:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,15 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220803_43/16595174019967RNVL_JPEG/60653290710186140_657851284.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지다 (Jida)
+														Summer Colours (180G COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 10:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005321_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 (Blackpink)
 														2집 - Born Pink (GRAY Ver.) [BOX SET] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8834&amp;album_mode=music</link>
@@ -389,15 +398,6 @@
             <pubDate>Fri, 05 Aug 2022 08:08:12 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곽푸른하늘
-														Nearly (T)here (140G WHITE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5317&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5317&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 08:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arch Enemy
@@ -472,6 +472,14 @@
             <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Summer Colours (180G COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5321&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5321&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 10:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[지다 (Jida)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005321_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2집 - Born Pink (GRAY Ver.) [BOX SET] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8834&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8834&amp;album_mode=music</guid>
@@ -533,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5317&amp;album_mode=music</guid>
             <pubDate>Fri, 05 Aug 2022 08:08:30 GMT</pubDate>
             <content:encoded><![CDATA[곽푸른하늘]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Do Not Go Gentle Into That Good Night II (SOLID WHITE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -621,14 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8814&amp;album_mode=music</guid>
             <pubDate>Wed, 10 Aug 2022 09:03:24 GMT</pubDate>
             <content:encoded><![CDATA[김동률]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[1집 - 280 Km/h Speed (180G RED COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8813&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8813&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 05:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[터보 (Turbo)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
