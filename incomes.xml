@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각의 여름
+														4집 - 손]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 07:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위 아더 나잇 (We Are The Night)
+														미래를 향해, 피해, 사랑해 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 07:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005316_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어반자카파 (Urban Zakapa)
 														Uz (45RPM 180G CLEAR COLOURED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 05 Aug 2022 10:04:22 GMT</pubDate>
             <content:encoded><![CDATA[43,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005319_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우소연
-														못난이 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5318&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5318&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 10:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[42,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005318_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드링킹소년소녀합창단 (Drinking Boys And Girls Choir)
-														Marriage License]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5212&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5212&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 06:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005212_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

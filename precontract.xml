@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위 아더 나잇 (We Are The Night)
-														미래를 향해, 피해, 사랑해 (EP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</guid>
-            <pubDate>Tue, 02 Aug 2022 08:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005316_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[저스디스 (Justhis)
 														Do Not Go Gentle Into That Good Night II (SOLID WHITE COLOURED LP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=904&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Thu, 11 Aug 2022 06:08:09 GMT</pubDate>
             <content:encoded><![CDATA[16,700 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008824_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
+            <pubDate>Thu, 11 Aug 2022 07:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[62,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
