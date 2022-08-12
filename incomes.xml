@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 00:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 02:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장필순
+														4집 - 하루 (2022 REMASTERED) [LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8816&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8816&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Aug 2022 02:57:18 GMT</pubDate>
+            <content:encoded><![CDATA[39,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008816_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arch Enemy
 														Deceivers]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 11 Aug 2022 05:07:31 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008829_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														20th Anniversary Of The Club Evans (클럽에반스 20주년) [COLOURED LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=389&amp;album_mode=music</guid>
-            <pubDate>Wed, 10 Aug 2022 06:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000389_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
