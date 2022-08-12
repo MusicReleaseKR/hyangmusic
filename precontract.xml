@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 10:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 11:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lauv
+														All 4 Nothing [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Aug 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[25,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002287_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엉클밥 (Uncle Bob)
+														엉클밥 (140G LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</guid>
+            <pubDate>Fri, 12 Aug 2022 11:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005322_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지다 (Jida)
 														Summer Colours (180G COLOURED LP) [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 10 Aug 2022 07:03:02 GMT</pubDate>
             <content:encoded><![CDATA[41,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칠보장
-														칼 세이건 [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5320&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5320&amp;album_mode=music</guid>
-            <pubDate>Tue, 09 Aug 2022 09:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005320_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[템페스트 (Tempest)
-														It’s Me, It's We (140G CLEAR RED COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</guid>
-            <pubDate>Fri, 05 Aug 2022 08:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
