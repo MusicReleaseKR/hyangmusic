@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 09:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 10:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lauv - All 4 Nothing [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7034769799</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7034769799</guid>
+            <pubDate>Fri, 12 Aug 2022 10:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220812_51/16602957049467207L_JPEG/61431484660956851_2101322137.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엉클밥 - 엉클밥 (140G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7034553566</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7034553566</guid>
+            <pubDate>Fri, 12 Aug 2022 10:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220812_140/1660295008340UFxGt_JPEG/61430792054991026_171009417.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지다 JIDA - Summer Colours (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7029849326</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 04 Aug 2022 07:03:03 GMT</pubDate>
             <content:encoded><![CDATA[65,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220804_227/1659594156946VlQUC_JPEG/60730052684525042_339586476.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk - Human After All [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6995767739</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6995767739</guid>
-            <pubDate>Wed, 03 Aug 2022 10:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220803_68/1659518741848uyvXP_JPEG/60654640561105815_1886457238.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk - Daft Club (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/6995744803</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/6995744803</guid>
-            <pubDate>Wed, 03 Aug 2022 10:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220803_43/16595174019967RNVL_JPEG/60653290710186140_657851284.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지다 (Jida)
