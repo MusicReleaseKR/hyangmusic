@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 10:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 11:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Calvin Harris -  Funk Wav Bounces Vol 2 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055498999</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055498999</guid>
+            <pubDate>Wed, 17 Aug 2022 11:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_118/1660732651831EjjYY_JPEG/61868550531383318_2087737476.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alicia Keys - KEYS ll (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055458553</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055458553</guid>
+            <pubDate>Wed, 17 Aug 2022 11:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[23,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_114/1660731313736KscO6_JPEG/61867148566953654_1258498743.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울바이서울 SOULBYSEL - SOULBYSEL Compilation 02 [140G ORANGE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055398838</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055398838</guid>
+            <pubDate>Wed, 17 Aug 2022 11:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_267/16607307981601az8K_JPEG/61866632994991436_1690529719.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시나위 - 4집 Four (180G ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7055358205</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 04 Aug 2022 12:09:41 GMT</pubDate>
             <content:encoded><![CDATA[33,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220804_259/1659612869000PLMxz_JPEG/60748648720420948_235416963.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kate Bollinger - Look at it in the Light [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000677977</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000677977</guid>
-            <pubDate>Thu, 04 Aug 2022 12:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_48/1659612300858Akwqi_JPEG/60748199571266427_1490600575.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Lattimore - Hundreds of Days [ROSE PETAL COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000667979</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000667979</guid>
-            <pubDate>Thu, 04 Aug 2022 12:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_44/1659612014894dglTo_JPEG/60747913607171852_1787856160.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mary Lattimore - At The Dam [WATERFALL COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000656742</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000656742</guid>
-            <pubDate>Thu, 04 Aug 2022 12:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[33,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_124/1659610581822qNwAJ_JPEG/60746409651833743_808225501.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyonce
