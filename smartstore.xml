@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 10:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시나위 - 4집 Four (180G ORANGE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7055358205</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7055358205</guid>
+            <pubDate>Wed, 17 Aug 2022 10:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220817_75/1660730082028w4AUC_JPEG/61865916855051041_1760483477.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyonce - Renaissance (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7051024914</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Aug 2022 12:09:41 GMT</pubDate>
             <content:encoded><![CDATA[33,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220804_124/1659610581822qNwAJ_JPEG/60746409651833743_808225501.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kevin Morby - This Is A Photograph (GOLD NUGGET COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7000569096</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7000569096</guid>
-            <pubDate>Thu, 04 Aug 2022 11:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[33,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220804_107/16596092212525riSj_JPEG/60745055068711510_218003623.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
