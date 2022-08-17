@@ -4,18 +4,9 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 13:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyonce
-														Renaissance (2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2677&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2677&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Aug 2022 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[98,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002677_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[김목인
 														4집 - 저장된 풍경 (LP) [예약판매]]]></title>
@@ -78,6 +69,15 @@
             <pubDate>Thu, 11 Aug 2022 08:08:10 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008832_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 (Blackpink)
+														2집 - Born Pink (LP) [LIMITED EDITION] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8831&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8831&amp;album_mode=music</guid>
+            <pubDate>Wed, 17 Aug 2022 14:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008831_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
