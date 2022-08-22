@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 00:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,24 +44,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005323_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lauv
-														All 4 Nothing [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</guid>
-            <pubDate>Fri, 12 Aug 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉클밥 (Uncle Bob)
-														엉클밥 (140G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</guid>
-            <pubDate>Fri, 12 Aug 2022 11:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005322_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지다 (Jida)
 														Summer Colours (180G COLOURED LP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</link>
@@ -78,6 +60,24 @@
             <pubDate>Thu, 11 Aug 2022 08:08:10 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008834_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 (Blackpink)
+														2집 - Born Pink (BLACK Ver.) [BOX SET] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8833&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8833&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Aug 2022 03:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008833_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 (Blackpink)
+														2집 - Born Pink (GRAY Ver.) [BOX SET] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8832&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8832&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Aug 2022 03:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008832_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

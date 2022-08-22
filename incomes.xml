@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 00:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lauv
+														All 4 Nothing]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2287&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Aug 2022 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[25,700]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002287_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엉클밥 (Uncle Bob)
+														엉클밥 (140G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</guid>
+            <pubDate>Mon, 22 Aug 2022 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005322_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cigarettes After Sex
 														Cigarettes After Sex (CLEAR COLOURED LP) [RE-ISSUE]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 11 Aug 2022 07:03:13 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위 아더 나잇 (We Are The Night)
-														미래를 향해, 피해, 사랑해 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5316&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 07:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005316_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어반자카파 (Urban Zakapa)
-														UZ (45RPM 180G CLEAR COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1312&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1312&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 06:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001312_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
