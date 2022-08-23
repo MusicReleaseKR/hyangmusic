@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리치맨과 그루브나이스 (Richiman And Groove Nice)
+														Memphis Special One Take Live [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 10:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이석 / 임아영
 														두 마음 비둘기 집 (180G LP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 22 Aug 2022 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤명운
-														아침 기다리며, 할머니 부르스 (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1183&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1183&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001183_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
