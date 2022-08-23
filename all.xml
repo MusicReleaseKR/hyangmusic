@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이석 / 임아영 - 두 마음 비둘기 집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077721602</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077721602</guid>
+            <pubDate>Tue, 23 Aug 2022 08:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_113/1661241131552VYvBm_JPEG/62376966374555660_1978402111.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석 / 임아영 - 두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7077716134</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7077716134</guid>
+            <pubDate>Tue, 23 Aug 2022 08:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220823_6/1661240772893SGABn_JPEG/62376607721203526_1411417407.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김아름 - Summer City (140G BLUE CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7077540106</link>
@@ -312,20 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220816_145/1660654627263FNhAx_JPEG/61790515971911389_709494510.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김목인 - 4집 저장된 풍경 [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7050520927</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7050520927</guid>
-            <pubDate>Tue, 16 Aug 2022 11:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220629_19/1656490360966RzCNn_JPEG/57626194393957952_299393905.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[이석 / 임아영
+														두 마음 비둘기 집 (180G LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[허밍 어반 스테레오 Humming Urban Stereo - Gros Calin (180G PEACH COLOURED LP & CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7049446399</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7049446399</guid>
-            <pubDate>Tue, 16 Aug 2022 05:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220816_105/1660645204979lni5r_JPEG/61781032805168625_695207148.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[이석 / 임아영
+														두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김아름
@@ -380,24 +398,6 @@
             <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001183_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목인
-														4집 - 저장된 풍경 (LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5323&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5323&amp;album_mode=music</guid>
-            <pubDate>Tue, 16 Aug 2022 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[38,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005323_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 (Blackpink)
-														2집 - Born Pink (PINK Ver.) [BOX SET] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8834&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8834&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 03:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008834_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지다 (Jida)
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008816_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두 마음 비둘기 집 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 08:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 08:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Summer City (140G BLUE CLEAR COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8835&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8835&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5323&amp;album_mode=music</guid>
             <pubDate>Tue, 16 Aug 2022 13:23:35 GMT</pubDate>
             <content:encoded><![CDATA[김목인]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005323_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2집 - Born Pink (PINK Ver.) [BOX SET] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8834&amp;album_mode=music</guid>
             <pubDate>Thu, 11 Aug 2022 08:08:31 GMT</pubDate>
             <content:encoded><![CDATA[블랙핑크 (Blackpink)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008834_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[2집 - Born Pink (BLACK Ver.) [BOX SET] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -613,22 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
             <pubDate>Tue, 23 Aug 2022 05:11:44 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Øf KingdØm And CrØwn (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CORE&amp;code=2572&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CORE&amp;code=2572&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[Machine Head]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
