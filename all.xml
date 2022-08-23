@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 00:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 03:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,24 +364,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양병집
-														넋두리 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1184&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1184&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[41,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001184_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대환과 김트리오 악단
-														드럼! 드럼! 드럼! 앰프기타 고고 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2569&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2569&amp;album_mode=music</guid>
-            <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[41,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002569_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤명운
 														아침 기다리며, 할머니 부르스 (180G LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1183&amp;album_mode=music</link>
@@ -398,6 +380,42 @@
             <pubDate>Tue, 16 Aug 2022 13:23:19 GMT</pubDate>
             <content:encoded><![CDATA[38,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005323_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지다 (Jida)
+														Summer Colours (180G COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 03:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005321_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 (Blackpink)
+														2집 - Born Pink (PINK Ver.) [BOX SET] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8834&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8834&amp;album_mode=music</guid>
+            <pubDate>Tue, 23 Aug 2022 03:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008834_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김대환과 김트리오 악단
+														드럼! 드럼! 드럼! 앰프기타 고고 (180G LP) [2022 REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2569&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2569&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[41,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002569_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양병집
+														넋두리 (180G LP) [2022 REMASTERED] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1184&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1184&amp;album_mode=music</guid>
+            <pubDate>Thu, 18 Aug 2022 13:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[41,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001184_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lauv
@@ -452,24 +470,6 @@
             <pubDate>Thu, 11 Aug 2022 08:08:20 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001936_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Halo Effect
-														Days Of The Lost (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2944&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=BLDE&amp;code=2944&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 08:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/BLDE/BLDE-002944_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 여름
-														4집 - 손 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5311&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 07:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005311_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
