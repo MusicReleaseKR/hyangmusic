@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 03:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부활
+														5집 - 불의 발견 (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 05:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[49,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칠보장
 														칼 세이건]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 22 Aug 2022 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[25,700]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002287_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉클밥 (Uncle Bob)
-														엉클밥 (140G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5322&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005322_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
