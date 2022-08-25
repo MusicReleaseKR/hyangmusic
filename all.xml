@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 11:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Le Orme - Di Pezza (180G CLEAR RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7087247225</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7087247225</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220825_225/1661422074712K0P6J_JPEG/62557908533505209_1279622969.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Louis Armstrong - A Gift To Pops - The Wonderful World of Louis Armstrong All Stars [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7087202076</link>
@@ -320,12 +328,31 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220819_237/1660895023241oGv23_JPEG/62030802948283740_794253276.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Queen - Greatest Hits I II & III - The Platinum Collection (2011 REMASTERED) [3CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7061441421</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7061441421</guid>
-            <pubDate>Tue, 23 Aug 2022 10:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[26,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220819_289/16608948117319DWeW_JPEG/62030591455992094_492413582.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[두번째달
+														1집 - 두번째달 (140G CLEAR COLOURED 2LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2570&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2570&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002570_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blind Guardian
+														The God Machine (2CD DELUXE EDITION) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001938_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stratovarius
+														Survive [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1937&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1937&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001937_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세하 (Xin Seha)
@@ -371,33 +398,6 @@
             <pubDate>Mon, 22 Aug 2022 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G 3 COLORS SPLATTER LP] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 11:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석찬
-														모닥불 황혼 (180G LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 11:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001186_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석찬
-														모닥불 황혼 (180G GREEN MARBLE SPLATTER COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 08:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Machine Head
@@ -472,6 +472,30 @@
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002569_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1집 - 두번째달 (140G CLEAR COLOURED 2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2570&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KNJM&amp;code=2570&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[두번째달]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002570_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The God Machine (2CD DELUXE EDITION) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=1938&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=1938&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[Blind Guardian]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001938_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Survive (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=1937&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=1937&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 11:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[Stratovarius]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001937_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I Just Can't Control My Feet! (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5325&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5325&amp;album_mode=music</guid>
@@ -517,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
             <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
             <content:encoded><![CDATA[신중현과 퀘션스]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[모닥불 황혼 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -525,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
             <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
             <content:encoded><![CDATA[석찬]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001186_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[모닥불 황혼 (180G GREEN MARBLE SPLATTER COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +557,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1185&amp;album_mode=music</guid>
             <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
             <content:encoded><![CDATA[석찬]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[아침 기다리며, 할머니 부르스 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -605,30 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
             <pubDate>Wed, 24 Aug 2022 05:04:25 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 05:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 08:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[하현상]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Will Of The People (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 08:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[Muse]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
