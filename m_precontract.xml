@@ -4,7 +4,7 @@
         <title>모바일 향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
-            <title><![CDATA[2집 - Born Pink (LP) [LIMITED EDITION]]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8831&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8831&amp;album_mode=music</guid>
-            <pubDate>Thu, 11 Aug 2022 08:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[블랙핑크 (Blackpink)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
             <title><![CDATA[I Love You (180G LP)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8830&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8830&amp;album_mode=music</guid>
@@ -165,6 +157,14 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
             <pubDate>Thu, 25 Aug 2022 05:11:10 GMT</pubDate>
             <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[Øf KingdØm And CrØwn]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CORE&amp;code=2572&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CORE&amp;code=2572&amp;album_mode=music</guid>
+            <pubDate>Thu, 25 Aug 2022 07:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[Machine Head]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
