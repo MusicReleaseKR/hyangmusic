@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허밍 어반 스테레오 (Humming Urban Stereo)
+														Gros Calin (180G WHITE COLOURED LP & CD) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</guid>
+            <pubDate>Mon, 29 Aug 2022 10:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두번째달
 														1집 - 두번째달 (140G CLEAR COLOURED 2LP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 23 Aug 2022 08:09:10 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 11:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
