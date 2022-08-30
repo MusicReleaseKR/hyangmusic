@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 10:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 11:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반 (Baan) - To Telescope (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7110149775</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7110149775</guid>
+            <pubDate>Tue, 30 Aug 2022 11:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[6,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220830_119/1661855369386DDavP_JPEG/62991197215821413_406760492.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차분예약] 제이홉 J-Hope - Jack In The Box (LP) [LIMITED EDITION] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7109956134</link>
@@ -320,12 +328,22 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220824_59/16613344230173vFl7_JPEG/62470265733324634_854341866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rainbow - Rising (REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7082690127</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7082690127</guid>
-            <pubDate>Thu, 25 Aug 2022 06:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220824_171/1661334042065VIj2O_JPEG/62469884779390911_384944737.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[반 (Baan)
+														To Telescope [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5327&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5327&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Aug 2022 11:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[5,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005327_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉 (J-Hope)
+														Jack In The Box (LP) [LIMITED EDITION] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8836&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8836&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Aug 2022 11:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008836_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허밍 어반 스테레오 (Humming Urban Stereo)
@@ -380,24 +398,6 @@
             <pubDate>Tue, 23 Aug 2022 10:03:45 GMT</pubDate>
             <content:encoded><![CDATA[11,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석 / 임아영
-														두 마음 비둘기 집 (180G LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석 / 임아영
-														두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤명운
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[To Telescope (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5327&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5327&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Aug 2022 11:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[반 (Baan)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005327_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack In The Box (LP) [LIMITED EDITION] (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8836&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8836&amp;album_mode=music</guid>
+            <pubDate>Tue, 30 Aug 2022 11:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[제이홉 (J-Hope)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008836_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gros Calin (180G WHITE COLOURED LP & CD) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5326&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5326&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
             <pubDate>Tue, 23 Aug 2022 08:09:29 GMT</pubDate>
             <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
             <pubDate>Tue, 23 Aug 2022 08:09:29 GMT</pubDate>
             <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -613,22 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=904&amp;album_mode=music</guid>
             <pubDate>Fri, 29 Jul 2022 06:08:02 GMT</pubDate>
             <content:encoded><![CDATA[저스디스 (Justhis)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Between 1&2 (11ST MINI ALBUM) [4종 중 랜덤발송] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8824&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8824&amp;album_mode=music</guid>
-            <pubDate>Tue, 26 Jul 2022 11:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[트와이스 (Twice)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[The Box (더 박스) [PURPLE OPAQUE COULURED 2LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Aug 2022 05:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
