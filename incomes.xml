@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 05:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두번째달
+														1집 - 두번째달 (140G CLEAR COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2570&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2570&amp;album_mode=music</guid>
+            <pubDate>Wed, 31 Aug 2022 06:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[59,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002570_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반 (Baan)
+														To Telescope]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5327&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5327&amp;album_mode=music</guid>
+            <pubDate>Wed, 31 Aug 2022 06:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[5,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005327_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤명운
 														아침 기다리며, 할머니 부르스 (180G LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 05:04:15 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005317_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지다 (Jida)
-														Summer Colours (180G COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5321&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005321_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[템페스트 (Tempest)
-														It’s Me, It's We (140G CLEAR RED COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8827&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008827_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
