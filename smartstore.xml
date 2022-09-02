@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유해인 / 이사라 - You & I (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7124565531</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7124565531</guid>
+            <pubDate>Fri, 02 Sep 2022 08:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220902_272/1662105848758mALRJ_JPEG/63241744492933531_1016535237.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브론즈 Bronze - Ondo (with LeeHi (이하이) / Smooth Flight (with Atsuko Hiyajo) [7인치 LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7124509532</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7124509532</guid>
+            <pubDate>Fri, 02 Sep 2022 08:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220902_68/1662104772076d5wHU_JPEG/63240660784425144_461683341.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMMT - Mr Hollywood (CD) [사인CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7124278164</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 26 Aug 2022 12:11:36 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220825_237/16614304976650J5tA_JPEG/62566343373973828_383307890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하비누아주 Ravie Nuage - 2집 새벽녘 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087574433</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087574433</guid>
-            <pubDate>Fri, 26 Aug 2022 12:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_247/1661430249964GBreV_JPEG/62566095683678147_1157006176.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조소정 - 1집 아홉 가지 별 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7087555123</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7087555123</guid>
-            <pubDate>Fri, 26 Aug 2022 12:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220825_270/1661429813291hmbGb_JPEG/62565709015491518_1918676814.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
