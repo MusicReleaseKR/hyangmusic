@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 03:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 05:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,15 +44,6 @@
             <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001937_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신세하 (Xin Seha)
-														I Just Can't Control My Feet! [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5325&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5325&amp;album_mode=music</guid>
-            <pubDate>Wed, 24 Aug 2022 08:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005325_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리치맨과 그루브나이스 (Richiman And Groove Nice)
 														Memphis Special One Take Live [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Wed, 31 Aug 2022 06:47:28 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스
+														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
+            <pubDate>Tue, 06 Sep 2022 05:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
