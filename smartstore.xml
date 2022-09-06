@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 09:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 10:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석 - 다시부르기 2 (아트 콜렉터스 에디션) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145767584</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145767584</guid>
+            <pubDate>Tue, 06 Sep 2022 10:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_267/1662458134106EyejQ_JPEG/63593913824406635_1489656505.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 다시부르기 1 (아트 콜렉터스 에디션) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7145707838</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7145707838</guid>
+            <pubDate>Tue, 06 Sep 2022 10:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220906_202/1662457631025acWbx_JPEG/63593410744801358_1645979221.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽 하이 Epik High - Sleepless In __________ (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7144863849</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Sep 2022 12:12:47 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_217/16622010441417xVrA_JPEG/63336827843285570_506731199.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 Thornapple - 1집 난 자꾸 말을 더듬고 잠드는 법도 잊었네 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129922754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129922754</guid>
-            <pubDate>Mon, 05 Sep 2022 12:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_64/1662200020372WYWhO_JPEG/63335909082786491_631865300.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이 앤트 메리 My Aunt Mary - 3집 - Just Pop]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7129906740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7129906740</guid>
-            <pubDate>Mon, 05 Sep 2022 12:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_243/1662199796502WGs2o_JPEG/63335685214520477_932074738.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
