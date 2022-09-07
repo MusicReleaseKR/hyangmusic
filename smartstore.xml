@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Horsegirl - Versions of Modern Performance (PURPLE COLOURED LP) [인디스토어 에디션]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151392008</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151392008</guid>
+            <pubDate>Wed, 07 Sep 2022 15:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[40,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_46/1662562567851iUECY_JPEG/63698463577656426_403120979.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백건우 - 그라나도스-고예스카스 (CD) [엽서 2종 온팩 증정]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7151369165</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7151369165</guid>
+            <pubDate>Wed, 07 Sep 2022 15:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220907_201/1662561798042uCiDQ_JPEG/63697693776780516_1318406900.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김광석 - 2집 [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7149849715</link>
@@ -310,22 +326,6 @@
             <pubDate>Sat, 03 Sep 2022 12:09:27 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220903_283/1662204394864riqvD_JPEG/63340174571759465_28945968.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 붕가붕가 레코드 컴필레이션 - 믿거나 말거나 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130296273</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130296273</guid>
-            <pubDate>Mon, 05 Sep 2022 12:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220903_137/1662203973046mueVd_JPEG/63339752766268606_1953194443.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Re-Encounter The Miracle (블랙홀 30주년 헌정 앨범) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7130271191</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7130271191</guid>
-            <pubDate>Mon, 05 Sep 2022 12:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20210225_76/1614195540842lT5Yu_JPEG/15331383555263414_303879932.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
