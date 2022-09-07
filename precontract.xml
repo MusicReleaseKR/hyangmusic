@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김광석
+														2집 (재발매) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8837&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8837&amp;album_mode=music</guid>
+            <pubDate>Wed, 07 Sep 2022 06:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[13,400]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008837_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
 														Jack In The Box (LP) [LIMITED EDITION] [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 31 Aug 2022 06:47:28 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
-            <pubDate>Tue, 06 Sep 2022 05:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
