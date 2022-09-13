@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,7 +329,7 @@
         </item>
         <item>
             <title><![CDATA[김광석
-														1집 - 1 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+														1집 - 1 (재발매) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8838&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8838&amp;album_mode=music</guid>
             <pubDate>Thu, 08 Sep 2022 05:11:48 GMT</pubDate>
@@ -472,7 +472,7 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008835_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1집 - 1 (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <title><![CDATA[1집 - 1 (재발매) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8838&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8838&amp;album_mode=music</guid>
             <pubDate>Thu, 08 Sep 2022 05:12:08 GMT</pubDate>
