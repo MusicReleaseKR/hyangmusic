@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blind Guardian
+														The God Machine (2CD DELUXE EDITION)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 07:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[19,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001938_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오소영
 														웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 26 Aug 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001183_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machine Head
-														Øf KingdØm And CrØwn]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=2572&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CORE&amp;code=2572&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 08:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CORE/CORE-002572_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

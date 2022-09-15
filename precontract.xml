@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Blind Guardian
-														The God Machine (2CD DELUXE EDITION) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1938&amp;album_mode=music</guid>
-            <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[19,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001938_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stratovarius
 														Survive [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=1937&amp;album_mode=music</link>
@@ -78,6 +69,15 @@
             <pubDate>Thu, 15 Sep 2022 06:33:22 GMT</pubDate>
             <content:encoded><![CDATA[11,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석 / 임아영
+														두 마음 비둘기 집 (180G LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 07:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
