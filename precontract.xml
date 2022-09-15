@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 05:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Thu, 08 Sep 2022 05:11:48 GMT</pubDate>
             <content:encoded><![CDATA[13,400]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008838_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오소영
-														웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP]  [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</guid>
-            <pubDate>Thu, 08 Sep 2022 05:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005330_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검정치마 (The Black Skirts)
@@ -78,6 +69,15 @@
             <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001937_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리치맨과 그루브나이스 (Richiman And Groove Nice)
+														Memphis Special One Take Live [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 06:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

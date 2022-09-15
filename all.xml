@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 05:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -337,15 +337,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008838_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오소영
-														웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP]  [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</guid>
-            <pubDate>Thu, 08 Sep 2022 05:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005330_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[검정치마 (The Black Skirts)
 														3집 - Teen Troubles (Part.3) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5329&amp;album_mode=music</link>
@@ -398,6 +389,24 @@
             <pubDate>Thu, 25 Aug 2022 11:03:39 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-001937_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리치맨과 그루브나이스 (Richiman And Groove Nice)
+														Memphis Special One Take Live [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5324&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 06:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오소영
+														웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5330&amp;album_mode=music</guid>
+            <pubDate>Thu, 08 Sep 2022 05:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005330_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시나위
@@ -463,29 +472,12 @@
             <enclosure url="http://hyangmusic.com/img_data/CORE/CORE-002572_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김아름
-														Summer City (140G BLUE CLEAR COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8835&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8835&amp;album_mode=music</guid>
-            <pubDate>Tue, 23 Aug 2022 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008835_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1집 - 1 (재발매) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8838&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8838&amp;album_mode=music</guid>
             <pubDate>Thu, 08 Sep 2022 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[김광석]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008838_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5330&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5330&amp;album_mode=music</guid>
-            <pubDate>Thu, 08 Sep 2022 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[오소영]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005330_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3집 - Teen Troubles (Part.3) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -541,7 +533,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5324&amp;album_mode=music</guid>
             <pubDate>Tue, 23 Aug 2022 10:04:11 GMT</pubDate>
             <content:encoded><![CDATA[리치맨과 그루브나이스 (Richiman And Groove Nice)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005324_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 마음 비둘기 집 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -632,6 +624,22 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 06:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[웃고 살 거야, 아이처럼 (데뷔 20주년 기념 콘서트 앨범) [LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5330&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5330&amp;album_mode=music</guid>
+            <pubDate>Thu, 08 Sep 2022 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[오소영]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005330_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[4집 - Four (180G RED COLOURED LP) [1인 1매 구매] (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1297&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1297&amp;album_mode=music</guid>
@@ -701,7 +709,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1307&amp;album_mode=music</guid>
             <pubDate>Tue, 26 Jul 2022 11:02:31 GMT</pubDate>
             <content:encoded><![CDATA[부활]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001307_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[칼 세이건 (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -781,14 +789,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8816&amp;album_mode=music</guid>
             <pubDate>Fri, 12 Aug 2022 03:49:11 GMT</pubDate>
             <content:encoded><![CDATA[장필순]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Deceivers (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLDE&amp;code=2943&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=BLDE&amp;code=2943&amp;album_mode=music</guid>
-            <pubDate>Thu, 14 Jul 2022 09:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[Arch Enemy]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
