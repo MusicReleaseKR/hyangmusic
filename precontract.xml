@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 11:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 12:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists
+														Mintpaperpresents Bright #11 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=390&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KIVA&amp;code=390&amp;album_mode=music</guid>
+            <pubDate>Thu, 15 Sep 2022 12:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KIVA/KIVA-000390_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페퍼톤스 (Peppertones)
 														Thousand Years [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 30 Aug 2022 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008836_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허밍 어반 스테레오 (Humming Urban Stereo)
-														Gros Calin (180G WHITE COLOURED LP & CD) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</guid>
-            <pubDate>Mon, 29 Aug 2022 10:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
