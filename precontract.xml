@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선과영
+														밤과낮 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[14,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005334_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박학기
+														베스트 (180G CLEAR BLUE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이광조
 														가까이 하기엔 너무 먼 당신 (180G LP) [2022 REMASTERED] [예약판매]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
             <content:encoded><![CDATA[16,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005332_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매디엑스피 (Maddyxp)
-														Epocalypse [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1313&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1313&amp;album_mode=music</guid>
-            <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001313_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미역수염 (Seaweed Mustache)
-														1집 - Bombora [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5331&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5331&amp;album_mode=music</guid>
-            <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005331_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

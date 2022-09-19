@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,24 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220906_159/1662459288718kYlGM_JPEG/63595134436783725_227675550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[선과영
+														밤과낮 [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[14,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005334_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박학기
+														베스트 (180G CLEAR BLUE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:00 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이광조
 														가까이 하기엔 너무 먼 당신 (180G LP) [2022 REMASTERED] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8839&amp;album_mode=music</link>
@@ -380,24 +398,6 @@
             <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
             <content:encoded><![CDATA[16,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005332_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매디엑스피 (Maddyxp)
-														Epocalypse [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1313&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINH&amp;code=1313&amp;album_mode=music</guid>
-            <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001313_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미역수염 (Seaweed Mustache)
-														1집 - Bombora [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5331&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5331&amp;album_mode=music</guid>
-            <pubDate>Thu, 15 Sep 2022 11:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[12,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005331_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blind Guardian
@@ -472,6 +472,22 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001183_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밤과낮 (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5334&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5334&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[선과영]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005334_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베스트 (180G CLEAR BLUE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Sep 2022 07:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[박학기]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가까이 하기엔 너무 먼 당신 (180G LP) [2022 REMASTERED] (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8839&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8839&amp;album_mode=music</guid>
@@ -525,7 +541,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINH&amp;code=1313&amp;album_mode=music</guid>
             <pubDate>Thu, 15 Sep 2022 11:02:55 GMT</pubDate>
             <content:encoded><![CDATA[매디엑스피 (Maddyxp)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINH/KINH-001313_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[1집 - Bombora (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -533,7 +549,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5331&amp;album_mode=music</guid>
             <pubDate>Thu, 15 Sep 2022 11:02:55 GMT</pubDate>
             <content:encoded><![CDATA[미역수염 (Seaweed Mustache)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005331_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[1집 - 1 (재발매) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -613,22 +629,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
             <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
             <content:encoded><![CDATA[신중현과 퀘션스]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G 3 COLORS SPLATTER LP] (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1187&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[신중현과 퀘션스]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[모닥불 황혼 (180G LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1186&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
-            <pubDate>Mon, 22 Aug 2022 11:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[석찬]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
