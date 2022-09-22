@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://hyangmusic.com/Def_List.php?list_name=precontract</id>
-    <title>향뮤직 ─ 예약 음반</title>
-    <updated>2022-09-22T09:13:31.844Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://hyangmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>향뮤직 ─ 예약 음반</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 10:06:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준형
+														Utopia [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5336&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5336&amp;album_mode=music</guid>
+            <pubDate>Thu, 22 Sep 2022 10:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005336_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리 핀 (Huckleberry Finn)
+														7집 - The Light Of Rain [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5335&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5335&amp;album_mode=music</guid>
+            <pubDate>Thu, 22 Sep 2022 10:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005335_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선과영
+														밤과낮 [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5334&amp;album_mode=music</guid>
+            <pubDate>Thu, 22 Sep 2022 10:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[14,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005334_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박학기
+														베스트 (180G CLEAR BLUE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
+            <pubDate>Thu, 22 Sep 2022 10:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
