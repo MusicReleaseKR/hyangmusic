@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 11:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 12:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alice In Chains - Dirt [YELLOW COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7272862885</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7272862885</guid>
+            <pubDate>Tue, 27 Sep 2022 12:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[47,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_241/1664279109820L6XnV_JPEG/65414937645775344_1262131459.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Madonna - Rebel Heart Tour (PURPLE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7272842934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7272842934</guid>
+            <pubDate>Tue, 27 Sep 2022 12:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_109/1664278618204uwvHt_JPEG/65414446016822832_532554111.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - 패닉버튼 디깅플레이트 Vol 8 - 느린 사랑의 時 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7272785628</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7272785628</guid>
+            <pubDate>Tue, 27 Sep 2022 12:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[45,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220927_9/1664277691105j3bur_JPEG/65413586836416065_2052505047.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Charlie Puth - Charlie (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7265983083</link>
@@ -166,22 +190,6 @@
             <pubDate>Tue, 27 Sep 2022 06:39:19 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220920_151/1663672481759kTuSD_JPEG/64808380462402477_1678939559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belle And Sebastian - Tigermilk (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7223866692</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7223866692</guid>
-            <pubDate>Tue, 27 Sep 2022 06:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[13,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_220/1663672153636KfpX0_JPEG/64808052340202194_95265017.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김두수 - 자유혼 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7223850787</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7223850787</guid>
-            <pubDate>Tue, 27 Sep 2022 06:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220920_54/1663671864903vBQsW_JPEG/64807763600635342_374810522.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
