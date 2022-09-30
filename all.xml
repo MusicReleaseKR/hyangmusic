@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 06:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 07:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이문세 - 2집 The Best (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7291318193</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7291318193</guid>
+            <pubDate>Fri, 30 Sep 2022 07:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220930_240/1664520181069812s0_JPEG/65656014890474445_1059198932.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서유석 - 2집 비야비야, 아름다운사람 [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7291252379</link>
@@ -176,7 +184,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20220927_241/1664279109820L6XnV_JPEG/65414937645775344_1262131459.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Madonna - Rebel Heart Tour (PURPLE COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7272842934</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7272842934</guid>
             <pubDate>Tue, 27 Sep 2022 12:14:19 GMT</pubDate>
