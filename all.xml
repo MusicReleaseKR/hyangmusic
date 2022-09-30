@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 12:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 13:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,33 +190,6 @@
             <pubDate>Tue, 27 Sep 2022 13:45:25 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220927_66/16642819114591Wxq7_JPEG/65417739286714637_1657505874.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Megadeth
-														The Sick, The Dying… And The Dead (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</guid>
-            <pubDate>Fri, 30 Sep 2022 12:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[18,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-004732_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박학기
-														베스트 (180G CLEAR BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
-            <pubDate>Fri, 30 Sep 2022 12:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muse
-														Will Of The People (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
-            <pubDate>Fri, 30 Sep 2022 12:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[16,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003940_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
