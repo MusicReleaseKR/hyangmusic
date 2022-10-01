@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 17:18:25 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Megadeth
-														The Sick, The Dying… And The Dead (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</guid>
-            <pubDate>Sat, 01 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[18,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-004732_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박학기
-														베스트 (180G CLEAR BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8840&amp;album_mode=music</guid>
-            <pubDate>Sat, 01 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008840_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Muse
-														Will Of The People (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=3940&amp;album_mode=music</guid>
-            <pubDate>Sat, 01 Oct 2022 17:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[16,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-003940_s.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MusicReleaseKR.github.io/hyangmusic/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-10-01T18:10:39.413Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+</feed>
