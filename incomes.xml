@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://hyangmusic.com/Incomes.php?page=1&amp;parents_num=&amp;album_mode=music</id>
-    <title>향뮤직 ─ 입고 리스트</title>
-    <updated>2022-10-03T00:41:53.749Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://hyangmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>향뮤직 ─ 입고 리스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 03 Oct 2022 02:57:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Megadeth
+														The Sick, The Dying… And The Dead]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4732&amp;album_mode=music</guid>
+            <pubDate>Mon, 03 Oct 2022 02:55:08 GMT</pubDate>
+            <content:encoded><![CDATA[18,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-004732_s.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
