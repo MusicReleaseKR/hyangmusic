@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 04:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 05:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - 1집 아니벌써 (180G LP) [2500장 넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7337978538</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7337978538</guid>
+            <pubDate>Fri, 07 Oct 2022 05:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_72/1665120085662vrHaW_JPEG/66255928369786970_1238677966.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - KBS클래식FM 당신의 밤과 음악 40주년 - 기다리고 있었습니다 [3CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7332511521</link>
@@ -160,20 +168,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221004_57/1664865016610rRfsj_JPEG/66000912331637041_1869283723.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Megadeth - The Sick, The Dying And The Dead (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7291927920</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7291927920</guid>
             <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[18,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20220930_146/1664525901678eYyJk_JPEG/65661744388811848_569279573.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keane - The Best Of Keane (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7291734199</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7291734199</guid>
-            <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20220930_218/16645243432123aAC7_JPEG/65660171042040414_273957265.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
