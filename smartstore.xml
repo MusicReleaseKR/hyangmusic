@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 06:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 07:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송영주 - Atmosphere (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7338267192</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7338267192</guid>
+            <pubDate>Fri, 07 Oct 2022 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221007_293/16651230017548wyk1_JPEG/66258890468818613_418255326.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 쎅스폰의 유혹 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7338207229</link>
@@ -96,7 +104,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221006_88/1665038159984dGTiA_JPEG/66173987813312783_835469012.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김현철 4집 / Who Stepped on It (180G LP) [2022 REMASTERED]]]></title>
+            <title><![CDATA[김현철 - 4집 Who Stepped on It (180G LP) [2022 REMASTERED]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7326259682</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7326259682</guid>
             <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
@@ -120,7 +128,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221005_171/1664963505996Vvu43_JPEG/66099289712978810_1983452536.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김현철 4집 / Who Stepped on It (180G GOLD COLOURED LP) [2022 REMASTERED]]]></title>
+            <title><![CDATA[김현철 - 4집 Who Stepped on It (180G GOLD COLOURED LP) [2022 REMASTERED]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7325820627</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7325820627</guid>
             <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
@@ -166,14 +174,6 @@
             <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221004_257/166487818617540LXy_JPEG/66014031897077442_743188389.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 6집 Here We Go (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7318625815</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7318625815</guid>
-            <pubDate>Wed, 05 Oct 2022 17:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221004_79/1664876964508wJV0o_JPEG/66012799334076312_1448859318.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
