@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 06:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 07:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주환 - Candy - Memorie of Nat King Cole Trio [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7376608517</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7376608517</guid>
+            <pubDate>Thu, 13 Oct 2022 07:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_300/16656424931886j2Tr_JPEG/66778391898955147_2011394610.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대니 구 Danny Koo - Connected (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7376498940</link>
@@ -166,14 +174,6 @@
             <pubDate>Thu, 13 Oct 2022 00:43:00 GMT</pubDate>
             <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221006_225/1665043857472hYVgl_JPEG/66179641179838591_1165264047.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - Animals (2018 REMIX) (180G LP+CD+BLU-RAY+DVD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7332042939</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7332042939</guid>
-            <pubDate>Thu, 13 Oct 2022 00:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[177,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_164/1665042381983C7lOh_JPEG/66178165690425759_353928749.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
