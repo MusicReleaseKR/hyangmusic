@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 07:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 08:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 나의 아저씨 (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7377126735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7377126735</guid>
+            <pubDate>Thu, 13 Oct 2022 08:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[73,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221013_130/16656463815682gii3_JPEG/66782280279486410_1340254780.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주환 - Candy - Memorie of Nat King Cole Trio [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7376608517</link>
@@ -166,14 +174,6 @@
             <pubDate>Thu, 13 Oct 2022 00:43:00 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221007_59/1665111362983xmq0C_JPEG/66247251694084121_503929183.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - KBS클래식FM 당신의 밤과 음악 40주년 - 기다리고 있었습니다 [3CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7332511521</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7332511521</guid>
-            <pubDate>Thu, 13 Oct 2022 00:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221006_225/1665043857472hYVgl_JPEG/66179641179838591_1165264047.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
