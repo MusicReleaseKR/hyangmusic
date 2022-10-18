@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 11:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 12:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis - Time Files 1994-2009 [2CD Standard Version] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7409007667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7409007667</guid>
+            <pubDate>Tue, 18 Oct 2022 12:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221018_114/16660928328706BiXp_JPEG/67228616589260244_646831332.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Legend - Legend [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7408492326</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7408492326</guid>
             <pubDate>Tue, 18 Oct 2022 11:08:44 GMT</pubDate>
             <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221018_235/1666086301780TDdrR_JPEG/67222129605079887_886271313.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Legend - Legend (Deluxe Edition) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7408479037</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7408479037</guid>
+            <pubDate>Tue, 18 Oct 2022 12:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221018_235/1666086301780TDdrR_JPEG/67222129605079887_886271313.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -158,22 +174,6 @@
             <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221013_249/1665592511268JwbRH_JPEG/66728346103918027_1992802728.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 엽전들 - 1집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7371752229</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7371752229</guid>
-            <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221013_243/1665591417422SnB6D_JPEG/66727201140609765_1079871032.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 Surl - 1집 Of Us (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7368395527</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7368395527</guid>
-            <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221012_178/1665539125209Oe7KH_JPEG/66674960039865157_1735606606.jpeg?type=f140" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
