@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 12:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 13:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Suede - The Best Of Suede - Beautiful Ones 1992 - 2018 [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7409057733</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7409057733</guid>
+            <pubDate>Tue, 18 Oct 2022 13:48:21 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221018_80/1666093377270xL63A_JPEG/67229273007254272_435232109.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oasis - Time Files 1994-2009 [2CD Standard Version] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7409007667</link>
@@ -166,14 +174,6 @@
             <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221013_70/1665593216807p7Xb7_JPEG/66729000515557270_1258214757.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 뮤직파워 - 2집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7371804570</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7371804570</guid>
-            <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221013_249/1665592511268JwbRH_JPEG/66728346103918027_1992802728.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
