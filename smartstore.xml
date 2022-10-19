@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 06:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 07:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIAVANT - Piece of Space (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7414864384</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7414864384</guid>
+            <pubDate>Wed, 19 Oct 2022 07:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_296/1666163443201hdOUM_JPEG/67299278023896156_1073037015.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진 (방탄소년단) - The Astronaut (CD) [2종 중 1종 랜덤 발송]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7414713623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7414713623</guid>
+            <pubDate>Wed, 19 Oct 2022 07:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_210/1666162200359deNJu_JPEG/67298034181097930_1716861635.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이유나 J.UNA - Natural (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7414676001</link>
@@ -166,22 +182,6 @@
             <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
             <content:encoded><![CDATA[12,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221013_138/1665649257877EoMw3_JPEG/66785092714037892_2033648324.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 나의 아저씨 (180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7377126735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7377126735</guid>
-            <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[73,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221013_130/16656463815682gii3_JPEG/66782280279486410_1340254780.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주환 - Candy - Memorie of Nat King Cole Trio [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7376608517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7376608517</guid>
-            <pubDate>Sun, 16 Oct 2022 22:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221013_300/16656424931886j2Tr_JPEG/66778391898955147_2011394610.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
