@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 11:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 12:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [CLEAR COLOURED 2LP] (INDIE ONLY) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447824462</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447824462</guid>
+            <pubDate>Mon, 24 Oct 2022 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_65/1666613238746kPp9L_JPEG/67749072568434058_772401985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447771881</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447771881</guid>
+            <pubDate>Mon, 24 Oct 2022 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_201/1666611750950zMbik_JPEG/67747593658759669_2060065814.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Peterson Trio - We Get Requests (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447589534</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447589534</guid>
+            <pubDate>Mon, 24 Oct 2022 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_86/1666610424492KYDQR_JPEG/67746258313718933_1523807985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones - I Dream Of Christmas (DELUXE EDITION) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7447411147</link>
@@ -198,30 +222,6 @@
             <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221019_296/1666163443201hdOUM_JPEG/67299278023896156_1073037015.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진 (방탄소년단) - The Astronaut (CD) [2종 중 1종 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414713623</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414713623</guid>
-            <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_210/1666162200359deNJu_JPEG/67298034181097930_1716861635.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이유나 J.UNA - Natural (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414676001</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414676001</guid>
-            <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_288/1666161750447ShOQT_JPEG/67297584266152526_77244559.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은지 - 리메이크 앨범 Log (Special log ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7414638844</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7414638844</guid>
-            <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221019_88/1666161458387He4Oj_JPEG/67297292206900134_2133309433.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
