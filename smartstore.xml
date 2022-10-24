@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 06:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 07:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (Alternate Cover) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7446290026</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7446290026</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666596159890deXOK_JPEG/67732002604661984_1677743469.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (금지 Ver / 한정반) [CD]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7445767438</link>
@@ -222,14 +230,6 @@
             <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221018_225/16660958385122NmPM_JPEG/67231727219309254_492305887.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suede - The Best Of Suede - Beautiful Ones 1992 - 2018 [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7409057733</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7409057733</guid>
-            <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221018_80/1666093377270xL63A_JPEG/67229273007254272_435232109.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

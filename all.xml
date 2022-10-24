@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 06:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 07:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (Alternate Cover) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7446290026</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7446290026</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:29 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666596159890deXOK_JPEG/67732002604661984_1677743469.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (금지 Ver / 한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7445767438</link>
@@ -224,12 +232,58 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221018_225/16660958385122NmPM_JPEG/67231727219309254_492305887.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Suede - The Best Of Suede - Beautiful Ones 1992 - 2018 [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7409057733</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7409057733</guid>
-            <pubDate>Sat, 22 Oct 2022 16:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[24,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221018_80/1666093377270xL63A_JPEG/67229273007254272_435232109.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[스텔라장 (Stella Jang)
+														Stairs (45RPM DEEP SMOKIE BROWN COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008846_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여섯개의 달
+														To The Universe [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005344_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 (Surl)
+														1집 - Of Us [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단
+														Love Yourself 承 Her (LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008844_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛과 소금
+														6집 - Here We Go (180G LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8841&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8841&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008841_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉 (J-Hope)
+														Jack In The Box (LP) [LIMITED EDITION] [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8836&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8836&amp;album_mode=music</guid>
+            <pubDate>Mon, 24 Oct 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008836_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
