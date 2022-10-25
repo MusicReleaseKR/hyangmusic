@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://hyangmusic.com/Def_List.php?list_name=precontract</id>
-    <title>향뮤직 ─ 예약 음반</title>
-    <updated>2022-10-25T12:18:03.140Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://hyangmusic.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>향뮤직 ─ 예약 음반</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 25 Oct 2022 13:50:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스텔라장 (Stella Jang)
+														Stairs (45RPM DEEP SMOKIE BROWN COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</guid>
+            <pubDate>Tue, 25 Oct 2022 13:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008846_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여섯개의 달
+														To The Universe [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</guid>
+            <pubDate>Tue, 25 Oct 2022 13:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005344_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
+            <pubDate>Tue, 25 Oct 2022 13:49:22 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
