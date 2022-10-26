@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicReleaseKR.github.io/hyangmusic/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-26T12:16:36.242Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Oct 2022 13:43:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Olafur Arnalds - Some Kind of Peace - Piano Reworks [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460785667</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460785667</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_222/1666780887090if5RM_JPEG/67916670801041400_673679870.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stanley Turrentine - Common Touch (Blue Note Classic Vinyl Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460761391</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460761391</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_39/1666780549384QSS8Q_JPEG/67916333097783609_419951602.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - The Kakutougi Session (CLEAR YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460745041</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460745041</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_239/1666780117959dqGUA_JPEG/67915901676783990_862570786.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond - 불사경전기념판 [HQ-180G AUDIOPHILE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460734537</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460734537</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_282/1666779881055epR8e_JPEG/67915664767713002_137789630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왕걸 - 일번걸작 [HQ-180G AUDIOPHILE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460711002</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460711002</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_218/1666779488180XsvKG_JPEG/67915271895362088_1384263407.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤딴딴 - 1집 옛사랑에게 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7460442327</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7460442327</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[21,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_30/1666776002296nMCT3_JPEG/67911837124680400_1508517775.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송골매 - 2집 모두 다 사랑하리 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459471726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459471726</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_112/1666764815431fjrM6_JPEG/67900661142998105_1571440639.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정재원 (적재) - 1집 The LIGHTS [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459365321</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459365321</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_63/1666764449655aRMGB_JPEG/67900295377505682_1588911773.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화자 Hwaja - 1집 놀이터 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7459317692</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7459317692</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221026_138/1666764060673xEJH0_JPEG/67899906377861938_1221250179.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Woody Allen - illustration by CORBOZ [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7453101666</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7453101666</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221025_107/1666681017934OSaTi_JPEG/67816863651574012_1027283794.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9와 숫자들 - 토털리 블루 (45RPM CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7452006726</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7452006726</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221025_195/1666668910235wtuLg_JPEG/67804744048446604_55630767.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi - A Charlie Brown Christmas (180G 2LP) [Deluxe Edition] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447860617</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447860617</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_253/1666613466785Wz3ye_JPEG/67749300604654121_923238941.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [CLEAR COLOURED 2LP] (INDIE ONLY) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447824462</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447824462</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_65/1666613238746kPp9L_JPEG/67749072568434058_772401985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447771881</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447771881</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[39,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_201/1666611750950zMbik_JPEG/67747593658759669_2060065814.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Peterson Trio - We Get Requests (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447589534</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447589534</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_86/1666610424492KYDQR_JPEG/67746258313718933_1523807985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norah Jones - I Dream Of Christmas (DELUXE EDITION) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447411147</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447411147</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_168/1666608306692sJesY_JPEG/67744134510256363_42594821.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenny Burrell - Kenny Burrell (Blue Note Tone Poet Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7447335168</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7447335168</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_218/1666606352703QeSL9_JPEG/67742136414133410_1646623698.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green - Feelin' The Spirit (Blue Note Tone Poet Series) [180g LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7446971036</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7446971036</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_9/1666603546129DbMEp_JPEG/67739444837181062_181472667.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Jackson - Thriller 40th anniversary (Alternate Cover) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7446290026</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7446290026</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_37/1666596159890deXOK_JPEG/67732002604661984_1677743469.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (금지 Ver / 한정반) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7445767438</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7445767438</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_207/1666590982222kLi30_JPEG/67726817041713232_2065610694.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (애 Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7445751733</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7445751733</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_294/1666590758660ipsyl_JPEG/67726593494541149_1146137594.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비비 BIBI - 1집 - Lowlife Princess - Noir (나쁜X Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7445732256</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7445732256</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221024_39/16665903389637Up9a_JPEG/67726173783727833_1173858138.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쎄이 SAAY - S:INEMA (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7429238701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7429238701</guid>
+            <pubDate>Wed, 26 Oct 2022 13:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221021_55/1666346377693O3yBg_JPEG/67482211516205896_1358255717.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
