@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>향뮤직 ─ 입고 리스트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 11:05:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[설 (Surl)
-														1집 - Of Us]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 (Stella Jang)
-														Stairs (45RPM DEEP SMOKIE BROWN COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008846_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이권형
-														창작자의 방]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5337&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5337&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[13,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005337_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수플
-														산책]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5340&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5340&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005340_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyonce
-														Renaissance (2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2677&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ERNB&amp;code=2677&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[98,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ERNB/ERNB-002677_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마콤마 (Macomma)
-														Mind, Heart (한정반) [1인 2장까지 주문]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5345&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5345&amp;album_mode=music</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[13,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005345_s.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://hyangmusic.com/Incomes.php?page=1&amp;parents_num=&amp;album_mode=music</id>
+    <title>향뮤직 ─ 입고 리스트</title>
+    <updated>2022-10-27T12:16:08.243Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://hyangmusic.com/favicon.ico</icon>
+</feed>
