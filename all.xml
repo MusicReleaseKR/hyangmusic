@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 11:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 12:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,15 @@
             <pubDate>Thu, 27 Oct 2022 20:07:44 GMT</pubDate>
             <content:encoded><![CDATA[51,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_168/1666608306692sJesY_JPEG/67744134510256363_42594821.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포지션 (Position)
+														I Love You (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</guid>
+            <pubDate>Sat, 29 Oct 2022 12:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[46,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
