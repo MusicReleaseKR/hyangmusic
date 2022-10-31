@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 09:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 10:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marie Laforet - Best Of The Best (180G TRANSPARENT GREEN-CYAN COLOURED LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491964167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491964167</guid>
+            <pubDate>Mon, 31 Oct 2022 10:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_139/16672078511752Yehe_JPEG/68343630892512980_2043872448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Benson - The Other Side Of Abbey Road (180G TRANSPARENT WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7491931605</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7491931605</guid>
+            <pubDate>Mon, 31 Oct 2022 10:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221031_248/1667206943797FDtbA_JPEG/68342786501153485_2009650851.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송골매 - 4집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7491816406</link>
@@ -166,30 +182,6 @@
             <pubDate>Sun, 30 Oct 2022 07:02:42 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221024_253/1666613466785Wz3ye_JPEG/67749300604654121_923238941.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [CLEAR COLOURED 2LP] (INDIE ONLY) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447824462</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447824462</guid>
-            <pubDate>Sun, 30 Oct 2022 07:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_65/1666613238746kPp9L_JPEG/67749072568434058_772401985.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Blue Note Re-imagined II (2022) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447771881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447771881</guid>
-            <pubDate>Sun, 30 Oct 2022 07:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[39,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_201/1666611750950zMbik_JPEG/67747593658759669_2060065814.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oscar Peterson Trio - We Get Requests (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7447589534</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7447589534</guid>
-            <pubDate>Sun, 30 Oct 2022 07:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221024_86/1666610424492KYDQR_JPEG/67746258313718933_1523807985.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
