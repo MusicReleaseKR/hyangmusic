@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 05:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 06:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배드램 Badlamb - Universal Anxiety (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7497706708</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7497706708</guid>
+            <pubDate>Tue, 01 Nov 2022 06:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221101_56/1667282321885mJUdo_JPEG/68418155704845575_857726931.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이비티비 ABTB - iii (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7492421225</link>
@@ -174,14 +182,6 @@
             <pubDate>Mon, 31 Oct 2022 16:09:52 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221025_107/1666681017934OSaTi_JPEG/67816863651574012_1027283794.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 - 토털리 블루 (45RPM CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7452006726</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7452006726</guid>
-            <pubDate>Mon, 31 Oct 2022 16:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221025_195/1666668910235wtuLg_JPEG/67804744048446604_55630767.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
