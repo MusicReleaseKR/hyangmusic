@@ -1,56 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>향뮤직 ─ 입고 리스트</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 07:03:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여섯개의 달
-														To The Universe]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</guid>
-            <pubDate>Sun, 06 Nov 2022 07:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005344_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포지션 (Position)
-														I Love You (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</guid>
-            <pubDate>Sun, 06 Nov 2022 07:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[46,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 (Surl)
-														1집 - Of Us]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
-            <pubDate>Sun, 06 Nov 2022 07:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 (Stella Jang)
-														Stairs (45RPM DEEP SMOKIE BROWN COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8846&amp;album_mode=music</guid>
-            <pubDate>Sun, 06 Nov 2022 07:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008846_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이권형
-														창작자의 방]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5337&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5337&amp;album_mode=music</guid>
-            <pubDate>Sun, 06 Nov 2022 07:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005337_s.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://hyangmusic.com/Incomes.php?page=1&amp;parents_num=&amp;album_mode=music</id>
+    <title>향뮤직 ─ 입고 리스트</title>
+    <updated>2022-11-06T08:10:56.845Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://hyangmusic.com/favicon.ico</icon>
+</feed>
