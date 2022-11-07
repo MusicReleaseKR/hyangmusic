@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 06:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 07:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘던 Eldon - Do monsters love too (180G CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525407999</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525407999</guid>
+            <pubDate>Mon, 07 Nov 2022 07:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_4/1667802533830aQzpI_JPEG/68938313537100923_1221460459.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - BEST (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525329495</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525329495</guid>
+            <pubDate>Mon, 07 Nov 2022 07:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_29/1667802086901nhyRY_JPEG/68937921736234219_1623978387.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - BEST (180G TRANSPARENT ORANGE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7525322142</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7525322142</guid>
+            <pubDate>Mon, 07 Nov 2022 07:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221107_247/16678017101846gjBv_JPEG/68937545016495339_758434691.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠비나이 Jambinai - 발현 (Apparition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7525199272</link>
@@ -158,22 +182,6 @@
             <pubDate>Sun, 06 Nov 2022 20:02:35 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221031_16/1667212451646cilOc_JPEG/68348285468328573_370695639.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marie Laforet - Best Of The Best (180G TRANSPARENT GREEN-CYAN COLOURED LP) [2022 REMASTERED] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7491964167</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7491964167</guid>
-            <pubDate>Sun, 06 Nov 2022 20:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221031_139/16672078511752Yehe_JPEG/68343630892512980_2043872448.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson - The Other Side Of Abbey Road (180G TRANSPARENT WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7491931605</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7491931605</guid>
-            <pubDate>Sun, 06 Nov 2022 20:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221031_248/1667206943797FDtbA_JPEG/68342786501153485_2009650851.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
