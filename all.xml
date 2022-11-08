@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 09:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[리쌍 - 1집 재, 계발 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[Jamiroquai - A Funk Odyssey (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7533760131</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7533760131</guid>
+            <pubDate>Tue, 08 Nov 2022 09:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[55,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221108_160/1667895516953WO59Y_JPEG/69031344780433437_341329860.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리쌍 - 2집 재, 계발 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7533688504</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7533688504</guid>
             <pubDate>Tue, 08 Nov 2022 08:10:15 GMT</pubDate>
@@ -174,14 +182,6 @@
             <pubDate>Mon, 07 Nov 2022 23:03:08 GMT</pubDate>
             <content:encoded><![CDATA[10,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221103_69/1667456334274oIlyE_JPEG/68592176987796800_902514829.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예람 - 세상의 끝에서 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7510800548</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7510800548</guid>
-            <pubDate>Mon, 07 Nov 2022 23:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221103_72/1667455781964YbtLP_JPEG/68591561684200173_1777864498.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
