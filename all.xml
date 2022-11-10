@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 12:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 13:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오왼 Owen - Cry (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7547137956</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7547137956</guid>
+            <pubDate>Thu, 10 Nov 2022 13:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[21,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_117/1668084608327cgfUH_JPEG/69220507038865775_1540663745.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김석준 - 30 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7546885758</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7546885758</guid>
+            <pubDate>Thu, 10 Nov 2022 13:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[16,200]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221110_127/1668081268906yyn7N_JPEG/69217102729225822_69277487.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초록불꽃소년단 - 2집 Green Bridge (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7546728751</link>
@@ -168,20 +184,12 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221107_294/1667800794688ugagQ_JPEG/68936693396825505_1494595055.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에코 브릿지 Eco Bridge - COMPILATION (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[undefined (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7525122923</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7525122923</guid>
             <pubDate>Wed, 09 Nov 2022 11:02:27 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221107_83/1667799708212NVSAy_JPEG/68935603948205014_392746385.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R.E.M. - Chronic Town EP (40th Anniversary Edition) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7515733416</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7515733416</guid>
-            <pubDate>Wed, 09 Nov 2022 11:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[20,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221104_80/1667557597958H8Pcn_JPEG/68693381675908253_1059892118.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
