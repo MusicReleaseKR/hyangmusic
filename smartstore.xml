@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 08:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 09:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리얼프로그 - 방백 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7596725735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7596725735</guid>
+            <pubDate>Fri, 18 Nov 2022 09:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[8,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221118_206/1668759872165yf9gC_JPEG/69895717879101188_126103443.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오아잇 oait - Your Love (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7596674922</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7596674922</guid>
+            <pubDate>Fri, 18 Nov 2022 09:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221118_211/16687594854395VAx1_JPEG/69895331152287807_237363135.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sarah Brightman - A Winter Symphony (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7596336038</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:17 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221108_76/1667903417469atRAe_JPEG/69039263190281438_1316974795.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamiroquai - A Funk Odyssey (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7533760131</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7533760131</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[55,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_160/1667895516953WO59Y_JPEG/69031344780433437_341329860.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리쌍 - 2집 재, 계발 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7533688504</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7533688504</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221108_91/1667894737576ALgem_JPEG/69030572395428736_800132627.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
