@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 13:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 14:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스쿼시바인즈 Squash Vines - 2집 출입 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7614295645</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7614295645</guid>
+            <pubDate>Mon, 21 Nov 2022 14:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221121_145/1669037933428F2aLI_JPEG/70173776068362200_1862579742.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강산에 - 3집 삐따기 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7613630340</link>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221111_101/1668152921520Ty8Nq_JPEG/69288810222898672_1750771750.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콩코드 - 1집 초음속 여객기 (180G RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7552341750</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7552341750</guid>
-            <pubDate>Wed, 16 Nov 2022 09:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221111_34/1668152307052UTeWg_JPEG/69288195747690898_1690895919.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단
 														Love Yourself 承 Her (LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</link>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스쿼시바인즈 (Squash Vines)
+														2집 - 출입 (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5350&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5350&amp;album_mode=music</guid>
+            <pubDate>Mon, 21 Nov 2022 14:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005350_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[철수크라이
 														순간의 의미 (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5339&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[46,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 (Surl)
-														1집 - Of Us (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Love Yourself 承 Her (LP) (모바일 향뮤직 ─ 예약 음반)]]></title>

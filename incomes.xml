@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 13:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 14:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스쿼시바인즈 (Squash Vines)
+														2집 - 출입 (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5350&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5350&amp;album_mode=music</guid>
+            <pubDate>Mon, 21 Nov 2022 14:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005350_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[철수크라이
 														순간의 의미]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[46,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 (Surl)
-														1집 - Of Us]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5343&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005343_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
