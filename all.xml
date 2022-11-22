@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 10:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 11:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vince Guaraldi - A Charlie Brown Christmas (DELUXE EDITION) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7619821493</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7619821493</guid>
+            <pubDate>Tue, 22 Nov 2022 11:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221019_203/1666178272188Xi8BV_JPEG/67314055906086897_1222342810.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 BTS - BTS World Tour Love Yourself Speak Yourself (The Final) [3DVD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7619691307</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7619691307</guid>
+            <pubDate>Tue, 22 Nov 2022 11:01:35 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221122_2/1669111137667AONN8_JPEG/70246971489252345_533498809.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Queen - THE Miracle (DELUXE EDITION) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7619624409</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 09:04:46 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221114_113/1668422259906Wmqsq_JPEG/69558158607916371_66805030.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요조 Yozoh - 이름들 (45RPM 180G WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7570908667</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7570908667</guid>
-            <pubDate>Wed, 16 Nov 2022 09:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221114_216/1668421082193YyP9A_JPEG/69556977931674969_838833448.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜원 Hynn - First of all (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7570719596</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7570719596</guid>
-            <pubDate>Wed, 16 Nov 2022 09:04:46 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221114_60/1668419849600aM1lu_JPEG/69555738307688911_344260853.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단
