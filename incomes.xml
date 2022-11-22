@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 05:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 06:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상
+														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
+            <pubDate>Tue, 22 Nov 2022 06:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스쿼시바인즈 (Squash Vines)
 														2집 - 출입 (DIGI-PAK)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[11,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005344_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포지션 (Position)
-														I Love You (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8830&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[46,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008830_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
