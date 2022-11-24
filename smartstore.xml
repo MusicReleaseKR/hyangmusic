@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 11:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 12:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beatles - Revolver (2022 SUPER DELUXE 5CD Box Set)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7632911856</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7632911856</guid>
+            <pubDate>Thu, 24 Nov 2022 12:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[173,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221124_176/16692879775584YO8m_JPEG/70423757281616801_1289012016.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최유리 - 여운 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7632838990</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 10:05:28 GMT</pubDate>
             <content:encoded><![CDATA[41,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221116_116/1668590957453v5lbB_JPEG/69726846164705532_554459047.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어니언스 - 작은새 사랑의 진실 (180G LP) [2022 REMASTERED]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7584309108</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7584309108</guid>
-            <pubDate>Wed, 16 Nov 2022 10:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221116_268/1668591433248wQcAc_JPEG/69727321961454978_1043232220.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
