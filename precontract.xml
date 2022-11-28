@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 06:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 07:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008844_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금
-														6집 - Here We Go (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8841&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8841&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008841_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
@@ -78,6 +69,15 @@
             <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석찬
+														모닥불 황혼 (180G LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
+            <pubDate>Mon, 28 Nov 2022 07:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001186_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
