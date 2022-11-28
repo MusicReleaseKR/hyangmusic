@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이찬혁 - 1집 ERROR (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7655565500</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7655565500</guid>
+            <pubDate>Mon, 28 Nov 2022 06:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221128_232/1669615255308vXMg5_JPEG/70751154020272215_859391537.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미노이 Meenoi - Noi Mas (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7640651988</link>
@@ -88,7 +96,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20221126_138/1669430678984K1ae1_JPEG/70566506697940452_1940327916.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백예린 - 1집 - Every Letter I Sent You (일반반) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[백예린 - 1집 Every Letter I Sent You (일반반) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7637696678</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7637696678</guid>
             <pubDate>Fri, 25 Nov 2022 06:08:08 GMT</pubDate>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 12:10:49 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221118_73/1668770951950lS8C3_JPEG/69906847677049394_1231788646.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리얼프로그 - 방백 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7596725735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7596725735</guid>
-            <pubDate>Fri, 18 Nov 2022 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[8,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221118_206/1668759872165yf9gC_JPEG/69895717879101188_126103443.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탄소년단
