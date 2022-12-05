@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 02:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 03:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마냉
+														zzonzzo ultimate]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5353&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5353&amp;album_mode=music</guid>
+            <pubDate>Mon, 05 Dec 2022 03:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[22,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005353_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하현상
 														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005348_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여섯개의 달
-														To The Universe]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5344&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005344_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
