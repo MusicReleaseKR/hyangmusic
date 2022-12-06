@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단
+														Love Yourself 承 Her (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</guid>
+            <pubDate>Tue, 06 Dec 2022 08:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008844_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마냉
 														zzonzzo ultimate]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[22,200]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005346_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소 (E_so)
-														2집 - 이소]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5348&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5348&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005348_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

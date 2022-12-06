@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <pubDate>Thu, 01 Dec 2022 05:02:28 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005351_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단
-														Love Yourself 承 Her (LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008844_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
@@ -78,6 +69,15 @@
             <pubDate>Mon, 05 Dec 2022 03:06:04 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스
+														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G 3 COLORS SPLATTER LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
+            <pubDate>Tue, 06 Dec 2022 08:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
