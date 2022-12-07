@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 06:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 07:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto - 12 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7709792167</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7709792167</guid>
+            <pubDate>Wed, 07 Dec 2022 07:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221207_229/1670395599318OhYOU_JPEG/71531498019714584_727139216.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박강수 - Album 9 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7698358870</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 10:03:26 GMT</pubDate>
             <content:encoded><![CDATA[24,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_99/1669370011615BTIYy_JPEG/70505857324396259_61558137.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 바이퍼스 - Burn Out (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7639668891</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7639668891</guid>
-            <pubDate>Fri, 25 Nov 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_23/1669367642481YyL9j_JPEG/70503488191232413_597596244.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
