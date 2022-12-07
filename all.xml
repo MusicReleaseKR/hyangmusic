@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,24 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자우림 (Jaurim)
+														10집 - 자우림 (180G COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
+            <pubDate>Wed, 07 Dec 2022 06:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001301_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 (Jaurim)
+														9집 - Goodbye, Grief (180G COLOURED 2LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
+            <pubDate>Wed, 07 Dec 2022 06:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[52,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신해경
 														최저낙원 (EP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5352&amp;album_mode=music</link>
@@ -452,24 +470,6 @@
             <pubDate>Mon, 21 Nov 2022 14:04:09 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005350_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철수크라이
-														순간의 의미 (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5339&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5339&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[10,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005339_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배드램 (Badlamb)
-														Universal Anxiety (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5347&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5347&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005347_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jack In The Box (LP) [LIMITED EDITION] (모바일 향뮤직 ─ 예약 음반)]]></title>
