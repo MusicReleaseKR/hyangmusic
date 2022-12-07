@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 07:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마인드 바디 앤 소울 - Road To Blues (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7709902753</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7709902753</guid>
+            <pubDate>Wed, 07 Dec 2022 08:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221207_253/1670396790454qG91h_JPEG/71532625275631900_1025592946.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto - 12 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7709792167</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 10:03:26 GMT</pubDate>
             <content:encoded><![CDATA[24,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_130/1669370436373v8axg_JPEG/70506282091727036_944970919.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱스 & 소유 - Officially Missing You (45RPM COLOURED 7INCH SINGLE LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7640033895</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7640033895</guid>
-            <pubDate>Fri, 25 Nov 2022 10:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_99/1669370011615BTIYy_JPEG/70505857324396259_61558137.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
