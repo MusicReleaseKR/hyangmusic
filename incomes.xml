@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 03:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 04:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신해경
+														최저낙원 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5352&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5352&amp;album_mode=music</guid>
+            <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005352_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신해경
+														나의 가역반응 (EP) [재발매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5351&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5351&amp;album_mode=music</guid>
+            <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005351_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단
 														Love Yourself 承 Her (LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005347_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록불꽃소년단
-														2집 - Greenbridge]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5349&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5349&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[18,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005349_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이비티비 (ABTB)
-														iii]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5346&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5346&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[22,200]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005346_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
