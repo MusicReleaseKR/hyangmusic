@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 07:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나상현씨밴드 - 2021 (CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7714771847</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7714771847</guid>
+            <pubDate>Thu, 08 Dec 2022 08:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[59,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221208_204/167048281565695TIk_JPEG/71618661363327656_1473439744.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허회경 - Memoirs (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7714700283</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 12:10:04 GMT</pubDate>
             <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221125_215/1669374953789iSaha_JPEG/70510842504201560_1663202596.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지캬라멜 & 10cm - 안아줘요 (45RPM COLOURED 7INCH SINGLE LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7640321119</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7640321119</guid>
-            <pubDate>Fri, 25 Nov 2022 11:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[24,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221125_226/1669372382777g4HS8_JPEG/70508228495752067_370535353.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
