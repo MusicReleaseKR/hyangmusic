@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sarah Kang - 1집 how i remember (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7738365711</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7738365711</guid>
+            <pubDate>Mon, 12 Dec 2022 07:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221212_17/1670826757994bfG0F_JPEG/71962646700907604_1486571232.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유라 youra & 만동 Mandong - 이런 분위기는 기회다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7722186508</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 29 Nov 2022 10:02:43 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221129_2/1669713728630TJK9W_JPEG/70849617335240673_886567857.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - At Town Hall, Volume One (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7663689332</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7663689332</guid>
-            <pubDate>Tue, 29 Nov 2022 09:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221129_294/1669711867839wr1kS_JPEG/70847756552622543_899728180.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
