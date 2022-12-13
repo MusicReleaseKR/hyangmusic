@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 09:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 10:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ginconda De Vito - 브람스 바이올린 협주곡 (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7746041532</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7746041532</guid>
+            <pubDate>Tue, 13 Dec 2022 10:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221213_46/1670918849690ge6bX_JPEG/72054629406893602_1960630686.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ginconda De Vito - 베토벤 바이올린 소나타 크로이처 (180G REMASTERED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7745510711</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 10:03:50 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221130_129/1669799878894yrn0G_JPEG/70935706705219281_918630297.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해남과 환자들 - 야간비행 / Like It (7INCH 45RPM SINGLE LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7670191744</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7670191744</guid>
-            <pubDate>Wed, 30 Nov 2022 10:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221130_284/1669798880663VMV65_JPEG/70934708484881768_493441273.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
