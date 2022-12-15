@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Radiohead - Ok Computer (OKNOTOK 1997-2017) [2CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7758255471</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7758255471</guid>
+            <pubDate>Thu, 15 Dec 2022 10:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210512_149/1620747718188EqUx2_JPEG/21883552008105861_1639741956.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - Cry (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7758090404</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7758090404</guid>
+            <pubDate>Thu, 15 Dec 2022 10:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20210220_194/1613810118688iRn5M_JPEG/14945952509397350_2068982267.jpeg?type=f140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 투트랙 프로젝트 Two Tracks Project (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7757949144</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 05 Dec 2022 03:05:55 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221205_218/1670206652796bYO1v_JPEG/71342432519335665_2011605607.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업타운 Uptown - 1집 Represent (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7680019478</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7680019478</guid>
-            <pubDate>Fri, 02 Dec 2022 05:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221202_136/1669954184460gIS43_JPEG/71090080196719781_1505107780.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지 Itzy - CHESHIRE (CD) [일반반] (3종 중 1종 랜덤발송) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7675773357</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7675773357</guid>
-            <pubDate>Thu, 01 Dec 2022 13:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221201_231/1669887881479TRNy1_JPEG/71023709309933534_340391367.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
