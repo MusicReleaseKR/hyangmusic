@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 00:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 02:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/7758255471</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/7758255471</guid>
             <pubDate>Thu, 15 Dec 2022 10:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20210512_149/1620747718188EqUx2_JPEG/21883552008105861_1639741956.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
