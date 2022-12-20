@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 11:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 12:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한요한 - 4집 Time Machine (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7786400396</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7786400396</guid>
+            <pubDate>Tue, 20 Dec 2022 12:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221220_250/1671537816183QNToh_JPEG/72673599900213727_1689591178.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ariana Grande - Yours Truly (Gate-fold LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7785962902</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 12 Dec 2022 10:03:24 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221212_270/1670836393407gBEYY_JPEG/71972177124816178_634443920.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 제임스레코드 컴필레이션 (140G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7739276235</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7739276235</guid>
-            <pubDate>Mon, 12 Dec 2022 10:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221212_191/1670835931405O21yN_JPEG/71971715122377456_623481824.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
