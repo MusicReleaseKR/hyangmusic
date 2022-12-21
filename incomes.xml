@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</guid>
+            <pubDate>Wed, 21 Dec 2022 05:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[72,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001794_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제이홉 (J-Hope)
 														Jack In The Box (LP) [LIMITED EDITION]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 05 Dec 2022 03:06:13 GMT</pubDate>
             <content:encoded><![CDATA[22,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005353_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현상
-														Calibrate (REMASTERED) [45RPM COKE BOTTLE CLEAR COLOURED LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5307&amp;album_mode=music</guid>
-            <pubDate>Tue, 22 Nov 2022 06:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[37,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005307_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
