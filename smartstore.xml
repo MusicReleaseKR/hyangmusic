@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 12:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 13:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amy Winehouse - Frank (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7791433953</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7791433953</guid>
+            <pubDate>Wed, 21 Dec 2022 13:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20221221_125/1671624391414uihcN_JPEG/72760290123766872_786050085.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billie Eilish - Don't Smile At Me (COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7791421287</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 14 Dec 2022 08:08:21 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221214_28/16710040280044TrL4_JPEG/72139861811242568_1804067625.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 골든 베스트 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7751568819</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7751568819</guid>
-            <pubDate>Wed, 14 Dec 2022 08:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221214_174/1671003738024UEIIq_JPEG/72139571834636208_2142699942.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
