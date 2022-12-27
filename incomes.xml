@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 11:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 12:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조월 (Jowall)
+														아무것도 기념하지 않는 (To Celebrate Nothing) [CD & POSTER]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5355&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5355&amp;album_mode=music</guid>
+            <pubDate>Tue, 27 Dec 2022 12:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[27,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005355_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조월 (Jowall)
 														아무것도 기념하지 않는 (To Celebrate Nothing)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005351_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단
-														Love Yourself 承 Her (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8844&amp;album_mode=music</guid>
-            <pubDate>Tue, 06 Dec 2022 08:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[52,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008844_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
