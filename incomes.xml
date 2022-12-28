@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 08:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
+            <pubDate>Wed, 28 Dec 2022 08:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[62,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조월 (Jowall)
 														아무것도 기념하지 않는 (To Celebrate Nothing) [CD & POSTER]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005352_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경
-														나의 가역반응 (EP) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5351&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5351&amp;album_mode=music</guid>
-            <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005351_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
