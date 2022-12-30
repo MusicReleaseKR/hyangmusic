@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴 체리 & 골드부다 (Lil Cherry & Goldbuuda)
+														Space Talk]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=902&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=902&amp;album_mode=music</guid>
+            <pubDate>Fri, 30 Dec 2022 06:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000902_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 07 Dec 2022 06:08:22 GMT</pubDate>
             <content:encoded><![CDATA[52,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경
-														최저낙원 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5352&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5352&amp;album_mode=music</guid>
-            <pubDate>Wed, 07 Dec 2022 04:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005352_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
