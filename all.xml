@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,7 +414,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
             <pubDate>Wed, 28 Dec 2022 08:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[62,100 원]]></content:encoded>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
