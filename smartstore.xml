@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 07:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 08:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weezer - Pinkerton (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873677580</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873677580</guid>
+            <pubDate>Fri, 06 Jan 2023 08:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_71/1672988922165uKqqu_JPEG/74124764875679658_1251919953.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd - After Hours (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7873619864</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221228_120/1672211489640p1OaB_JPEG/73347378344032919_590547671.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk - Genius of Modern Music Vol 1 (Blue Note Classic Vinyl Series) [180g LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826570569</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826570569</guid>
-            <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[32,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_77/16722107722882uEUp_JPEG/73346660996861714_1191507487.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
