@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 09:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 10:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 벼랑 위의 포뇨 IMAGE ALBUM (LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874794462</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874794462</guid>
+            <pubDate>Fri, 06 Jan 2023 10:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_43/1672998970761GU5Ry_JPEG/74134813465904867_504503170.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - Howl's Moving Castle 하울의 움직이는 성 (2LP) [레코드스토어데이 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874752261</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874752261</guid>
+            <pubDate>Fri, 06 Jan 2023 10:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_164/1672998543598ksn7z_JPEG/74134386305057370_2073291004.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack - 사랑과 슬픔의 볼레로 (REMASTERED) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7874650238</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7874650238</guid>
+            <pubDate>Fri, 06 Jan 2023 10:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[59,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_249/16729898817973HSzK_JPEG/74125716634201018_1087185995.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weezer - Pinkerton (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7873677580</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 29 Dec 2022 08:07:42 GMT</pubDate>
             <content:encoded><![CDATA[60,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221229_61/1672299286083G3wEH_JPEG/73435119884786338_1079196387.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pharoah Sanders - Karma (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826691033</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826691033</guid>
-            <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[56,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_193/1672212375348yyz3J_JPEG/73348221068325150_318833518.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gary Saracho - En Medio (RSD Black Friday) [LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826657780</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826657780</guid>
-            <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_250/1672212075351vDw8L_JPEG/73347921070423870_685723935.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Esperanza Spalding - Radio Music Society (10th Anniversary Edition) [180G 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826628476</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826628476</guid>
-            <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_120/1672211489640p1OaB_JPEG/73347378344032919_590547671.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
