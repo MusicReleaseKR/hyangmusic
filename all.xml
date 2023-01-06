@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 06:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 07:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Weeknd - After Hours (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873619864</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873619864</guid>
+            <pubDate>Fri, 06 Jan 2023 07:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_35/1672988329061bMdDi_JPEG/74124108436737220_177819757.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thelonious Monk - Monk's Dream (180G BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7873517422</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7873517422</guid>
+            <pubDate>Fri, 06 Jan 2023 07:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230106_224/1672987048422LRtzO_JPEG/74122828143142663_1551808571.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nujabes - Free Soul Nujabes First Collection (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7868985030</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 28 Dec 2022 08:06:43 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20221228_77/16722107722882uEUp_JPEG/73346660996861714_1191507487.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker & Art Pepper - Picture of Heath (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826485620</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826485620</guid>
-            <pubDate>Wed, 28 Dec 2022 07:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_231/1672209947509eNpxx_JPEG/73345731225593226_964100184.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benny Carter - Jazz Giant (Contemporary Records Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7826456230</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7826456230</guid>
-            <pubDate>Wed, 28 Dec 2022 07:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[42,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20221228_142/1672209625194OwLdG_JPEG/73345408911232206_1857771935.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
