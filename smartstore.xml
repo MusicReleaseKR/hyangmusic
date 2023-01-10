@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 07:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 08:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하다 HADA - 우리를 비추던 빛들마저 잃어갈 때쯤 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895931182</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895931182</guid>
+            <pubDate>Tue, 10 Jan 2023 08:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_71/16733370344832h9JQ_JPEG/74472930199689344_1263530381.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deathna River - Dancing On The Ruins (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895788320</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895788320</guid>
+            <pubDate>Tue, 10 Jan 2023 08:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_139/1673335619730fbtbr_JPEG/74471508439713494_1987093022.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 노트 Rainbow Note - 明け星のような君のジレンマ (샛별 같은 너의 딜레마) [140G COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7895667003</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7895667003</guid>
+            <pubDate>Tue, 10 Jan 2023 08:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230110_126/1673334363038TFQa2_JPEG/74470197870018212_792340998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강산에 - 4집 연어 (180G LP) [초판]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7895604700</link>
@@ -302,30 +326,6 @@
             <pubDate>Mon, 09 Jan 2023 08:08:09 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_250/1672985990256q3siJ_JPEG/74121885990080432_1586326160.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse - Frank (DELUXE EDITION) [2CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873376541</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873376541</guid>
-            <pubDate>Mon, 09 Jan 2023 08:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[22,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_218/1672985541004tqfu9_JPEG/74121324722046816_1372686372.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2pac - Me Against The World (RE-ISSUE) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7873347115</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7873347115</guid>
-            <pubDate>Mon, 09 Jan 2023 08:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_260/1672985168137LqJOn_JPEG/74120951846539524_963799615.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nujabes - Free Soul Nujabes First Collection (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7868985030</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7868985030</guid>
-            <pubDate>Thu, 05 Jan 2023 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230105_17/1672908882129m2hob_JPEG/74044724834823512_1301101733.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
