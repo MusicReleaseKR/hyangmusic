@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 11:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 12:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포레스텔라 Forestella - The Forestella (180G BABY PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7907973363</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7907973363</guid>
+            <pubDate>Thu, 12 Jan 2023 12:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230112_3/16735214559681JktH_JPEG/824139833488791_220583507.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백건우 - 슈만 피아노 작품집 (180G 3LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7907961737</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 06 Jan 2023 11:02:56 GMT</pubDate>
             <content:encoded><![CDATA[32,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230106_236/1673000944776yDsHd_JPEG/74136843487910104_277977524.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett - My Song (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7874933959</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7874933959</guid>
-            <pubDate>Fri, 06 Jan 2023 11:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[35,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230106_17/1673000199878QbMNV_JPEG/74136042584410533_1855366998.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
