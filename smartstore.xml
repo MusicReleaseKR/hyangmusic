@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 12:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 13:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승윤 - 2집 꿈의 거처]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7913287410</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7913287410</guid>
+            <pubDate>Fri, 13 Jan 2023 13:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230113_60/1673612218523Jk3yL_JPEG/914902407412630_2079240306.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Babylon 바빌론 (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7913172481</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 Jan 2023 12:10:22 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230109_235/16732640535955MP6l_JPEG/74399888416039286_1804597817.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utada Hikaru - Heart Station (180G 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7891492915</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7891492915</guid>
-            <pubDate>Mon, 09 Jan 2023 12:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[80,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230109_125/1673263696982G5vIF_JPEG/74399531818469745_56843656.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
