@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 08:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 09:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
             <pubDate>Wed, 28 Dec 2022 08:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <content:encoded><![CDATA[62,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
