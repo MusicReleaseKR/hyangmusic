@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <pubDate>Mon, 12 Dec 2022 08:08:47 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008851_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허밍 어반 스테레오 (Humming Urban Stereo)
-														Gros Calin (180G WHITE COLOURED LP & CD) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이석 / 임아영
@@ -78,6 +69,15 @@
             <pubDate>Fri, 16 Dec 2022 05:02:34 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														나의 해방일지 (2LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
+            <pubDate>Thu, 19 Jan 2023 09:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

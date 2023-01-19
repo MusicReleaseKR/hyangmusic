@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허밍 어반 스테레오 (Humming Urban Stereo)
+														Gros Calin (180G WHITE COLOURED LP & CD)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5326&amp;album_mode=music</guid>
+            <pubDate>Thu, 19 Jan 2023 09:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소울바이서울 (Soulbysel)
+														Soulbysel Compilation 01 (180G 반투명 블루컬러 LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=901&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=901&amp;album_mode=music</guid>
+            <pubDate>Thu, 19 Jan 2023 09:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000901_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[릴 체리 & 골드부다 (Lil Cherry & Goldbuuda)
 														Space Talk]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 13 Dec 2022 06:08:30 GMT</pubDate>
             <content:encoded><![CDATA[52,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008836_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 (Jaurim)
-														10집 - 자우림 (180G COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
-            <pubDate>Wed, 07 Dec 2022 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[41,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001301_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 (Jaurim)
-														9집 - Goodbye, Grief (180G COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1300&amp;album_mode=music</guid>
-            <pubDate>Wed, 07 Dec 2022 06:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[52,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001300_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
