@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 09:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 10:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black Eyed Peas - Elevation (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7972402248</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7972402248</guid>
+            <pubDate>Wed, 25 Jan 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[20,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230125_228/1674638487781bKmj9_JPEG/75774322618152674_85954279.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ariana Grande - Thank U, Next (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/7972366260</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/7972366260</guid>
+            <pubDate>Wed, 25 Jan 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230125_178/16746378906190iHiX_JPEG/75773725455166119_231794059.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 - Countryman’s Vibration (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/7945095369</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 20 Jan 2023 06:08:04 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230110_126/1673334363038TFQa2_JPEG/74470197870018212_792340998.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에 - 4집 연어 (180G LP) [초판]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7895604700</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7895604700</guid>
-            <pubDate>Wed, 25 Jan 2023 02:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230110_193/1673333894710g0AQv_JPEG/74469783421990763_1753356912.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임동혁 - 쇼팽 전주곡 (Chopin 24 Preludes, Barcarolle, Berceuse) [180G 2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7895579729</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7895579729</guid>
-            <pubDate>Wed, 25 Jan 2023 02:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230110_131/16733334184091VfNL_JPEG/74469307109396008_540389945.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
