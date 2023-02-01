@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 06:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 07:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기 밴드 - 21세기 밴드 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8011621219</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8011621219</guid>
+            <pubDate>Wed, 01 Feb 2023 07:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[1,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_231/1675234380643Esy67_JPEG/76370208457903609_31703890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADO 아도 - Kyougen (Limited Production) [2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8011542709</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8011542709</guid>
+            <pubDate>Wed, 01 Feb 2023 07:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[61,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_163/1675233730711YDXv3_JPEG/76369564527555232_1784657375.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[템페스트 Tempest - Shining Up (140G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8011428945</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8011428945</guid>
+            <pubDate>Wed, 01 Feb 2023 07:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230201_192/1675232309552Sch0w_JPEG/76368143365161266_818896346.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔칠댄스 87dance - Color Paper Hotel (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8005937812</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 19 Jan 2023 23:02:56 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230112_289/1673520596326D4Eji_JPEG/74656485023665144_888871015.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요 kohyo - 0 [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7907932674</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7907932674</guid>
-            <pubDate>Thu, 19 Jan 2023 23:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[11,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_61/1673520192580KJkdJ_JPEG/74656081292079368_983870017.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성진 Seong-Jin Cho - 헨델 프로젝트 (CD) [사진 엽서 세트 증정] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7907877458</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7907877458</guid>
-            <pubDate>Thu, 19 Jan 2023 23:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[17,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_153/1673518621000zHtth_JPEG/74654400591204208_1690464594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 소소한 이야기 (Nemo Album Full Ver) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/7907860128</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/7907860128</guid>
-            <pubDate>Thu, 19 Jan 2023 23:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230112_35/1673518160960qrf4M_JPEG/74653940665264352_909142287.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
