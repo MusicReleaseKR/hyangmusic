@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,60 +17,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008851_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이석 / 임아영
-														두 마음 비둘기 집 (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석 / 임아영
-														두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
-            <pubDate>Wed, 16 Nov 2022 17:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
-            <pubDate>Mon, 05 Dec 2022 03:06:04 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G 3 COLORS SPLATTER LP] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
-            <pubDate>Tue, 06 Dec 2022 08:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석찬
-														모닥불 황혼 (180G LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
-            <pubDate>Wed, 07 Dec 2022 04:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001186_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석찬
-														모닥불 황혼 (180G GREEN MARBLE SPLATTER COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</guid>
-            <pubDate>Fri, 16 Dec 2022 05:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Soundtrack
 														나의 해방일지 (2LP) [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
@@ -78,6 +24,60 @@
             <pubDate>Thu, 19 Jan 2023 09:02:47 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신용재
+														사계 (四季) [2LP] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8804&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[73,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008804_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														단독공연 [TURN ON THAT BLUE VINYL] 라이브 특별반 (2LP) [1인1매주문] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8850&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8850&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[54,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008850_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														선물 (LP) [1인1매주문] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8849&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8849&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[38,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008849_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														2집 - Tellusboutyourself & Remix (3LP) [1인1매주문] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백예린
+														1집 - Every Letter I Sent You (일반반) [2LP] [1인1매주문] [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8847&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8847&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[54,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008847_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저스디스 (Justhis)
+														Do Not Go Gentle Into That Good Night II (SOLID WHITE COLOURED LP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=904&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=904&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

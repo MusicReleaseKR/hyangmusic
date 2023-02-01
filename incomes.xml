@@ -4,9 +4,63 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석찬
+														모닥불 황혼 (180G GREEN MARBLE SPLATTER COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1185&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001185_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[석찬
+														모닥불 황혼 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1186&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001186_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스
+														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G 3 COLORS SPLATTER LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 퀘션스
+														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석 / 임아영
+														두 마음 비둘기 집 (180G BABY BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석 / 임아영
+														두 마음 비둘기 집 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001190_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 (Blackpink)
 														2집 - Born Pink (LP) [LIMITED EDITION]]]></title>
@@ -24,60 +78,6 @@
             <pubDate>Thu, 19 Jan 2023 09:02:57 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005326_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울바이서울 (Soulbysel)
-														Soulbysel Compilation 01 (180G 반투명 블루컬러 LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=901&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=901&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 09:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000901_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴 체리 & 골드부다 (Lil Cherry & Goldbuuda)
-														Space Talk]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=902&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=902&amp;album_mode=music</guid>
-            <pubDate>Fri, 30 Dec 2022 06:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000902_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														The Box (더 박스) [PURPLE OPAQUE COULURED 2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1796&amp;album_mode=music</guid>
-            <pubDate>Wed, 28 Dec 2022 08:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[62,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001796_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조월 (Jowall)
-														아무것도 기념하지 않는 (To Celebrate Nothing) [CD & POSTER]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5355&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5355&amp;album_mode=music</guid>
-            <pubDate>Tue, 27 Dec 2022 12:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005355_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조월 (Jowall)
-														아무것도 기념하지 않는 (To Celebrate Nothing)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5354&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5354&amp;album_mode=music</guid>
-            <pubDate>Fri, 23 Dec 2022 09:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005354_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														스물다섯 스물하나 (tvN 토일 드라마) [180G CRYSTAL CLEAR COLOURED 2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1794&amp;album_mode=music</guid>
-            <pubDate>Wed, 21 Dec 2022 05:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[72,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001794_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
