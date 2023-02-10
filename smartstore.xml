@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 10:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 11:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Coldplay - A Head Full Of Dreams (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8064818347</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8064818347</guid>
+            <pubDate>Fri, 10 Feb 2023 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230210_54/1676023303360SKkk6_JPEG/77159138193060264_405909912.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyonce - B'Day (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8064736766</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Jan 2023 07:02:09 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230131_279/1675146519522lVCz2_JPEG/76282354359205824_217091873.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Avril Lavigne / Let Go (20th Anniversary Edition) [2LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8005344334</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8005344334</guid>
-            <pubDate>Tue, 31 Jan 2023 07:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[55,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230131_95/1675145232150fJhAa_JPEG/76281065961471785_614914093.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
