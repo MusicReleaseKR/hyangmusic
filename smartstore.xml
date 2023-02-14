@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 07:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 08:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 스트릿 맨 파이터 - 스맨파 (SMF) [CLEAR COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8085385332</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8085385332</guid>
+            <pubDate>Tue, 14 Feb 2023 08:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230214_271/1676359739630ENLsH_JPEG/77495567446321526_924974106.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay - A Head Full Of Dreams (180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8064818347</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Jan 2023 07:02:09 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230131_143/1675146834358TywIx_JPEG/76282669194125562_1532520709.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Hutcherson, Harold Land - San Francisco (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8005438301</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8005438301</guid>
-            <pubDate>Tue, 31 Jan 2023 07:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230131_279/1675146519522lVCz2_JPEG/76282354359205824_217091873.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
