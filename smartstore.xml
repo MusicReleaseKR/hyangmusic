@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 10:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 11:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건모 - 9집 Kimgunmo 9 (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8103438002</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8103438002</guid>
+            <pubDate>Fri, 17 Feb 2023 11:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230217_281/1676629435906maE0n_JPEG/77765331643107319_839876707.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건모 - 8집 Hestory (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8103408515</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8103408515</guid>
+            <pubDate>Fri, 17 Feb 2023 11:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230217_73/1676629148761ABRYa_JPEG/77765044497808668_1150750123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건모 - 7집 007 AnotherDays (180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8103351799</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8103351799</guid>
+            <pubDate>Fri, 17 Feb 2023 11:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230217_149/1676628282528WtYb7_JPEG/77764171229429797_509367948.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건모 - 6집 Growing (180G COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8103286243</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 03 Feb 2023 09:02:33 GMT</pubDate>
             <content:encoded><![CDATA[68,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230203_157/1675412429454LWOxE_JPEG/76548257283524529_340677120.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 Twice - Ready To Be (3종 중 1종 랜덤 발송) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8023342936</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8023342936</guid>
-            <pubDate>Fri, 03 Feb 2023 07:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230203_173/1675406482784EYX4s_JPEG/76542266499368264_843617484.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이킴 Jay Kim - Sound of Life (180G CLEAR PURPLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8023221631</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8023221631</guid>
-            <pubDate>Fri, 03 Feb 2023 07:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230203_120/1675405655393pIs93_JPEG/76541498097248307_1434340128.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Chainsaw Man - chainsaw edge fragments (2CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8014695628</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8014695628</guid>
-            <pubDate>Thu, 02 Feb 2023 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[42,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230202_147/16753048772791Dkym_JPEG/76440660973215139_1599256309.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
