@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 10:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조성진 (Seong-Jin Cho)
+														2015 쇼팽 콩쿠르 우승 실황앨범 (카세트 테잎)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4715&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4715&amp;album_mode=music</guid>
+            <pubDate>Wed, 22 Feb 2023 10:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004715_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신중현과 뮤직파워
 														2집 - 기다리는 마음 (180G LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석 / 임아영
-														두 마음 비둘기 집 (180G BABY BLUE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Feb 2023 06:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
