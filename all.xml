@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:03:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 - The Flag (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8130695513</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8130695513</guid>
+            <pubDate>Wed, 22 Feb 2023 08:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230222_22/1677049939912wb7z3_JPEG/78185774748568885_1273815081.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지민 (방탄소년단) - FACE (CD) [2종 중 1종 랜덤 발송] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8130543388</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 06 Feb 2023 17:05:24 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230206_252/1675679446951x9YMT_JPEG/76815345659757668_511403705.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello - Camila (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8041261365</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8041261365</guid>
-            <pubDate>Mon, 06 Feb 2023 17:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[27,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230206_44/1675678973102LnpHb_JPEG/76814800920841745_2096210706.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
