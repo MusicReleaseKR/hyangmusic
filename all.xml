@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000904_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레인보우 노트 (Rainbow Note)
+														샛별 같은 너의 딜레마 (明け星のような君のジレンマ) [140G COLOURED LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5357&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5357&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Feb 2023 09:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005357_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조성진 (Seong-Jin Cho)
 														2015 쇼팽 콩쿠르 우승 실황앨범 (카세트 테잎) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4715&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Thu, 19 Jan 2023 23:03:04 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001187_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신중현과 퀘션스
-														In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 23:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001188_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -544,6 +544,14 @@
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
+            <title><![CDATA[샛별 같은 너의 딜레마 (明け星のような君のジレンマ) [140G COLOURED LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5357&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5357&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Feb 2023 09:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[레인보우 노트 (Rainbow Note)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005357_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2015 쇼팽 콩쿠르 우승 실황앨범 (카세트 테잎) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4715&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLAS&amp;code=4715&amp;album_mode=music</guid>
@@ -613,7 +621,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001189_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[두 마음 비둘기 집 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -693,14 +701,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8836&amp;album_mode=music</guid>
             <pubDate>Thu, 19 Jan 2023 23:03:34 GMT</pubDate>
             <content:encoded><![CDATA[제이홉 (J-Hope)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[10집 - 자우림 (180G COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1301&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 23:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[자우림 (Jaurim)]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
