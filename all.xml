@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 12:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 13:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Homeshake - Fresh Air (BLUE CLEAR SPLATTER COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8158515986</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8158515986</guid>
+            <pubDate>Mon, 27 Feb 2023 13:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[36,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_274/1677502148305swhTc_JPEG/78637991021028304_1096875619.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Current Joys - Voyager (OPAQUE MAROON COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8158499655</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8158499655</guid>
+            <pubDate>Mon, 27 Feb 2023 13:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_11/1677500205236ymj5J_JPEG/78636033065758870_1235630998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (10th Anniversary) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8157584805</link>
@@ -312,22 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230214_125/1676364189355QgAoq_JPEG/77500032070518185_2137859943.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Whitney Houston - Whitney Houston (PEACH COLOR LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085609754</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085609754</guid>
-            <pubDate>Tue, 14 Feb 2023 09:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[42,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_82/1676363987163NzC9l_JPEG/77499829876727299_1153008286.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston - Whitney (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085598110</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085598110</guid>
-            <pubDate>Tue, 14 Feb 2023 09:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[35,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_163/1676363751664qDOSy_JPEG/77499594379250873_1474938503.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -400,6 +400,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노 브레인 (No Brain)
+														Big Mistake (LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5359&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5359&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Feb 2023 13:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[37,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005359_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists
 														패닉버튼 디깅플레이트 Vol 11 - 풍류 (180G GRAY COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=234&amp;album_mode=music</link>
@@ -461,15 +470,6 @@
             <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
             <content:encoded><![CDATA[33,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001194_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트오브파티스 (Art Of Parties)
-														1집 - Ophelia (COLOURED 2LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1309&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1309&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[56,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001309_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
