@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 11:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 12:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists
+														패닉버튼 디깅플레이트 Vol 11 - 풍류 (180G GRAY COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=234&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=234&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[33,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000234_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists
+														패닉버튼 디깅플레이트 Vol 12 - Blue (180G BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000233_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안치환
 														앤솔로지 Complete Myself (180G CLEAR COLOURED 2LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
             <content:encoded><![CDATA[56,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001309_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 노트 (Rainbow Note)
-														샛별 같은 너의 딜레마 (明け星のような君のジレンマ) [140G COLOURED LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5357&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5357&amp;album_mode=music</guid>
-            <pubDate>Fri, 24 Feb 2023 09:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005357_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성진 (Seong-Jin Cho)
-														2015 쇼팽 콩쿠르 우승 실황앨범 (카세트 테잎)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4715&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CLAS&amp;code=4715&amp;album_mode=music</guid>
-            <pubDate>Wed, 22 Feb 2023 10:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[14,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CLAS/CLAS-004715_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
