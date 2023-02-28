@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 27 Feb 2023 13:18:16 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230227_11/1677500205236ymj5J_JPEG/78636033065758870_1235630998.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack Johnson - In Between Dreams (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8157710851</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8157710851</guid>
+            <pubDate>Tue, 28 Feb 2023 07:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230227_17/1677484606077iCMV3_JPEG/78620439896977021_999915529.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kendrick Lamar - Good Kid, M.A.A.D City (10th Anniversary) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230215_201/1676443610702SdDer_JPEG/77579445508202318_1043742607.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Whitney Houston - Whitney Houston (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8085616199</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8085616199</guid>
-            <pubDate>Tue, 14 Feb 2023 09:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[38,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230214_125/1676364189355QgAoq_JPEG/77500032070518185_2137859943.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -400,6 +400,24 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists
+														패닉버튼 디깅플레이트 Vol 12 - Blue (180G BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000233_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists
+														패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=235&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=235&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Feb 2023 07:03:16 GMT</pubDate>
+            <content:encoded><![CDATA[37,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000235_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노 브레인 (No Brain)
 														Big Mistake (LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5359&amp;album_mode=music</link>
@@ -416,15 +434,6 @@
             <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
             <content:encoded><![CDATA[33,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000234_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														패닉버튼 디깅플레이트 Vol 12 - Blue (180G BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[42,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000233_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안치환
@@ -461,15 +470,6 @@
             <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
             <content:encoded><![CDATA[34,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001195_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희
-														최신가요 힛 퍼레이드 (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1194&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1194&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001194_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -536,14 +536,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Big Mistake (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5359&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5359&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 14:03:30 GMT</pubDate>
-            <content:encoded><![CDATA[노 브레인 (No Brain)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005359_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[패닉버튼 디깅플레이트 Vol 11 - 풍류 (180G GRAY COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=234&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=234&amp;album_mode=music</guid>
@@ -558,6 +550,22 @@
             <pubDate>Mon, 27 Feb 2023 12:12:09 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000233_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=235&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=235&amp;album_mode=music</guid>
+            <pubDate>Tue, 28 Feb 2023 07:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000235_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Mistake (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5359&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5359&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Feb 2023 14:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[노 브레인 (No Brain)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005359_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤솔로지 Complete Myself (180G CLEAR COLOURED 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -605,7 +613,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1309&amp;album_mode=music</guid>
             <pubDate>Sun, 26 Feb 2023 17:02:55 GMT</pubDate>
             <content:encoded><![CDATA[아트오브파티스 (Art Of Parties)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001309_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[샛별 같은 너의 딜레마 (明け星のような君のジレンマ) [140G COLOURED LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -683,14 +691,6 @@
             <title><![CDATA[두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[두 마음 비둘기 집 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1190&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1190&amp;album_mode=music</guid>
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
