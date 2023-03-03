@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 10:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 11:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,24 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Soundtrack
+														슬픔보다 더 슬픈 이야기 (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[41,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001799_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에
+														4집 - 연어 (180G LP) [재발매] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[41,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001292_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists
 														패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=235&amp;album_mode=music</link>
@@ -452,24 +470,6 @@
             <pubDate>Mon, 27 Feb 2023 11:02:50 GMT</pubDate>
             <content:encoded><![CDATA[50,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005358_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														사랑의 불시착 (tvN 주말 드라마) [180G MILK CLEAR & PURPLE OPAQUE COLOURED 2LP] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1798&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1798&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[63,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001798_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희
-														스테레오힛트총결산 (180G GREEN COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1195&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1195&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[34,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001195_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -536,6 +536,22 @@
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슬픔보다 더 슬픈 이야기 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1799&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1799&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001799_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4집 - 연어 (180G LP) [재발매] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1292&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1292&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[강산에]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001292_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=235&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VKOR&amp;code=235&amp;album_mode=music</guid>
@@ -597,7 +613,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1195&amp;album_mode=music</guid>
             <pubDate>Sun, 26 Feb 2023 17:02:55 GMT</pubDate>
             <content:encoded><![CDATA[김상희]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001195_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[최신가요 힛 퍼레이드 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -605,7 +621,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1194&amp;album_mode=music</guid>
             <pubDate>Sun, 26 Feb 2023 17:02:55 GMT</pubDate>
             <content:encoded><![CDATA[김상희]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001194_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[1집 - Ophelia (COLOURED 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -677,22 +693,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1187&amp;album_mode=music</guid>
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[신중현과 퀘션스]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[In-A-Kadda-Da-Vida (THE PSYCHEDELIC SOUND) [180G LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1188&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1188&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[신중현과 퀘션스]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[두 마음 비둘기 집 (180G BABY BLUE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1189&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[이석 / 임아영]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

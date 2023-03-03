@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 10:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 11:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														슬픔보다 더 슬픈 이야기 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[41,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001799_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에
+														4집 - 연어 (180G LP) [재발매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</guid>
+            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[41,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001292_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 27 Feb 2023 11:02:50 GMT</pubDate>
             <content:encoded><![CDATA[50,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005358_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														사랑의 불시착 (tvN 주말 드라마) [180G MILK CLEAR & PURPLE OPAQUE COLOURED 2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1798&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1798&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[63,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001798_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김상희
-														스테레오힛트총결산 (180G GREEN COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1195&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1195&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[34,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001195_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
