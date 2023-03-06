@@ -4,9 +4,72 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 10:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최안순
+														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말로 (Malo)
+														Malo Sing Baeho (45RPM COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[34,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002572_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조관우
+														2집 - Memory (크리스탈 컬러 LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8853&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8853&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008853_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자
+														컴백 (세월만 가네 / 오직 그대뿐) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001121_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자
+														스테레오 힛트 앨범 Vol. 3 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001138_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김일두 / 하헌진
+														34:03 (140G WHITE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5360&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5360&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005360_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임아영
+														데뷔앨범 (180G LP) [신중현 작편곡집]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1196&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1196&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001196_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														슬픔보다 더 슬픈 이야기 (180G LP)]]></title>
@@ -15,69 +78,6 @@
             <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
             <content:encoded><![CDATA[41,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001799_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에
-														4집 - 연어 (180G LP) [재발매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1292&amp;album_mode=music</guid>
-            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[41,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001292_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														패닉버튼 디깅플레이트 Vol 10 - Kick & Drum (180G PURPLE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=235&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=235&amp;album_mode=music</guid>
-            <pubDate>Tue, 28 Feb 2023 07:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[37,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000235_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														패닉버튼 디깅플레이트 Vol 11 - 풍류 (180G GRAY COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=234&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=234&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000234_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														패닉버튼 디깅플레이트 Vol 12 - Blue (180G BLUE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VKOR&amp;code=233&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 12:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[42,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VKOR/VKOR-000233_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노 브레인 (No Brain)
-														Big Mistake (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5359&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5359&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 13:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[37,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005359_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안치환
-														앤솔로지 Complete Myself (180G CLEAR COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8852&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8852&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 11:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[60,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008852_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 (Doma)
-														1집 - 이유도 없이 나는 섬으로 가네 (140G OCEAN GREEN COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5358&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5358&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 11:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[50,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005358_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
