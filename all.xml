@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ed Sheeran - - (Subtract) [Deluxe] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8201017971</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8201017971</guid>
+            <pubDate>Tue, 07 Mar 2023 08:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[21,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230307_82/1678173984625gXvD5_JPEG/79309827341058941_482650621.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지수 JISOO - JISOO FIRST SINGLE VINYL LP (LIMITED EDITION) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8195269335</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Feb 2023 06:09:21 GMT</pubDate>
             <content:encoded><![CDATA[95,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_214/1677045554287EAOUF_JPEG/78181388098690498_464875385.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (Live At Wembley Empire Pool, London 1974) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8125824524</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8125824524</guid>
-            <pubDate>Tue, 21 Feb 2023 12:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230221_273/16769776278393HsjN_JPEG/78113462666708837_606169452.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
