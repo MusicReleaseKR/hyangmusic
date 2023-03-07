@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 08:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 09:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ed Sheeran - - (Subtract) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8201106273</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8201106273</guid>
+            <pubDate>Tue, 07 Mar 2023 09:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230307_6/1678176513155PE0i0_JPEG/79312296872269996_1421516875.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ed Sheeran - - (Subtract) [Deluxe] (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8201017971</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Feb 2023 07:02:58 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230222_235/1677046043801CheFR_JPEG/78181877610568084_1412160594.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영훈 - The Legacy 2022 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8130419051</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8130419051</guid>
-            <pubDate>Wed, 22 Feb 2023 06:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[95,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230222_214/1677045554287EAOUF_JPEG/78181388098690498_464875385.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
