@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 12:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 13:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jens Lekman - The Linden Trees Are Still In Blossom (CRYSTAL CLEAR COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8207726671</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8207726671</guid>
+            <pubDate>Wed, 08 Mar 2023 13:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[51,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230308_184/1678277368150YahwY_JPEG/5580052036150019_1483601651.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Travis - Everything At Once (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8207711603</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 Feb 2023 08:09:31 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230223_97/1677138887179sXfY5_JPEG/4441571063340351_903347863.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camila Cabello - 2집 Romance (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8136718598</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8136718598</guid>
-            <pubDate>Thu, 23 Feb 2023 08:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[51,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230223_16/1677138626055KxGyS_JPEG/4441309927893475_961072965.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
