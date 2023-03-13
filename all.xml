@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 08:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 09:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예성 Yesung - 1집 Floral Sense (WHITE & BLUE COLOURED LP) [스페셜 버젼] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8232350909</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8232350909</guid>
+            <pubDate>Mon, 13 Mar 2023 09:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[75,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230313_112/1678695814509bhnRS_JPEG/5998498383931182_356025950.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이근형 - Alone.. Not Alone (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8232241593</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Feb 2023 11:02:32 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230227_189/1677478440009sHL3l_JPEG/78614273818759202_818493879.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장한나 Han-Na Chang - 백조 The Swan [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8156968746</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8156968746</guid>
-            <pubDate>Mon, 27 Feb 2023 06:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230227_287/1677477335917mb8q0_JPEG/78613169739153475_568237259.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
