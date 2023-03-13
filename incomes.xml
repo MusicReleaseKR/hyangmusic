@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 05:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 06:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김추자
+														컴백 (세월만 가네 / 오직 그대뿐) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001121_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김추자
+														스테레오 힛트 앨범 Vol. 3 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</guid>
+            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[33,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001138_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정미
+														3집 - 바람 / 추억 (180G YELLOW COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1154&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1154&amp;album_mode=music</guid>
+            <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001154_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정미
+														2집 - 간다고하지마오 / 아니야 (180G RED COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</guid>
+            <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[40,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001153_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최안순
 														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP)]]></title>
@@ -35,24 +71,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008853_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김추자
-														컴백 (세월만 가네 / 오직 그대뿐) [180G LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001121_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자
-														스테레오 힛트 앨범 Vol. 3 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001138_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김일두 / 하헌진
 														34:03 (140G WHITE COLOURED LP)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5360&amp;album_mode=music</link>
@@ -60,24 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[40,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005360_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임아영
-														데뷔앨범 (180G LP) [신중현 작편곡집]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1196&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1196&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001196_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														슬픔보다 더 슬픈 이야기 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1799&amp;album_mode=music</guid>
-            <pubDate>Fri, 03 Mar 2023 11:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[41,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001799_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
