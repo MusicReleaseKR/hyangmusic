@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방준석 - TEMPEST (CD) [한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8237634333</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8237634333</guid>
+            <pubDate>Tue, 14 Mar 2023 09:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230314_198/16787839448651tNcw_JPEG/79919728581469113_379604016.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eva Cassidy with the London Symphony Orchestra - I Can Only Be Me (45RPM 180G 2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8232996791</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 28 Feb 2023 09:03:36 GMT</pubDate>
             <content:encoded><![CDATA[24,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230228_161/16775724384010MQHw_JPEG/78708337103092567_464204548.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Homeshake - Fresh Air (BLUE CLEAR SPLATTER COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8158515986</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8158515986</guid>
-            <pubDate>Mon, 27 Feb 2023 13:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[36,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230227_274/1677502148305swhTc_JPEG/78637991021028304_1096875619.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
