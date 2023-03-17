@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 10:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 11:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis - Bitches Brew (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8255222246</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8255222246</guid>
+            <pubDate>Fri, 17 Mar 2023 11:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[31,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230317_260/1679047208093QauGd_JPEG/80183041909041586_576993845.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Unknown Mortal Ochestra - V (GOLD COLOURED 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8255194968</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Mar 2023 12:10:43 GMT</pubDate>
             <content:encoded><![CDATA[8,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230313_129/1678707355530UFx9j_JPEG/79843190357482232_1573997873.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shame - Food for Worms (TRANSPARENT PURPLE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8232938881</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8232938881</guid>
-            <pubDate>Mon, 13 Mar 2023 12:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[36,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230313_64/16787070794351sb7j_JPEG/79842914263281747_1574967007.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
