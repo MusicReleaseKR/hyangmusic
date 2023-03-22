@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 10:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 11:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cigarettes After Sex - Cigarettes After Sex (WHITE COLOURED LP) [RE-ISSUE]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8280233656</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8280233656</guid>
+            <pubDate>Wed, 22 Mar 2023 11:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[40,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230322_250/16794826737319DEVF_JPEG/6785357614266436_523779320.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길병민 Gil, Byeong-Min - The Road of Classics (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8279638573</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Mar 2023 13:16:09 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230315_145/1678872915846mwufT_JPEG/80008743672924989_165340152.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데블스 Devils - 1집 추억의 길 / 2집 그리운건 너 (CD) [재발매]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8242332539</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8242332539</guid>
-            <pubDate>Thu, 16 Mar 2023 13:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230315_292/16788712162986SEHM_JPEG/80006999810358253_421841346.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
