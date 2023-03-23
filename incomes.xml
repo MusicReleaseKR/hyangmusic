@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 10:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라 강 (Sarah Kang)
+														1집 - How I Remember (WHITE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8854&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8854&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Mar 2023 10:03:20 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008854_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김추자
 														컴백 (세월만 가네 / 오직 그대뿐) [180G LP]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[31,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008853_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 / 하헌진
-														34:03 (140G WHITE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5360&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5360&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005360_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
