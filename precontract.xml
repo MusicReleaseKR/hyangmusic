@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 06:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 07:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[써드 스톤 (Third Stone)
+														Psychiatric Hospital [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Mar 2023 07:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sun, 26 Feb 2023 16:04:02 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														나의 해방일지 (2LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 09:04:09 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
