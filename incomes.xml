@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 03:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 04:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														나의 해방일지 (2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1795&amp;album_mode=music</guid>
+            <pubDate>Mon, 27 Mar 2023 04:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사라 강 (Sarah Kang)
 														1집 - How I Remember (WHITE COLOURED LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[34,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002572_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조관우
-														2집 - Memory (크리스탈 컬러 LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8853&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8853&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008853_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
