@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 04:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[써드 스톤 (Third Stone)
+														Psychiatric Hospital]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Mar 2023 04:03:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														나의 해방일지 (2LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[33,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말로 (Malo)
-														Malo Sing Baeho (45RPM COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[34,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002572_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

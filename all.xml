@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 04:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이엠 I.M - Duality (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319794902</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319794902</guid>
+            <pubDate>Thu, 30 Mar 2023 04:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_292/1680146479667ynGgn_JPEG/81282368380902478_1325052990.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디제이티즈 (DJ Tiz) & 비모카 (VIMOKA) & 스클비 (skrrvvy) - RE:FRESH (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319745331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319745331</guid>
+            <pubDate>Thu, 30 Mar 2023 04:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_96/1680145984910MRRRH_JPEG/81281873620538684_1135223753.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Depeche Mode - Violator (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8316215019</link>
@@ -312,31 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230320_180/16793104872267TyCr_JPEG/80446375919498520_732531841.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Unknown Mortal Ochestra - V (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8269037738</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8269037738</guid>
-            <pubDate>Mon, 20 Mar 2023 12:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_118/16793103264496VIR0_JPEG/80446215155375395_235306205.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Top Gun Maverick 탑 건 매버릭 (PICTURE DISC LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8268983436</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8268983436</guid>
-            <pubDate>Mon, 20 Mar 2023 11:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[59,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_166/16793088615622sqP6_JPEG/80444696394565449_1416024819.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써드 스톤 (Third Stone)
-														Psychiatric Hospital [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
-            <pubDate>Thu, 23 Mar 2023 07:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -398,6 +389,15 @@
             <pubDate>Sun, 26 Feb 2023 16:04:02 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[써드 스톤 (Third Stone)
+														Psychiatric Hospital (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Mar 2023 07:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[17,800]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -463,23 +463,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말로 (Malo)
-														Malo Sing Baeho (45RPM COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2572&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[34,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002572_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Psychiatric Hospital (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
-            <pubDate>Thu, 23 Mar 2023 07:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[써드 스톤 (Third Stone)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -534,6 +517,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[검정치마 (The Black Skirts)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Psychiatric Hospital (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
+            <pubDate>Thu, 23 Mar 2023 07:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[써드 스톤 (Third Stone)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -605,7 +596,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8853&amp;album_mode=music</guid>
             <pubDate>Mon, 06 Mar 2023 10:04:10 GMT</pubDate>
             <content:encoded><![CDATA[조관우]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008853_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[34:03 (140G WHITE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -685,14 +676,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5358&amp;album_mode=music</guid>
             <pubDate>Mon, 27 Feb 2023 11:03:11 GMT</pubDate>
             <content:encoded><![CDATA[도마 (Doma)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 불시착 (tvN 주말 드라마) [180G MILK CLEAR & PURPLE OPAQUE COLOURED 2LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1798&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1798&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Feb 2023 17:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

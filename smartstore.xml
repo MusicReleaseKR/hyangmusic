@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 04:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이엠 I.M - Duality (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319794902</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319794902</guid>
+            <pubDate>Thu, 30 Mar 2023 04:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_292/1680146479667ynGgn_JPEG/81282368380902478_1325052990.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디제이티즈 (DJ Tiz) & 비모카 (VIMOKA) & 스클비 (skrrvvy) - RE:FRESH (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8319745331</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8319745331</guid>
+            <pubDate>Thu, 30 Mar 2023 04:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230330_96/1680145984910MRRRH_JPEG/81281873620538684_1135223753.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Depeche Mode - Violator (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8316215019</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 20 Mar 2023 12:11:25 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230320_180/16793104872267TyCr_JPEG/80446375919498520_732531841.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unknown Mortal Ochestra - V (2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8269037738</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8269037738</guid>
-            <pubDate>Mon, 20 Mar 2023 12:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_118/16793103264496VIR0_JPEG/80446215155375395_235306205.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Top Gun Maverick 탑 건 매버릭 (PICTURE DISC LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8268983436</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8268983436</guid>
-            <pubDate>Mon, 20 Mar 2023 11:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[59,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230320_166/16793088615622sqP6_JPEG/80444696394565449_1416024819.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
