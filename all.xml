@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 10:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 11:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340922438</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340922438</guid>
+            <pubDate>Mon, 03 Apr 2023 11:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_69/1680516508555vjU1u_JPEG/81652397252135564_1268094720.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lana Del Rey - Did You Know That There's A Tunnel Under Ocean Blvd (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8340893774</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8340893774</guid>
+            <pubDate>Mon, 03 Apr 2023 11:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230403_262/1680516107906wskNu_JPEG/81651996613747683_1514699212.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스크린스 The Screens - 시대상 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8340844752</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 23 Mar 2023 08:08:24 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230323_146/1679555373546i5cx9_JPEG/80691272258724559_1854532270.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder - Original Musiquarium I (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280333298</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280333298</guid>
-            <pubDate>Wed, 22 Mar 2023 12:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[58,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_148/167948432782399iIs_JPEG/80620107543556727_508294890.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay - Parachutes (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8280290312</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8280290312</guid>
-            <pubDate>Wed, 22 Mar 2023 12:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[28,600]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230322_208/1679483498122umLV6_JPEG/6786182004896376_1285639356.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
