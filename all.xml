@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼빨간사춘기 - 사랑 zip (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8377511294</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8377511294</guid>
+            <pubDate>Mon, 10 Apr 2023 07:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230410_273/1681106980141VUMUv_JPEG/82242868837521911_1637297232.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정세운 - 1집 24 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8377393253</link>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack - 괴물 怪物 - Music By Ryuichi Sakamoto (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8311002047</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8311002047</guid>
-            <pubDate>Tue, 28 Mar 2023 10:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230328_21/1679995759141W81hE_JPEG/81131592943580184_437222154.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -391,6 +391,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클라우드 나인 (Cloud 9)
+														1집 - The Road (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=546&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=546&amp;album_mode=music</guid>
+            <pubDate>Mon, 10 Apr 2023 07:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[9,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-000546_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[써드 스톤 (Third Stone)
 														Psychiatric Hospital (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
@@ -452,15 +461,6 @@
             <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
             <content:encoded><![CDATA[40,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001153_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최안순
-														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
