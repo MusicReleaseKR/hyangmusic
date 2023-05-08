@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 08:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오왼 Owen - Love is (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8516120585</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8516120585</guid>
+            <pubDate>Mon, 08 May 2023 09:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[16,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230508_41/1683534903499Y60VN_JPEG/17562225414270294_325693226.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오왼 Owen - P.O.E.M. IV - Tyler Durden (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8516076318</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8516076318</guid>
+            <pubDate>Mon, 08 May 2023 09:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[24,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230508_175/1683533966949h9cj9_JPEG/576447381114918_93074307.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유 IU - 2022 IU Concert (The Golden Hour 오렌지 태양 아래) [3Blu-ray]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8515984754</link>
@@ -309,22 +325,6 @@
             <pubDate>Fri, 21 Apr 2023 07:02:11 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230421_156/1682058206295wkcCk_JPEG/1993387106904076_640916470.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리나네뷸라 Carina Nebula - Good Match (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8436687199</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8436687199</guid>
-            <pubDate>Fri, 21 Apr 2023 07:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230421_145/1682057341705EDPxr_JPEG/8747810689667042_169739742.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이무지치 / 펠릭스 아요 - VIVALDI FOUR SEASONS (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8436587489</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8436587489</guid>
-            <pubDate>Fri, 21 Apr 2023 06:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230421_59/16820560137071gs83_JPEG/7144021582528574_1618791616.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
