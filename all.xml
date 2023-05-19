@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joe Hisaishi - A Symphonic Celebration (스튜디오 지브리 애니메이션 음악) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8571472203</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8571472203</guid>
+            <pubDate>Fri, 19 May 2023 06:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230519_120/1684475542510j3Wzm_JPEG/10614704330471415_757226888.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Freddie Hubbard - Blue Spirits (Blue Note Tone Poet Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8567646362</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 10 May 2023 11:02:17 GMT</pubDate>
             <content:encoded><![CDATA[48,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230510_128/1683715783910AfR7S_JPEG/38113322949122637_1009517249.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simon & Garfunkel - Greatest Hits (WHITE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8526455806</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8526455806</guid>
-            <pubDate>Thu, 11 May 2023 11:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[31,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230510_165/1683715420362VIlrz_JPEG/31652127180764996_1444040795.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
