@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준 - The Best - LIVING LEGEND OF JAZZ (130G LP & CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8585922434</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8585922434</guid>
+            <pubDate>Mon, 22 May 2023 08:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230522_205/16847391132163e5bP_JPEG/7559622209638790_1502499795.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원 플러스 원 - 언덕에 서서, 당신의 모든 것을 (150G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8585866524</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 May 2023 07:02:05 GMT</pubDate>
             <content:encoded><![CDATA[13,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230512_90/16838737823066pEj6_JPEG/31810489126199536_52716758.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath - Vol 4 (2009 REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8531167056</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8531167056</guid>
-            <pubDate>Thu, 11 May 2023 11:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[19,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230511_14/16837998911306xofm_JPEG/1476011974860284_612303084.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
