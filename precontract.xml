@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 04:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,30 +27,12 @@
         </item>
         <item>
             <title><![CDATA[백예린
-														선물 (LP) [1인1매주문] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8849&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8849&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[38,600]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008849_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
 														2집 - Tellusboutyourself & Remix (3LP) [1인1매주문] [예약판매]]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
-														1집 - Every Letter I Sent You (일반반) [2LP] [1인1매주문] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8847&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8847&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[54,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008847_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검정치마 (The Black Skirts)

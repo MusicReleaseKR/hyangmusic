@@ -4,7 +4,7 @@
         <title>모바일 향뮤직 ─ 예약 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 04:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,28 +24,12 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008850_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선물 (LP) [1인1매주문]]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8849&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8849&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 May 2023 14:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[백예린]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008849_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2집 - Tellusboutyourself & Remix (3LP) [1인1매주문]]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8848&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8848&amp;album_mode=music</guid>
             <pubDate>Mon, 01 May 2023 14:03:13 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1집 - Every Letter I Sent You (일반반) [2LP] [1인1매주문]]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8847&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8847&amp;album_mode=music</guid>
-            <pubDate>Mon, 01 May 2023 14:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[백예린]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008847_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3집 - Team Baby (Part.1) [SPLATTER COLOURED LP] (2차분 예약판매)]]></title>
