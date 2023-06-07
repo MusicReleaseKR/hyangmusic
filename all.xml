@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 07:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:03:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암호(AMHO) - IDEAL (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8671013583</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8671013583</guid>
+            <pubDate>Wed, 07 Jun 2023 09:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[13,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230607_298/1686121715066697Qq_JPEG/5386742958134881_2138070350.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강아솔 - 2집 정직한 마음 (180G CLEAR TRANSPARENT COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8670418503</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 May 2023 07:02:03 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230519_30/1684477150521BopDe_JPEG/11814543314068035_36418759.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 Deux - 2집 Deuxism (150G BLUE CLEAR COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8571535278</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8571535278</guid>
-            <pubDate>Fri, 19 May 2023 07:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230519_212/16844761759384IwTI_JPEG/37843720786784880_1750093550.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
