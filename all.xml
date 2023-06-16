@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서지원 - 3집 Made In Heaven (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719690548</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719690548</guid>
+            <pubDate>Fri, 16 Jun 2023 06:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_242/1686892605917QoOy6_JPEG/12107024643921663_467739066.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말로 Malo - 송창식 송북 (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8719634419</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8719634419</guid>
+            <pubDate>Fri, 16 Jun 2023 06:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[23,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230616_281/1686891792819ykmqU_JPEG/170047645221742_1111975039.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bruno Mars - Unorthodox Jukebox (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8719597845</link>
@@ -312,22 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230602_251/16857072394236NKjS_JPEG/5226460144697058_1118120664.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alice Coltrane - Journey In Satchidananda (Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8646271006</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8646271006</guid>
-            <pubDate>Fri, 02 Jun 2023 12:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[57,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_285/16857068552322fD9G_JPEG/4971883116081988_2022035999.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ono - Bossa Hula Nova (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8645566493</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8645566493</guid>
-            <pubDate>Fri, 02 Jun 2023 10:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230602_267/1685699808015x7y95_JPEG/31443475833118694_355460040.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -362,6 +362,15 @@
             <pubDate>Sun, 26 Feb 2023 16:04:02 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위 아더 나잇 (We Are The Night)
+														Blue And Some Black (BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</guid>
+            <pubDate>Fri, 16 Jun 2023 06:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005362_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 나인 (Cloud 9)
@@ -427,15 +436,6 @@
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001154_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김정미
-														2집 - 간다고하지마오 / 아니야 (180G RED COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001153_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -466,6 +466,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[검정치마 (The Black Skirts)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue And Some Black (BLUE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5362&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5362&amp;album_mode=music</guid>
+            <pubDate>Fri, 16 Jun 2023 06:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[위 아더 나잇 (We Are The Night)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005362_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1집 - The Road (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -537,7 +545,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
             <pubDate>Mon, 06 Mar 2023 10:04:10 GMT</pubDate>
             <content:encoded><![CDATA[최안순]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Malo Sing Baeho (45RPM COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -617,14 +625,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5359&amp;album_mode=music</guid>
             <pubDate>Mon, 27 Feb 2023 14:03:30 GMT</pubDate>
             <content:encoded><![CDATA[노 브레인 (No Brain)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[앤솔로지 Complete Myself (180G CLEAR COLOURED 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8852&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8852&amp;album_mode=music</guid>
-            <pubDate>Mon, 27 Feb 2023 11:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[안치환]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

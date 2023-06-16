@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위 아더 나잇 (We Are The Night)
+														Blue And Some Black (BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</guid>
+            <pubDate>Fri, 16 Jun 2023 06:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[44,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005362_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클라우드 나인 (Cloud 9)
 														1집 - The Road]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
             <content:encoded><![CDATA[40,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001154_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정미
-														2집 - 간다고하지마오 / 아니야 (180G RED COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1153&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001153_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
