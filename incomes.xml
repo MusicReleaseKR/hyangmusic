@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 12:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 13:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM (방탄소년단)
+														Indigo (COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</guid>
+            <pubDate>Mon, 19 Jun 2023 13:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[46,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008855_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위 아더 나잇 (We Are The Night)
 														Blue And Some Black (BLUE COLOURED LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[33,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001138_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정미
-														3집 - 바람 / 추억 (180G YELLOW COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1154&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1154&amp;album_mode=music</guid>
-            <pubDate>Mon, 13 Mar 2023 06:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[40,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001154_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
