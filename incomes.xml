@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 08:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 10:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크눌프 (Knulp)
+														Festival]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5363&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5363&amp;album_mode=music</guid>
+            <pubDate>Thu, 29 Jun 2023 10:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005363_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RM (방탄소년단)
 														Indigo (COLOURED LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
             <content:encoded><![CDATA[33,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001121_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자
-														스테레오 힛트 앨범 Vol. 3 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1138&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001138_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
