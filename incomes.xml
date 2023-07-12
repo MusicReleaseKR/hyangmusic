@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 06:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 07:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Khc / Moribet
+														전파납치 (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</guid>
+            <pubDate>Wed, 12 Jul 2023 07:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005364_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크눌프 (Knulp)
 														Festival]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Thu, 23 Mar 2023 10:03:20 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008854_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김추자
-														컴백 (세월만 가네 / 오직 그대뿐) [180G LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1121&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[33,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001121_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
