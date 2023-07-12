@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 09:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 10:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio - Waltz For Debby (Craft Recordings Original Jazz Classic Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8862203415</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8862203415</guid>
+            <pubDate>Wed, 12 Jul 2023 10:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_294/1689155359555WgpTr_JPEG/36199443138532067_406695286.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khc / Moribet - 전파납치 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8861317726</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 07:02:41 GMT</pubDate>
             <content:encoded><![CDATA[66,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230703_20/1688366822969eyNQo_JPEG/15723010962837175_88017588.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kuzi - Joyrider's Avenue (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8811153517</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8811153517</guid>
-            <pubDate>Mon, 03 Jul 2023 07:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230703_89/1688366314657yBbtp_JPEG/1546032499767104_1697402082.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
