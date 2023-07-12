@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 05:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 06:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강형호 PITTA - BE FREE (45RPM 180G COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8861070737</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8861070737</guid>
+            <pubDate>Wed, 12 Jul 2023 06:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[40,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230712_235/1689141255411WnbUu_JPEG/2472056767168506_1574403123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis - In A Silent Way (WHITE COLORED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8857116019</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 01 Jul 2023 13:12:10 GMT</pubDate>
             <content:encoded><![CDATA[37,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230701_95/1688215142984h6TnH_JPEG/1681137268581975_123080936.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yann Tiersen - Portrait (3LP & 7INCH LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8801751388</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8801751388</guid>
-            <pubDate>Sat, 01 Jul 2023 13:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230701_154/1688214739662CQ0uD_JPEG/1680733944676799_1225779584.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
