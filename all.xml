@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 10:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 11:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,7 +72,7 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230712_294/1689155359555WgpTr_JPEG/36199443138532067_406695286.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Khc / Moribet - 전파납치 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <title><![CDATA[khc/moribet - 전파납치 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8861317726</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/8861317726</guid>
             <pubDate>Wed, 12 Jul 2023 07:02:11 GMT</pubDate>
@@ -364,7 +364,7 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Khc / Moribet
+            <title><![CDATA[khc / moribet
 														전파납치 (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</guid>
@@ -472,7 +472,7 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5364&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5364&amp;album_mode=music</guid>
             <pubDate>Wed, 12 Jul 2023 07:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[Khc / Moribet]]></content:encoded>
+            <content:encoded><![CDATA[khc / moribet]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005364_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
