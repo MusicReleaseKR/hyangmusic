@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 14:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 15:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공중그늘 (Gong Joong Geu Neul)
+														광원 (EP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5365&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5365&amp;album_mode=music</guid>
+            <pubDate>Tue, 18 Jul 2023 15:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005365_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[khc / moribet
 														전파납치 (DIGI-PAK)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 27 Mar 2023 04:03:45 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001795_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라 강 (Sarah Kang)
-														1집 - How I Remember (WHITE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8854&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8854&amp;album_mode=music</guid>
-            <pubDate>Thu, 23 Mar 2023 10:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008854_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
