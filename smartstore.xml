@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 05:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Meshell Ndegeocello - The Omnichord Real Book (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8907079959</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8907079959</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[18,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_295/1689831877084Yzc3t_JPEG/684465207095226_114133930.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nina Simone - You've Got To Learn (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8907008800</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8907008800</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_251/1689831159950aupoK_JPEG/37496077906205518_1530183931.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dr. Lonnie Smith - Turning Point (Blue Note Classic Vinyl Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8906983122</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8906983122</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_46/1689830836205iV1uF_JPEG/38191469025942928_936669018.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 더폴락 10주년 기념 컴필레이션 - 작은 책방을 위한 노래 (140G YELLOW COLOURED  LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8901227357</link>
@@ -46,6 +70,30 @@
             <pubDate>Tue, 18 Jul 2023 11:02:26 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_56/1689671596864DXWRR_JPEG/525638126783738_1769965905.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sting - Ten Summoner's Tales (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8895408111</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8895408111</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_190/1689670692823BbHVh_JPEG/1316613640882297_1807364512.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nine Inch Nails - The Downward Spiral (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8895323128</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8895323128</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_257/16896703309080hvk1_JPEG/1359618992490289_796826674.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West - Ye (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8895280988</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8895280988</guid>
+            <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230718_217/1689669873225rRcbY_JPEG/2187299043703767_1285187430.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현수 Hyun Soo Kim - 하늘 아래서 (CD)]]></title>
@@ -278,54 +326,6 @@
             <pubDate>Tue, 11 Jul 2023 13:16:53 GMT</pubDate>
             <content:encoded><![CDATA[30,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230711_260/1689079517486GNqsg_JPEG/18151475071670851_1287603847.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이센스 (E SENS) - 저금통 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8855481253</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8855481253</guid>
-            <pubDate>Tue, 11 Jul 2023 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230711_131/1689062118126MwQtS_JPEG/696944937188055_110974029.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광진 – 3집 It’s Me (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8855453186</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8855453186</guid>
-            <pubDate>Tue, 11 Jul 2023 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[48,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230711_46/1689061799528p31NL_JPEG/4578287877292301_712968722.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emerson, Lake & Palmer - The Ultimate Collection (3CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8850400924</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8850400924</guid>
-            <pubDate>Mon, 10 Jul 2023 11:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230710_240/1688985543899Qzqey_JPEG/18057501472296841_1185880265.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중전화 - Rock'n Roll Zombie 2023 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8849011558</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8849011558</guid>
-            <pubDate>Mon, 10 Jul 2023 07:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[23,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230710_90/1688970390154jr3G0_JPEG/3172476124857198_1076194003.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Live In Melbourne, Festival Hall June 17th 1964 TV Broadcast (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844927600</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844927600</guid>
-            <pubDate>Sun, 09 Jul 2023 12:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_98/1688901320986nUf49_JPEG/4682293900602282_865999024.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Live In Paris, Palais De Sports, June 20th, 1965 Europe 1 Broadcast (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8844903910</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8844903910</guid>
-            <pubDate>Sun, 09 Jul 2023 12:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[26,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230709_54/16889009924888Vdvk_JPEG/3103078465984364_930685526.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
