@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 06:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 07:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리카겔 Silicagel - 1집 실리카겔 (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8907172558</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8907172558</guid>
+            <pubDate>Thu, 20 Jul 2023 07:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[46,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230720_48/1689829970073BflJz_JPEG/37494888114088974_840161608.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Meshell Ndegeocello - The Omnichord Real Book (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8907079959</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 12 Jul 2023 06:08:53 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230712_235/1689141255411WnbUu_JPEG/2472056767168506_1574403123.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis - In A Silent Way (WHITE COLORED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8857116019</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8857116019</guid>
-            <pubDate>Tue, 11 Jul 2023 13:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230711_260/1689079517486GNqsg_JPEG/18151475071670851_1287603847.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
