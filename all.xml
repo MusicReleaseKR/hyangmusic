@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 11:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 12:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yung Bae 영배 - Bae 4 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8924302740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8924302740</guid>
+            <pubDate>Sun, 23 Jul 2023 12:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[42,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230723_267/1690110459476qYBY6_JPEG/17301427828585244_1938608052.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Radiohead - Good Evening Mrs Magpie / Bloom (Remix) [45RPM SINGLE LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8924210659</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 06:08:11 GMT</pubDate>
             <content:encoded><![CDATA[17,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_75/1689659942426aPBaY_JPEG/5942831703059464_127393016.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton - Unplugged (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8894463067</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8894463067</guid>
-            <pubDate>Tue, 18 Jul 2023 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_256/1689659402451hQx65_JPEG/6122289815787931_1762549619.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
