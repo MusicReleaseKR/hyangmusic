@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 06:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 07:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 - 3집 아무도 모르게 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8934407187</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8934407187</guid>
+            <pubDate>Tue, 25 Jul 2023 07:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230725_296/1690267420225Ach82_JPEG/38628053043610671_1915281751.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yung Bae 영배 - Bae 4 (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8924302740</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 06:07:54 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230718_217/1689669873225rRcbY_JPEG/2187299043703767_1285187430.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현수 Hyun Soo Kim - 하늘 아래서 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8894505050</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8894505050</guid>
-            <pubDate>Tue, 18 Jul 2023 06:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[17,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230718_75/1689659942426aPBaY_JPEG/5942831703059464_127393016.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
