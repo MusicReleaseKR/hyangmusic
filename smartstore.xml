@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 11:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 12:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼 - 1집 Principle Of My Soul (10th Anniversary) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/8947892257</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/8947892257</guid>
+            <pubDate>Thu, 27 Jul 2023 12:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230727_273/1690455645718UoRlF_JPEG/26552833694338791_2034196455.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채무자들 - 1집 채무자들 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/8947755294</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 12:10:21 GMT</pubDate>
             <content:encoded><![CDATA[42,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_273/1689851839253ld9xY_JPEG/37516757299698648_680153657.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지박 Ji Park - 1집 9000km+ (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8908838359</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8908838359</guid>
-            <pubDate>Sun, 23 Jul 2023 11:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230720_107/168985150003333y2k_JPEG/704088154106487_50876770.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
