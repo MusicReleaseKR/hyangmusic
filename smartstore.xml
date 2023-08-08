@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 07:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 08:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jayci yucca / dnss - S3X And The City (사인CD) [한정반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9013916281</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9013916281</guid>
+            <pubDate>Tue, 08 Aug 2023 08:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230808_281/1691478359807vsMIy_JPEG/5781261633200482_119614622.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jon Batiste - World Music Radio (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9013886205</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 26 Jul 2023 10:02:24 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230726_186/1690365124759ORdMK_JPEG/1301998778711571_15010685.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤미래 - As Time Goes By (180G CLEAR COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8941560441</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8941560441</guid>
-            <pubDate>Wed, 26 Jul 2023 10:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[67,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230726_162/1690364224938qPVjv_JPEG/17555193282448938_1982323529.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
