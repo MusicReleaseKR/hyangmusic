@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 06:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 07:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤이맨 HeyMen - Shelter (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9031381131</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9031381131</guid>
+            <pubDate>Fri, 11 Aug 2023 07:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[19,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230811_44/1691734354790qweTR_JPEG/18105746269476786_607054448.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이현도, 딥플로우 - Dry Season (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9031270326</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 28 Jul 2023 07:02:19 GMT</pubDate>
             <content:encoded><![CDATA[16,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230728_296/1690526688551bbyaH_JPEG/37491943344353648_1133374455.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서희 - Rainbow Season (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8952006946</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8952006946</guid>
-            <pubDate>Fri, 28 Jul 2023 07:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[13,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230728_260/1690524407037HzShw_JPEG/26621595000876712_1326827895.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
