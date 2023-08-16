@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 너의 이름은 (180G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9057844761</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9057844761</guid>
+            <pubDate>Wed, 16 Aug 2023 08:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[69,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_183/1692172743165Rlno3_JPEG/15029180957544092_1778978442.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다브다 Dabda - Yonder (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9057487799</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 07:07:02 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230720_48/1689829970073BflJz_JPEG/37494888114088974_840161608.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K2 김성면 - 3집 Vocalist (150G 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8973922030</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8973922030</guid>
-            <pubDate>Tue, 01 Aug 2023 07:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[58,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_33/1690870673426DJR09_JPEG/37835928217905479_1159657039.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
