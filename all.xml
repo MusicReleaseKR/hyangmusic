@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 09:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 10:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김추자 - 골든 힛트송 (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9058536821</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9058536821</guid>
+            <pubDate>Wed, 16 Aug 2023 10:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230816_117/1692179763789oMqmb_JPEG/6855353133639623_1478269817.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 스즈메의 문단속 (180G 2LP) [재발매] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9057918533</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 11:03:19 GMT</pubDate>
             <content:encoded><![CDATA[18,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230801_83/1690885414720TJDF6_JPEG/36901998550684712_153475711.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Squid - O Monolith (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/8974989299</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/8974989299</guid>
-            <pubDate>Tue, 01 Aug 2023 11:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230801_182/1690884418450Ah8Og_JPEG/17391243564756790_1228263386.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
