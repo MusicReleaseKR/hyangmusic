@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 12:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 13:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -386,7 +386,7 @@
 														동물 (EP) [예약판매] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Fri, 18 Aug 2023 12:10:08 GMT</pubDate>
+            <pubDate>Fri, 18 Aug 2023 12:10:00 GMT</pubDate>
             <content:encoded><![CDATA[8,900 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
         </item>
@@ -505,7 +505,7 @@
             <title><![CDATA[동물 (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Fri, 18 Aug 2023 12:10:31 GMT</pubDate>
+            <pubDate>Fri, 18 Aug 2023 12:10:20 GMT</pubDate>
             <content:encoded><![CDATA[쏜애플 (Thornapple)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
         </item>
