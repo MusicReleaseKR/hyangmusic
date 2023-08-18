@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 11:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 12:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - 일타 스캔들 (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9070589881</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9070589881</guid>
+            <pubDate>Fri, 18 Aug 2023 12:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[48,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230818_57/1692356330903gm48p_JPEG/7246037773054197_192536345.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이비티비 ABTB - 2집 Daydream (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9070511507</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Aug 2023 08:08:22 GMT</pubDate>
             <content:encoded><![CDATA[45,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230807_258/16913938329032g3BX_JPEG/3028659717007811_1559954983.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mitski - The Land Is Inhospitable and So Are We (ROBIN EGG BLUE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9008061740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9008061740</guid>
-            <pubDate>Mon, 07 Aug 2023 08:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[45,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230807_33/16913937254183Fvs2_JPEG/17108719017498783_904981368.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
