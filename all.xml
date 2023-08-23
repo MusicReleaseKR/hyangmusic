@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 10:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:02:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Evangelion Finally 신세기 에반게리온 보컬 베스트 모음집 - 파이널리 (핑크 & 마젠타 컬러 2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9097211557</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9097211557</guid>
+            <pubDate>Wed, 23 Aug 2023 11:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[58,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230823_53/169278466035334mlt_JPEG/26644052166818187_1417805423.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Neon Genesis Evangeion 신세기 에반게리온 [CLEAR BLACK & BLUE COLOURED 2LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9097125143</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 12:17:08 GMT</pubDate>
             <content:encoded><![CDATA[64,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230808_193/1691492942050lqAOG_JPEG/6418630170206052_1129692630.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Damian Lewis - Mission Creep (SKY BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9015074735</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9015074735</guid>
-            <pubDate>Tue, 08 Aug 2023 11:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230808_271/16914921101871kxwN_JPEG/17207103794685167_655144386.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 (Thornapple)
