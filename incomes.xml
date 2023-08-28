@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 04:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 05:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다브다 (Dabda)
+														Yonder (EP) [예약판매]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
+            <pubDate>Mon, 28 Aug 2023 05:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[16,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏜애플 (Thornapple)
 														동물 (EP) [예약판매]]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Mon, 10 Apr 2023 07:02:42 GMT</pubDate>
             <content:encoded><![CDATA[9,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-000546_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써드 스톤 (Third Stone)
-														Psychiatric Hospital]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
-            <pubDate>Thu, 30 Mar 2023 04:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[17,800]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
