@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 03:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 04:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,15 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230814_221/1691992172556YNN8e_JPEG/37847280381883322_1653598123.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏜애플 (Thornapple)
-														동물 (EP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Fri, 18 Aug 2023 12:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -373,6 +364,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쏜애플 (Thornapple)
+														동물 (EP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
+            <pubDate>Fri, 18 Aug 2023 12:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다브다 (Dabda)
 														Yonder (EP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
@@ -380,15 +380,6 @@
             <pubDate>Thu, 17 Aug 2023 11:01:43 GMT</pubDate>
             <content:encoded><![CDATA[16,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 (Thornapple)
-														동물 (EP) [예약판매] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Fri, 18 Aug 2023 12:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공중그늘 (Gong Joong Geu Neul)
@@ -445,14 +436,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-000546_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동물 (EP) (모바일 향뮤직 ─ 예약 음반)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Fri, 18 Aug 2023 12:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[쏜애플 (Thornapple)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -485,20 +468,20 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yonder (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
-            <pubDate>Thu, 17 Aug 2023 11:02:04 GMT</pubDate>
-            <content:encoded><![CDATA[다브다 (Dabda)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[동물 (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
             <pubDate>Fri, 18 Aug 2023 12:10:20 GMT</pubDate>
             <content:encoded><![CDATA[쏜애플 (Thornapple)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yonder (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
+            <pubDate>Thu, 17 Aug 2023 11:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[다브다 (Dabda)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광원 (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>

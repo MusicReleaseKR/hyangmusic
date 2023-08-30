@@ -4,17 +4,9 @@
         <title>모바일 향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 03:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 04:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Yonder (EP)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
-            <pubDate>Mon, 28 Aug 2023 05:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[다브다 (Dabda)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[동물 (EP)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 18 Aug 2023 12:10:31 GMT</pubDate>
             <content:encoded><![CDATA[쏜애플 (Thornapple)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yonder (EP)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
+            <pubDate>Mon, 28 Aug 2023 05:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[다브다 (Dabda)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광원 (EP)]]></title>
