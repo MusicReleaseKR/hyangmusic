@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 10:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 11:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[햄스터 파우더 클럽 - Goodnight Everyone, No More Magicpower (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9161928623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9161928623</guid>
+            <pubDate>Mon, 04 Sep 2023 11:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230904_166/16938212294760fezN_JPEG/5474551519641853_280128559.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kazumi Tateishi Trio - meets Beautiful Standards (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9161452475</link>
@@ -320,12 +328,13 @@
             <enclosure url="https://shop-phinf.pstatic.net/20230818_188/1692355346101WfiTe_JPEG/6204599899142341_1982393759.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버벌 진트 Verbal Jint - K-XY : INFP (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9069062124</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9069062124</guid>
-            <pubDate>Fri, 18 Aug 2023 06:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230818_52/1692337693887q2RMr_JPEG/19167925460217274_782866648.jpg?type=f140" length="0" type="image/jpg"/>
+            <title><![CDATA[햄스터 파우더 클럽
+														Goodnight Everyone, No More Magicpower [예약판매] (향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
+            <pubDate>Mon, 04 Sep 2023 11:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
@@ -362,6 +371,15 @@
             <pubDate>Sun, 26 Feb 2023 16:04:02 GMT</pubDate>
             <content:encoded><![CDATA[55,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[햄스터 파우더 클럽
+														Goodnight Everyone, No More Magicpower [예약판매] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
+            <pubDate>Mon, 04 Sep 2023 11:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[15,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏜애플 (Thornapple)
@@ -427,13 +445,12 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005362_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 나인 (Cloud 9)
-														1집 - The Road (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=546&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=546&amp;album_mode=music</guid>
-            <pubDate>Mon, 10 Apr 2023 07:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[9,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-000546_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Goodnight Everyone, No More Magicpower (모바일 향뮤직 ─ 예약 음반)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
+            <pubDate>Mon, 04 Sep 2023 11:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[햄스터 파우더 클럽]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -466,6 +483,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[검정치마 (The Black Skirts)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goodnight Everyone, No More Magicpower (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
+            <pubDate>Mon, 04 Sep 2023 11:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[햄스터 파우더 클럽]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물 (EP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -537,7 +562,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5361&amp;album_mode=music</guid>
             <pubDate>Thu, 23 Mar 2023 07:02:44 GMT</pubDate>
             <content:encoded><![CDATA[써드 스톤 (Third Stone)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005361_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[나의 해방일지 (2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -617,14 +642,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5360&amp;album_mode=music</guid>
             <pubDate>Mon, 06 Mar 2023 10:04:10 GMT</pubDate>
             <content:encoded><![CDATA[김일두 / 하헌진]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔앨범 (180G LP) [신중현 작편곡집] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1196&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1196&amp;album_mode=music</guid>
-            <pubDate>Mon, 06 Mar 2023 10:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[임아영]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
