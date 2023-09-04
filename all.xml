@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 11:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 12:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,7 +377,7 @@
 														Goodnight Everyone, No More Magicpower [예약판매] (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
-            <pubDate>Mon, 04 Sep 2023 11:02:39 GMT</pubDate>
+            <pubDate>Mon, 04 Sep 2023 11:02:29 GMT</pubDate>
             <content:encoded><![CDATA[15,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
@@ -488,7 +488,7 @@
             <title><![CDATA[Goodnight Everyone, No More Magicpower (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
-            <pubDate>Mon, 04 Sep 2023 11:03:04 GMT</pubDate>
+            <pubDate>Mon, 04 Sep 2023 11:02:51 GMT</pubDate>
             <content:encoded><![CDATA[햄스터 파우더 클럽]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
         </item>
