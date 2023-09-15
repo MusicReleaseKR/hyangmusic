@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 12:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 13:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,7 +414,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</guid>
             <pubDate>Mon, 19 Jun 2023 13:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[46,800 원]]></content:encoded>
+            <content:encoded><![CDATA[44,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008855_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
