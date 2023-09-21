@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - D.P 웹드라마 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9254500592</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9254500592</guid>
+            <pubDate>Thu, 21 Sep 2023 03:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[62,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230921_11/1695263126394PpwCk_JPEG/13266793201473127_1733479651.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jimmy Smith - Midnight Special (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9224259695</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 07:02:08 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230831_214/1693464493330yb6Mj_JPEG/11767925111689349_216927033.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - 아름다운 사람아 아름다운 노래를 (150G CRYSTAL COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9139308606</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9139308606</guid>
-            <pubDate>Thu, 31 Aug 2023 07:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230831_118/1693463690364qDJCI_JPEG/5117012412797163_1223273958.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
