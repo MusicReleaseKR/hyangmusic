@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 09:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 10:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - HAN 2023 (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9286122137</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9286122137</guid>
+            <pubDate>Wed, 27 Sep 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[54,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230927_100/1695806984204AXaVN_JPEG/7489063424240635_637565865.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VA - 오늘도 안녕을 비네 - 제임스레코드의 세번째 컴필레이션 (CLEAR BLUE COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9285576517</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Sep 2023 09:02:00 GMT</pubDate>
             <content:encoded><![CDATA[56,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230905_19/1693901767143BLqN3_JPEG/18242795966692323_250717614.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던 DAWN - Narcissus (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9167185240</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9167185240</guid>
-            <pubDate>Fri, 22 Sep 2023 09:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230905_69/1693900818724CQtmB_JPEG/5554140769745482_2007252712.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
