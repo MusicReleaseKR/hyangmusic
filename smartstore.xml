@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 11:02:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 12:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민 (방탄소년단) - FACE (COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9360680701</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9360680701</guid>
+            <pubDate>Thu, 12 Oct 2023 12:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[52,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231012_219/1697110070803eXhHe_JPEG/44257569610556866_299601146.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유재하 - 사랑하기 때문에 (180G EMERALD COLOURED LP) [SPECIAL VINYL EDITION]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9349009721</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 03 Oct 2023 06:08:01 GMT</pubDate>
             <content:encoded><![CDATA[20,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230912_152/1694524772468glre8_JPEG/10814864293738506_500496178.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화지 Hwaji - ZISSOU (180G OPAQUE RED COLOURED 2LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9204708987</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9204708987</guid>
-            <pubDate>Tue, 12 Sep 2023 05:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[63,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230912_244/1694491631725xKbIk_JPEG/10781723544866364_1922580652.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
