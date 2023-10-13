@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 11:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 12:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우효 Oohyo - 2집 성난 도시로부터 멀리 (LP) [자켓 불량] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366166171</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366166171</guid>
+            <pubDate>Fri, 13 Oct 2023 12:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_42/1697194425853dwpag_JPEG/7376636700256740_1815388630.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - Songs From Beauty And The Beast 미녀와 야수 (CANARY YELLOW COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9366069647</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 04:03:13 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230921_77/1695267570728XbYVO_JPEG/3687987604864273_835753697.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - GUTS (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254674872</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254674872</guid>
-            <pubDate>Thu, 21 Sep 2023 04:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_128/1695266084079Cndi4_JPEG/3116739853788857_252052193.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
