@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 10:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 11:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Songs From Beauty And The Beast 미녀와 야수 (CANARY YELLOW COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366069647</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366069647</guid>
+            <pubDate>Fri, 13 Oct 2023 11:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_98/1697193187739H92oL_JPEG/47367729675384695_797724281.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cannonball Adderley - Somethin' Else [180G BLUE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9366028234</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9366028234</guid>
+            <pubDate>Fri, 13 Oct 2023 11:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[29,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_198/1697192567492jnfY3_JPEG/21700992662851552_775161405.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stan Getz - Marrakesh Express (Verve By Request Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9365939076</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9365939076</guid>
+            <pubDate>Fri, 13 Oct 2023 11:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231013_191/1697191364282841hb_JPEG/8819462160075573_1128797291.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sarah Vaughan - Great Women Of Song - Sarah Vaughan [LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9365895805</link>
@@ -302,30 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 04:03:13 GMT</pubDate>
             <content:encoded><![CDATA[21,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230921_128/1695266084079Cndi4_JPEG/3116739853788857_252052193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상 - 3집 Cliché (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254569075</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254569075</guid>
-            <pubDate>Thu, 21 Sep 2023 04:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[47,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_102/1695264500153GKpKx_JPEG/23072458130574371_121781254.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - D.P 웹드라마 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9254500592</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9254500592</guid>
-            <pubDate>Thu, 21 Sep 2023 03:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[62,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230921_11/1695263126394PpwCk_JPEG/13266793201473127_1733479651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Smith - Midnight Special (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9224259695</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9224259695</guid>
-            <pubDate>Fri, 15 Sep 2023 12:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20230915_124/1694779247211UwxKw_JPEG/8668105015205033_493363771.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
