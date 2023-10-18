@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 10:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 11:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박규희 X 박주원 - TWO GUITARS (CD & 악보집)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9393274797</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9393274797</guid>
+            <pubDate>Wed, 18 Oct 2023 11:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[29,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_71/1697625201297aTt0p_JPEG/28425802255368083_1315613193.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도마 Doma - 2집 도마 (140G COOL GRAY COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9393197132</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9393197132</guid>
+            <pubDate>Wed, 18 Oct 2023 11:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_272/1697623917965aBYil_JPEG/25830056778166981_783960288.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서영 - 사랑 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9393140889</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9393140889</guid>
+            <pubDate>Wed, 18 Oct 2023 11:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_67/1697623207882adWeS_JPEG/9251305758436701_1944174555.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오프더메뉴 off the menu - Every Point of View (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9393105999</link>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 06 Oct 2023 12:10:08 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231006_12/1696589892877kSGXA_JPEG/46836320801824431_1839908143.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - 발레리나 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9328460830</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9328460830</guid>
-            <pubDate>Fri, 06 Oct 2023 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[50,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231006_108/1696577849954Svvgk_JPEG/24167268934173972_1654158227.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강해진 - 잔혹동화 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9328281352</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9328281352</guid>
-            <pubDate>Fri, 06 Oct 2023 08:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231006_175/16965756070158LuhP_JPEG/215299305046252_1542724829.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 Bobby - ROBERT (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9323369103</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9323369103</guid>
-            <pubDate>Thu, 05 Oct 2023 10:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231005_116/1696498044945bxa76_JPEG/9965544463951682_479755340.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
