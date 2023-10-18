@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 03:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 04:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심규선 Lucia - #HUMANKIND (180G COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9391047636</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9391047636</guid>
+            <pubDate>Wed, 18 Oct 2023 04:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[71,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231018_257/1697597686806p8qsy_JPEG/6028961685304337_828651204.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오왠 O When - When It Loves (45Rpm CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9390999041</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 15:02:09 GMT</pubDate>
             <content:encoded><![CDATA[38,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231004_125/1696428923256olWxQ_JPEG/7281511368420127_735774870.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅산 - 7집 I Love You (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9316830182</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9316830182</guid>
-            <pubDate>Wed, 04 Oct 2023 06:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231004_214/16963959336217EoW5_JPEG/10727597792340606_156704901.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
