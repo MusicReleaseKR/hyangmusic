@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 09:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 10:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴리 잇 머신 Lilly Eat Machine - 우리는 불연소의 여름에 갇힌 채 밤을 맞고 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9398677200</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9398677200</guid>
+            <pubDate>Thu, 19 Oct 2023 10:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[12,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231019_93/1697706484064FNoza_JPEG/35747748308049452_1743401174.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기리보이 Giriboy - 10집 소설 쓰고 자빠졌네 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9398596510</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 06:08:46 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231010_144/1696916898103FJ1ol_JPEG/47163326053336673_1153185830.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔분의일 (1/N) / POLARIS (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9329441511</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9329441511</guid>
-            <pubDate>Fri, 06 Oct 2023 12:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231006_4/1696591888539RbHAq_JPEG/12079176758196915_514631200.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
