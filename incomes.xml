@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 11:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 12:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림
+														6집 - 조금만 기다려요 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1199&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1199&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001199_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림
+														5집 - 한낮의 모래시계 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1198&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1198&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001198_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림
+														4집 - 특급열차 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1197&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1197&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001197_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신촌블루스
+														1집 - 그대없는 거리 (180G LP) [패닉버튼 리이슈]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1311&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1311&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 12:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[37,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001311_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack
 														알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
             <content:encoded><![CDATA[34,300 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008856_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넬 (Nell)
-														7집 - ‘c’ (180G PINK & PURPLE COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5370&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5370&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[48,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005370_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														슬기로운 의사생활 시즌 2 [180G SOLID WHITE & SOLID BLUE COLOURED 2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1800&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1800&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[51,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001800_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최안순
-														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														시원한 키타 경음악 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=897&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=897&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000897_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
