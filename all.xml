@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 09:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 10:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -355,6 +355,60 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이적
+														3집 - 나무로 만든 노래 (LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8857&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8857&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[36,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008857_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정재원 (적재)
+														The Lights (SILVER COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8856&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8856&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[34,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008856_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넬 (Nell)
+														7집 - ‘c’ (180G PINK & PURPLE COLOURED 2LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5370&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5370&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[48,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005370_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														슬기로운 의사생활 시즌 2 [180G SOLID WHITE & SOLID BLUE COLOURED 2LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1800&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1800&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[51,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001800_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최안순
+														흰구름 / 안개 낀 터미날 (180G PINK MABLE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1145&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001145_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists
+														시원한 키타 경음악 (180G LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=897&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOVA&amp;code=897&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000897_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[햄스터 파우더 클럽
 														Goodnight Everyone, No More Magicpower (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
@@ -371,60 +425,6 @@
             <pubDate>Fri, 18 Aug 2023 12:10:00 GMT</pubDate>
             <content:encoded><![CDATA[11,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다 (Dabda)
-														Yonder (EP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5367&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5367&amp;album_mode=music</guid>
-            <pubDate>Thu, 17 Aug 2023 11:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[16,300]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005367_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공중그늘 (Gong Joong Geu Neul)
-														광원 (EP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5365&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5365&amp;album_mode=music</guid>
-            <pubDate>Tue, 18 Jul 2023 15:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[18,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005365_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[khc / moribet
-														전파납치 (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5364&amp;album_mode=music</guid>
-            <pubDate>Wed, 12 Jul 2023 07:02:29 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005364_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크눌프 (Knulp)
-														Festival (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5363&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5363&amp;album_mode=music</guid>
-            <pubDate>Wed, 21 Jun 2023 06:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005363_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM (방탄소년단)
-														Indigo (COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8855&amp;album_mode=music</guid>
-            <pubDate>Mon, 19 Jun 2023 13:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[36,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008855_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위 아더 나잇 (We Are The Night)
-														Blue And Some Black (BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5362&amp;album_mode=music</guid>
-            <pubDate>Fri, 16 Jun 2023 06:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[34,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005362_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
