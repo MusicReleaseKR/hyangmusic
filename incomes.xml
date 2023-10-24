@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 10:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 11:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														알고 있지만 (180G WHITE COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1801&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1801&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 11:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[45,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001801_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D_fi & Ashtray
+														Intersection (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5371&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5371&amp;album_mode=music</guid>
+            <pubDate>Tue, 24 Oct 2023 11:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[20,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005371_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이적
 														3집 - 나무로 만든 노래 (LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 24 Oct 2023 10:02:15 GMT</pubDate>
             <content:encoded><![CDATA[31,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOVA/KOVA-000897_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햄스터 파우더 클럽
-														Goodnight Everyone, No More Magicpower]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5369&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Oct 2023 23:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005369_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 (Thornapple)
-														동물 (EP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5368&amp;album_mode=music</guid>
-            <pubDate>Thu, 19 Oct 2023 23:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[11,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005368_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
