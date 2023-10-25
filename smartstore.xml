@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 10:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 11:02:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽하이 Epik High - Screen Time (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9430861452</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9430861452</guid>
+            <pubDate>Wed, 25 Oct 2023 11:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_42/1698231090120L0FGh_JPEG/6604768955929444_374734867.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬롬 Slom - 1집 WEATHER REPORT (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9430829570</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9430829570</guid>
+            <pubDate>Wed, 25 Oct 2023 11:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[56,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231025_57/1698230675790SokM0_JPEG/6604354645112769_840025320.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신날새 - 1집 해금 in Melodies (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9429084571</link>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 09:03:36 GMT</pubDate>
             <content:encoded><![CDATA[62,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20230614_165/1686744145315iJh4m_JPEG/11022664124241886_820851635.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (TRANSPARENT PURPLE COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9348895269</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9348895269</guid>
-            <pubDate>Tue, 10 Oct 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231010_137/1696926094021wEvNa_JPEG/42357304809790578_838227538.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은하 - 겨울장미, 사랑의 그림자 (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9348879168</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9348879168</guid>
-            <pubDate>Tue, 10 Oct 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231010_55/1696925405373hQcOh_JPEG/24514824353839051_243332562.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
