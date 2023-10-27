@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 10:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라드 뮤지엄 (Rad Museum)
+														Rad (130G 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=907&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=907&amp;album_mode=music</guid>
+            <pubDate>Fri, 27 Oct 2023 10:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[46,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000907_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼
+														1집 - Principle Of My Soul (10TH ANNIVERSARY) [180G LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8858&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8858&amp;album_mode=music</guid>
+            <pubDate>Fri, 27 Oct 2023 10:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[39,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008858_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														Jazz For The Open Road (DIGI-PAK)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
             <content:encoded><![CDATA[7,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000852_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For Those Peaceful Moments (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=849&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=849&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000849_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Dream A Little Dreamsville]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=POVA&amp;code=1190&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=POVA&amp;code=1190&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[9,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/POVA/POVA-001190_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
