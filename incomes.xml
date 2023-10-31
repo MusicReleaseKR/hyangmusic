@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 10:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 11:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허림
+														노래모음 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1200&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1200&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 11:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001200_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에
+														2집 - 나는 사춘기 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1313&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1313&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 11:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001313_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강산에
 														1집 - ...라구요,예럴랄라]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 31 Oct 2023 07:02:34 GMT</pubDate>
             <content:encoded><![CDATA[31,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008773_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라드 뮤지엄 (Rad Museum)
-														Rad (130G 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=907&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=907&amp;album_mode=music</guid>
-            <pubDate>Fri, 27 Oct 2023 10:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[46,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000907_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼
-														1집 - Principle Of My Soul (10TH ANNIVERSARY) [180G LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8858&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8858&amp;album_mode=music</guid>
-            <pubDate>Fri, 27 Oct 2023 10:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[39,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008858_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
