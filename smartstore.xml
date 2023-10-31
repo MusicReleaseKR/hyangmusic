@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노리플라이 no reply - 사랑이 있었네 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9458832934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9458832934</guid>
+            <pubDate>Tue, 31 Oct 2023 07:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231031_213/1698732316491ymXnr_JPEG/14323974312809385_1708681301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 그대들은 어떻게 살 것인가 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9458799884</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 17 Oct 2023 03:02:35 GMT</pubDate>
             <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231017_246/1697511390016ELzE2_JPEG/7659839827855878_99726866.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 5집 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9384989389</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9384989389</guid>
-            <pubDate>Tue, 17 Oct 2023 03:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_217/169751106456236h7G_JPEG/47685606479412910_276392683.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노리플라이 no reply - 사랑이 있었네 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9458832934</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9458832934</guid>
+            <pubDate>Tue, 31 Oct 2023 07:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231031_213/1698732316491ymXnr_JPEG/14323974312809385_1708681301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - 그대들은 어떻게 살 것인가 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9458799884</link>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231017_246/1697511390016ELzE2_JPEG/7659839827855878_99726866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이문세 - 5집 (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9384989389</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9384989389</guid>
-            <pubDate>Tue, 17 Oct 2023 03:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_217/169751106456236h7G_JPEG/47685606479412910_276392683.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -353,6 +353,15 @@
             <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안중재
+														New Generation (180G WHITE OPAQUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8773&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8773&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 07:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008773_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라드 뮤지엄 (Rad Museum)
@@ -418,15 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000846_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists
-														Jazz For A Coffee Break (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=852&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=852&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000852_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Generation (180G WHITE OPAQUE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8773&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8773&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 07:03:02 GMT</pubDate>
+            <content:encoded><![CDATA[안중재]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008773_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rad (130G 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=JAVA&amp;code=849&amp;album_mode=music</guid>
             <pubDate>Tue, 24 Oct 2023 13:09:23 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000849_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Dream A Little Dreamsville (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -600,14 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=906&amp;album_mode=music</guid>
             <pubDate>Tue, 24 Oct 2023 13:09:23 GMT</pubDate>
             <content:encoded><![CDATA[김신일]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[6집 - 조금만 기다려요 (180G LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1199&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1199&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 12:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[산울림]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
