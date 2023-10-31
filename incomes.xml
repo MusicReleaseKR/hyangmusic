@@ -4,9 +4,54 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 09:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 10:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강산에
+														1집 - ...라구요,예럴랄라]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1312&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1312&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001312_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														해를 품은 달 (180G COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1802&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1802&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[32,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001802_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하덕규
+														신곡집 (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8860&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8860&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008860_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시나위
+														6집 - 은퇴선언 (180G 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1295&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1295&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[39,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001295_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신승훈
+														8집 - The Shin Seung Hun (180G CLEAR COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8859&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8859&amp;album_mode=music</guid>
+            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[46,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008859_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안중재
 														New Generation (180G WHITE OPAQUE COLOURED LP)]]></title>
@@ -33,51 +78,6 @@
             <pubDate>Fri, 27 Oct 2023 10:02:26 GMT</pubDate>
             <content:encoded><![CDATA[39,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008858_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For The Open Road (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=847&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=847&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000847_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For The Quiet Times (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=850&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=850&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000850_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For A Day In The Park (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=845&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=845&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000845_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For Romantic Moments (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=853&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=853&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000853_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Jazz For A Lazy Day (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=846&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=JAVA&amp;code=846&amp;album_mode=music</guid>
-            <pubDate>Tue, 24 Oct 2023 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/JAVA/JAVA-000846_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
