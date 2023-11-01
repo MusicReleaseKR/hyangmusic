@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 10:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오르내림 (Olnl)
+														Cyber Lover (BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=909&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=909&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000909_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오르내림 (Olnl)
+														청소년관람불가 (180G RED COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=908&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=908&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[28,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000908_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승열
+														5집 - Syx (180G BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1314&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1314&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[32,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001314_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마더바이브 (Mothervives)
+														1집 - Mothervives (WHITE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2573&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2573&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[30,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002573_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투피엠 (2pm)
 														Must (LP)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
             <content:encoded><![CDATA[87,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006897_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허림
-														노래모음 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1200&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1200&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 Oct 2023 11:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001200_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에
-														2집 - 나는 사춘기 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1313&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1313&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 Oct 2023 11:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001313_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에
-														1집 - ...라구요,예럴랄라]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1312&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1312&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001312_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														해를 품은 달 (180G COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1802&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1802&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[32,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001802_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
