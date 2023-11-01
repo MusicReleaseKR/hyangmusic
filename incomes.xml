@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 08:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 09:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투피엠 (2pm)
+														Must (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</guid>
+            <pubDate>Wed, 01 Nov 2023 09:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[39,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008861_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana
 														Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY]]]></title>
@@ -22,7 +31,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5563&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5563&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[156,000]]></content:encoded>
+            <content:encoded><![CDATA[78,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005563_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
             <content:encoded><![CDATA[32,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001802_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하덕규
-														신곡집 (180G LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8860&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8860&amp;album_mode=music</guid>
-            <pubDate>Tue, 31 Oct 2023 10:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008860_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
