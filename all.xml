@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 07:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 08:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Liam Gallagher - Knebworth 22 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9465238677</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9465238677</guid>
+            <pubDate>Wed, 01 Nov 2023 08:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[22,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231101_240/1698824450925LA3Ms_JPEG/16151382460271495_1966135642.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane - Coltrane (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9464559375</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 18 Oct 2023 03:01:41 GMT</pubDate>
             <content:encoded><![CDATA[40,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231018_98/1697595631255Igm93_JPEG/47770173198552318_219903201.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무키무키만만수 - 2012 (130G SAUNA PINK COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9386497529</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9386497529</guid>
-            <pubDate>Tue, 17 Oct 2023 09:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[46,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231017_105/1697530082523CuajI_JPEG/7712293345882805_1516951261.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
