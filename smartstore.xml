@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 10:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 11:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anne-Marie - Unhealthy (CLEAR COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471205084</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471205084</guid>
+            <pubDate>Thu, 02 Nov 2023 11:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[37,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_88/1698919497147blDdW_JPEG/5467910124545164_1880642595.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dua Lipa - Future Nostalgia (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9471182987</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9471182987</guid>
+            <pubDate>Thu, 02 Nov 2023 11:02:41 GMT</pubDate>
+            <content:encoded><![CDATA[34,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231102_47/1698919212295oxFtM_JPEG/5467625265039880_1764618138.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Doors - The Doors (HQ-180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9471162865</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 06:07:55 GMT</pubDate>
             <content:encoded><![CDATA[84,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231019_159/1697694287943J1tiO_JPEG/29292236560869945_1574329867.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박규희 X 박주원 - TWO GUITARS (CD & 악보집)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393274797</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393274797</guid>
-            <pubDate>Wed, 18 Oct 2023 11:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_71/1697625201297aTt0p_JPEG/28425802255368083_1315613193.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마 Doma - 2집 도마 (140G COOL GRAY COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9393197132</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9393197132</guid>
-            <pubDate>Wed, 18 Oct 2023 11:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231018_272/1697623917965aBYil_JPEG/25830056778166981_783960288.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
