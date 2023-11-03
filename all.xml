@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 07:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 08:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,7 +455,7 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=909&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=909&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 12:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[오르내림 (Olnl)]]></content:encoded>
+            <content:encoded><![CDATA[오르내림 (OLNL)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000909_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -463,7 +463,7 @@
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=908&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=908&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 12:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[오르내림 (Olnl)]]></content:encoded>
+            <content:encoded><![CDATA[오르내림 (OLNL)]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000908_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
