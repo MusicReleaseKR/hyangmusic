@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 12:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 13:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6897&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6897&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[87,200 원]]></content:encoded>
+            <content:encoded><![CDATA[174,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006897_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
