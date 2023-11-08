@@ -4,15 +4,31 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 10:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 11:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넉살 X 까데호 - 당신께 (180G OPAQUE BABY PINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9502293623</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9502293623</guid>
+            <pubDate>Wed, 08 Nov 2023 11:01:20 GMT</pubDate>
+            <content:encoded><![CDATA[49,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231108_156/1699438953630CnsSW_JPEG/11988620411650885_658298256.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angra - Cycles Of Pain (Deluxe Edition) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9502248171</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9502248171</guid>
+            <pubDate>Wed, 08 Nov 2023 11:01:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231108_138/1699438103891fcJKe_JPEG/11987770679832398_382105816.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KK’s Priest - The Sinner Rides Again (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9502195242</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9502195242</guid>
             <pubDate>Wed, 08 Nov 2023 10:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231108_243/1699437186161ExuVs_JPEG/848343032150545_1104677484.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 31 Oct 2023 06:08:45 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231031_216/1698727302705A0HDI_JPEG/14318960515211524_2054622178.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예성 - Unfading Sense (LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9458345225</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9458345225</guid>
-            <pubDate>Tue, 31 Oct 2023 05:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231031_34/1698726442890e0GHd_JPEG/11933841339475531_371718973.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd - The Dark Side Of The Moon (Blu-Ray Audio) [발매 50주년 기념반]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9440913360</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9440913360</guid>
-            <pubDate>Fri, 27 Oct 2023 09:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231027_247/16983959421431GK0A_JPEG/31804152139545734_250084796.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
