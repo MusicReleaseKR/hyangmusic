@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 11:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 12:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wayne Shorter - Schizophrenia (Blue Note Tone Poet Series) [180G] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9513335239</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9513335239</guid>
+            <pubDate>Fri, 10 Nov 2023 12:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_134/1699617612684isf3B_JPEG/47206090054641213_162574960.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sun Ra - Space Is The Place (Verve By Request Series) [180G] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9513321078</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9513321078</guid>
+            <pubDate>Fri, 10 Nov 2023 12:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_65/1699617106186HQe54_JPEG/10550336951499377_1443481161.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ornette Coleman - Tomorrow Is The Question! (Contemporary Records Acoustic Sounds Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9513293499</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9513293499</guid>
+            <pubDate>Fri, 10 Nov 2023 12:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_285/1699616767109qYbtm_JPEG/3270849087093049_1268322266.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따마 Thama - WOOOF! (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9512234299</link>
@@ -304,30 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231101_295/1698825696204nMsjd_JPEG/12033094664261747_1731563597.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Liam Gallagher - Knebworth 22 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9465238677</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9465238677</guid>
-            <pubDate>Wed, 01 Nov 2023 08:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231101_240/1698824450925LA3Ms_JPEG/16151382460271495_1966135642.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane - Coltrane (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9464559375</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9464559375</guid>
-            <pubDate>Wed, 01 Nov 2023 06:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231101_277/1698816647287maEzU_JPEG/32224857287262249_1107283795.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hank Mobley - No Room for Squares  (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9464541444</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9464541444</guid>
-            <pubDate>Wed, 01 Nov 2023 06:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231101_78/1698816098422ipNQM_JPEG/16143029957531087_1642877112.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -353,6 +353,15 @@
             <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														남한산성 (180G Gate-Fold 2LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1804&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1804&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 12:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[60,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001804_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soundtrack
@@ -418,15 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/TRIP/TRIP-000562_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[My Bloody Valentine
-														Isn't Anything (LP) [MP3 DOWN CODE] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2203&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2203&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[28,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-002203_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남한산성 (180G Gate-Fold 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1804&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KOST&amp;code=1804&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 12:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Soundtrack]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001804_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Samurai Champloo Music Record - Playlist (사무라이 참프루) [2LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=TEEN&amp;code=2288&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Nov 2023 10:02:21 GMT</pubDate>
             <content:encoded><![CDATA[Lauv]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002288_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Big Time (OPAQUE PINK COLOURED 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -598,14 +606,6 @@
             <title><![CDATA[Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY] (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5564&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5564&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 07:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[Nirvana]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Nevermind (5CD + Blue-Ray SUPER DELUXE) [30TH ANNIVERSARY] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5563&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5563&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 07:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Nirvana]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
