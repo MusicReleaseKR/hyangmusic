@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 05:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 06:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Janis Joplin
+														Kosmic Summertime - The 1969 Live Legends (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6441&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6441&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 06:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[23,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006441_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beirut
+														Artifacts [2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8764&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8764&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 06:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[32,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008764_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오르내림 (OLNL)
 														Cyber Lover (BLUE COLOURED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
             <content:encoded><![CDATA[16,200 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005564_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (5CD + Blue-Ray SUPER DELUXE) [30TH ANNIVERSARY]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5563&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5563&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[156,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005563_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles
-														Revolver (2022 SUPER DELUXE 5CD BOX SET)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6897&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=OLDR&amp;code=6897&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[174,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/OLDR/OLDR-006897_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
