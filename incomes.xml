@@ -4,9 +4,45 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 09:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kylie Minogue
+														Fever (180G LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=2835&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=2835&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[38,600]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-002835_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia
+														This Is Acting (GATEFOLD 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TRIP&amp;code=562&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TRIP&amp;code=562&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[41,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TRIP/TRIP-000562_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Bloody Valentine
+														Isn't Anything (LP) [MP3 DOWN CODE]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2203&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=MODR&amp;code=2203&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[28,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-002203_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lauv
+														All 4 Nothing (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2288&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2288&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[33,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002288_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Angel Olsen
 														Big Time (OPAQUE PINK COLOURED 2LP)]]></title>
@@ -42,42 +78,6 @@
             <pubDate>Fri, 10 Nov 2023 06:09:02 GMT</pubDate>
             <content:encoded><![CDATA[32,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008764_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오르내림 (OLNL)
-														Cyber Lover (BLUE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=909&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=909&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[31,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000909_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오르내림 (OLNL)
-														청소년관람불가 (180G RED COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=908&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=908&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[28,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000908_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승열
-														5집 - Syx (180G BLUE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1314&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1314&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[32,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001314_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마더바이브 (Mothervives)
-														1집 - Mothervives (WHITE COLOURED LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2573&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KNJM&amp;code=2573&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[30,800 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002573_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
