@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Angel Olsen
+														Big Time (OPAQUE PINK COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[38,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008766_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen
+														Big Time [2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[36,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008765_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Janis Joplin
 														Kosmic Summertime - The 1969 Live Legends (LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Wed, 01 Nov 2023 10:02:15 GMT</pubDate>
             <content:encoded><![CDATA[30,800 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002573_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투피엠 (2pm)
-														Must (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 09:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[39,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008861_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5564&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5564&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[16,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005564_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

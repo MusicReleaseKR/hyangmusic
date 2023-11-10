@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따마 Thama - WOOOF! (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9512234299</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9512234299</guid>
+            <pubDate>Fri, 10 Nov 2023 08:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_21/16996005993029IrFd_JPEG/51672986542448092_244636400.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사라 장 Sarah Chang - 비발디 사계 (Vivaldi -The Four Seasons) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9511023742</link>
@@ -320,14 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231101_78/1698816098422ipNQM_JPEG/16143029957531087_1642877112.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ella Fitzgerald - Ella Wishes You A Swinging Christmas (RED COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9464510876</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9464510876</guid>
-            <pubDate>Wed, 01 Nov 2023 06:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231101_107/1698815672123NUMNe_JPEG/226828976683362_2123195966.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -353,6 +353,24 @@
             <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen
+														Big Time (OPAQUE PINK COLOURED 2LP) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[38,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008766_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen
+														Big Time [2LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[36,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008765_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Janis Joplin
@@ -409,24 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KNJM/KNJM-002573_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[투피엠 (2pm)
-														Must (LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8861&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 09:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[39,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008861_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirvana
-														Nevermind (2CD DELUXE EDITION) [30TH ANNIVERSARY] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5564&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=5564&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Nov 2023 07:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[16,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005564_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,22 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Time (OPAQUE PINK COLOURED 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8766&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8766&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[Angel Olsen]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008766_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Time [2LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8765&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8765&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 08:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[Angel Olsen]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008765_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kosmic Summertime - The 1969 Live Legends (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -512,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5564&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 07:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Nirvana]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005564_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Nevermind (5CD + Blue-Ray SUPER DELUXE) [30TH ANNIVERSARY] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +536,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=5563&amp;album_mode=music</guid>
             <pubDate>Wed, 01 Nov 2023 07:02:40 GMT</pubDate>
             <content:encoded><![CDATA[Nirvana]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-005563_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Revolver (2022 SUPER DELUXE 5CD BOX SET) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -592,22 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8773&amp;album_mode=music</guid>
             <pubDate>Tue, 31 Oct 2023 07:03:02 GMT</pubDate>
             <content:encoded><![CDATA[안중재]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad (130G 2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=907&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KHOP&amp;code=907&amp;album_mode=music</guid>
-            <pubDate>Fri, 27 Oct 2023 10:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[라드 뮤지엄 (Rad Museum)]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[1집 - Principle Of My Soul (10TH ANNIVERSARY) [180G LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8858&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8858&amp;album_mode=music</guid>
-            <pubDate>Fri, 27 Oct 2023 10:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[나얼]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
