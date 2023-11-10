@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 12:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 13:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans Trio - How My Heart Sings! (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9513418501</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9513418501</guid>
+            <pubDate>Fri, 10 Nov 2023 13:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_27/1699618927037kXs6f_JPEG/1030083916299895_1409102955.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Blakey The Jazz Messengers - Ugetsu (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9513374436</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9513374436</guid>
+            <pubDate>Fri, 10 Nov 2023 13:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231110_236/1699618074039914sV_JPEG/3272156015075812_1397012575.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wayne Shorter - Schizophrenia (Blue Note Tone Poet Series) [180G]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9513335239</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 02 Nov 2023 08:07:49 GMT</pubDate>
             <content:encoded><![CDATA[22,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231102_271/16989088485227b5PN_JPEG/25827418936342889_1862336073.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필 - LIFE (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9470003382</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9470003382</guid>
-            <pubDate>Thu, 02 Nov 2023 06:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231102_99/1698903785762t1Y90_JPEG/12178959572124329_1329696197.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eagles - Hotel California (180g LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9465303512</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9465303512</guid>
-            <pubDate>Wed, 01 Nov 2023 09:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[34,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231101_295/1698825696204nMsjd_JPEG/12033094664261747_1731563597.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
