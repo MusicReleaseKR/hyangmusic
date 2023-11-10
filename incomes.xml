@@ -4,16 +4,61 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 10:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 11:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack
+														Samurai Champloo Music Record - Playlist (사무라이 참프루) [2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=525&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=525&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[60,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000525_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Samurai Champloo Music Record - Masta (사무라이 참프루) [2LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=524&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=AOST&amp;code=524&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[60,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/AOST/AOST-000524_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														별에서 온 그대 (150G CLEAR BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1803&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KOST&amp;code=1803&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[31,200 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KOST/KOST-001803_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Soundtrack
+														Love Actually (러브 액츄얼리) [CANDY CANE COLOURED 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5471&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5471&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005471_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eric Clapton
+														Unplugged (180G 2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=4121&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=4121&amp;album_mode=music</guid>
+            <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[43,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-004121_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kylie Minogue
 														Fever (180G LP)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=2835&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=2835&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[38,600]]></content:encoded>
+            <content:encoded><![CDATA[27,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-002835_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -33,51 +78,6 @@
             <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
             <content:encoded><![CDATA[28,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/MODR/MODR-002203_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lauv
-														All 4 Nothing (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2288&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=TEEN&amp;code=2288&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 10:01:56 GMT</pubDate>
-            <content:encoded><![CDATA[33,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/TEEN/TEEN-002288_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen
-														Big Time (OPAQUE PINK COLOURED 2LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8766&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[38,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008766_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angel Olsen
-														Big Time [2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8765&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 08:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[36,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008765_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Janis Joplin
-														Kosmic Summertime - The 1969 Live Legends (LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6441&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=BLFO&amp;code=6441&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 06:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[23,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/BLFO/BLFO-006441_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beirut
-														Artifacts [2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8764&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8764&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 06:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[32,500 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008764_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
