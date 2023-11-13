@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5471&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5471&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Nov 2023 11:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
+            <content:encoded><![CDATA[57,200]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005471_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
