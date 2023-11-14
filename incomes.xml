@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 12:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 13:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Metallica
+														72 Seasons (2LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4733&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4733&amp;album_mode=music</guid>
+            <pubDate>Tue, 14 Nov 2023 13:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[46,000 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-004733_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stella Donnelly
+														Flood (LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8770&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=8770&amp;album_mode=music</guid>
+            <pubDate>Tue, 14 Nov 2023 13:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[23,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008770_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stella Donnelly 
 														Flood (OPAQUE RED COLOURED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
             <content:encoded><![CDATA[40,000 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005836_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten
-														We've Been Going About This All Wrong (LP) [MP3 DOWN CODE]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8617&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8617&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[24,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008617_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sharon Van Etten
-														 We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP) [MP3 DOWN CODE]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8616&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=8616&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[24,200 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008616_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
