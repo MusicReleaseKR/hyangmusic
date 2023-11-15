@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 13:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 14:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,7 +401,7 @@
         </item>
         <item>
             <title><![CDATA[Squid
-														O Monolith (TRANSPARENT BLUE COLOURED LP) (향뮤직 ─ 입고 리스트)]]></title>
+														O Monolith (LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=PUNK&amp;code=2168&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=PUNK&amp;code=2168&amp;album_mode=music</guid>
             <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
@@ -491,7 +491,7 @@
             <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-008767_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[O Monolith (TRANSPARENT BLUE COLOURED LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <title><![CDATA[O Monolith (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PUNK&amp;code=2168&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PUNK&amp;code=2168&amp;album_mode=music</guid>
             <pubDate>Tue, 14 Nov 2023 12:10:23 GMT</pubDate>
