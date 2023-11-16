@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 06:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 07:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dragonland
+														Holy War]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=488&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=488&amp;album_mode=music</guid>
+            <pubDate>Thu, 16 Nov 2023 07:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[7,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-000488_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Metallica
 														72 Seasons (2LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
             <content:encoded><![CDATA[32,400 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/PUNK/PUNK-002167_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack
-														Top Gun Maverick (탑 건 매버릭) [WHITE COLOURED 2LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5836&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5836&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005836_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

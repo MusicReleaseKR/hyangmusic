@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 06:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 07:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -355,6 +355,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dragonland
+														Holy War (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=488&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=GOME&amp;code=488&amp;album_mode=music</guid>
+            <pubDate>Thu, 16 Nov 2023 07:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[7,500 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-000488_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Metallica
 														72 Seasons (2LP) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=HEVM&amp;code=4733&amp;album_mode=music</link>
@@ -418,15 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/PUNK/PUNK-002167_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundtrack
-														Top Gun Maverick (탑 건 매버릭) [WHITE COLOURED 2LP] (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5836&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WOST&amp;code=5836&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[40,000 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WOST/WOST-005836_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holy War (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=488&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=488&amp;album_mode=music</guid>
+            <pubDate>Thu, 16 Nov 2023 07:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[Dragonland]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/GOME/GOME-000488_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[72 Seasons (2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=8617&amp;album_mode=music</guid>
             <pubDate>Tue, 14 Nov 2023 12:10:23 GMT</pubDate>
             <content:encoded><![CDATA[Sharon Van Etten]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-008617_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[We've Been Going About This All Wrong (MARBLE SMOKE COLOURED LP) [MP3 DOWN CODE] (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -600,14 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=TRIP&amp;code=562&amp;album_mode=music</guid>
             <pubDate>Fri, 10 Nov 2023 10:02:21 GMT</pubDate>
             <content:encoded><![CDATA[Sia]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Isn't Anything (LP) [MP3 DOWN CODE] (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=2203&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MODR&amp;code=2203&amp;album_mode=music</guid>
-            <pubDate>Fri, 10 Nov 2023 10:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[My Bloody Valentine]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
