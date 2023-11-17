@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 11:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 12:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -355,76 +355,76 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Anna Calvi
-														One Breath (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6098&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6098&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006098_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Various Artists
+														그대와 여는 아침 4 (10주년 기념) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=VWOR&amp;code=1045&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=VWOR&amp;code=1045&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[8,900 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VWOR/VWOR-001045_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제이와이 리 (Jy Lee)
-														Fisherman (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4395&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=4395&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[6,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004395_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kills
-														Ash & Ice (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6912&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6912&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006912_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Avey Tare's Slasher Flicks
-														Enter The Slasher House (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6252&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6252&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006252_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magnetic Fields
-														The Charm Of The Highway Strip (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=1086&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=1086&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[18,500]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-001086_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Hart
-														Argument (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4460&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ATNR&amp;code=4460&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-004460_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Salvia Plath
-														Brado Story (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6082&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=6082&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[10,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006082_s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고상지
+														4집 - El Gran Astor Piazzoll (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[7,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001149_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists
-														The Year Of The Tiger (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=MEVA&amp;code=84&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=MEVA&amp;code=84&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[3,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MEVA/MEVA-000084_s.jpg" length="0" type="image/jpg"/>
+														Earth Vol. 7 (CD & DVD) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ELVA&amp;code=467&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ELVA&amp;code=467&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[11,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ELVA/ELVA-000467_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Acker Bilk
+														Stranger On The Shore (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=2250&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=2250&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[7,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-002250_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Linda Eder
+														The Other Side Of Me (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=4282&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=4282&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[8,600 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-004282_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Straylight Run
+														Straylight Run (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=3366&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=3366&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[8,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-003366_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Astor Piazzolla
+														Long Play Collection (REMASTERED) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2621&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2621&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[10,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002621_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테테 (Tete)
+														1집 - Eclipse (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[6,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-002300_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
@@ -451,12 +451,100 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그대와 여는 아침 4 (10주년 기념) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VWOR&amp;code=1045&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=VWOR&amp;code=1045&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/VWOR/VWOR-001045_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4집 - El Gran Astor Piazzoll (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1149&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ODKP&amp;code=1149&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[고상지]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001149_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth Vol. 7 (CD & DVD) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ELVA&amp;code=467&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ELVA&amp;code=467&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ELVA/ELVA-000467_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stranger On The Shore (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=STAN&amp;code=2250&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=STAN&amp;code=2250&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Acker Bilk]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-002250_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Other Side Of Me (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=4282&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CONT&amp;code=4282&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Linda Eder]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-004282_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Straylight Run (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=3366&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=3366&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Straylight Run]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-003366_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long Play Collection (REMASTERED) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WWMU&amp;code=2621&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=WWMU&amp;code=2621&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Astor Piazzolla]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002621_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1집 - Eclipse (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=2300&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=2300&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[테테 (Tete)]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-002300_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Mind (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=7182&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=7182&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Real Estate]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-007182_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Volume Two (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=4871&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=4871&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[She &amp; Him]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
+            <title><![CDATA[Still Life (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLUB&amp;code=2918&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLUB&amp;code=2918&amp;album_mode=music</guid>
+            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Little Cub]]></content:encoded>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+        </item>
+        <item>
             <title><![CDATA[One Breath (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=6098&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=6098&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Anna Calvi]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006098_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Fisherman (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -464,7 +552,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KINR&amp;code=4395&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[제이와이 리 (Jy Lee)]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-004395_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Ash & Ice (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -472,7 +560,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=6912&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Kills]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006912_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Enter The Slasher House (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -480,7 +568,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=6252&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Avey Tare's Slasher Flicks]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006252_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Charm Of The Highway Strip (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -488,7 +576,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=1086&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Magnetic Fields]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-001086_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Argument (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -496,7 +584,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=ATNR&amp;code=4460&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Grant Hart]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ATNR/ATNR-004460_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Brado Story (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -504,7 +592,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=6082&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Salvia Plath]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-006082_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[The Year Of The Tiger (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -512,7 +600,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MEVA&amp;code=84&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/MEVA/MEVA-000084_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Engine (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,94 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1800&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Engine]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/HEVM/HEVM-001800_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Domegapeace (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=POPJ&amp;code=49&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=POPJ&amp;code=49&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Aoa]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Gateway (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1803&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1803&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Treasure Land]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Wings Of Forever (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=383&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=383&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Power Quest]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal Endless Infinity (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=288&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=288&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Visions Of Atlantis]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[I've Been To Hell (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1804&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1804&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Iron Savior]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Perfect Infect (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=646&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=646&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Warhead]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Reaching The Golden Gates (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=699&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=699&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Dream Child]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Stardom Is Here (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PUNK&amp;code=1491&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=PUNK&amp;code=1491&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Hybrid Children]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Holy War (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=488&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=GOME&amp;code=488&amp;album_mode=music</guid>
-            <pubDate>Thu, 16 Nov 2023 07:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[Dragonland]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[72 Seasons (2LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=4733&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=4733&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 13:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[Metallica]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Flood (LP) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8770&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=8770&amp;album_mode=music</guid>
-            <pubDate>Tue, 14 Nov 2023 13:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[Stella Donnelly]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>
