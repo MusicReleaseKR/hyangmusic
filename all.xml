@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 11:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 12:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,7 +369,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001149_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
