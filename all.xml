@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -355,6 +355,15 @@
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김목경
+														Old Fashioned Man (2021 REMASTERED) [LP] (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Nov 2023 10:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[29,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001205_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists
 														그대와 여는 아침 4 (10주년 기념) (향뮤직 ─ 입고 리스트)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=VWOR&amp;code=1045&amp;album_mode=music</link>
@@ -418,15 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002621_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테테 (Tete)
-														1집 - Eclipse (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-002300_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Old Fashioned Man (2021 REMASTERED) [LP] (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1205&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1205&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Nov 2023 10:02:16 GMT</pubDate>
+            <content:encoded><![CDATA[김목경]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001205_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대와 여는 아침 4 (10주년 기념) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=7182&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
             <content:encoded><![CDATA[Real Estate]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-007182_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[Volume Two (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -600,14 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=MEVA&amp;code=84&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Engine (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1800&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=HEVM&amp;code=1800&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 10:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[Engine]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

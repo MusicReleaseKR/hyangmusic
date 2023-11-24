@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 10:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김목경
+														Old Fashioned Man (2021 REMASTERED) [LP]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</guid>
+            <pubDate>Fri, 24 Nov 2023 10:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[29,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001205_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists
 														그대와 여는 아침 4 (10주년 기념)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
             <content:encoded><![CDATA[10,300 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002621_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테테 (Tete)
-														1집 - Eclipse]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=2300&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[13,400]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-002300_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
