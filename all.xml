@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 14:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 15:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kendrick Lamar - Damn (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589504380</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589504380</guid>
+            <pubDate>Sun, 26 Nov 2023 15:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[72,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_222/1701010468590XENzX_JPEG/14375405292349651_1742820578.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allman Brothers Band - At Fillmore East (BACK TO BLACK 180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589427622</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589427622</guid>
+            <pubDate>Sun, 26 Nov 2023 15:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[44,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_37/17010076284072hnLV_JPEG/14721760298301482_543897159.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tina Brooks - True Blue (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9589416014</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9589416014</guid>
+            <pubDate>Sun, 26 Nov 2023 15:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231126_257/1701007199698IK6rO_JPEG/12689278916410766_2017923152.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조동진 - 나무가 되어 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9589404250</link>
@@ -302,30 +326,6 @@
             <pubDate>Tue, 21 Nov 2023 06:08:05 GMT</pubDate>
             <content:encoded><![CDATA[14,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231121_191/1700543727086dD0Kp_JPEG/12225806303960782_354698370.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Studio Ghibli 스튜디오 지브리 대표작 주제가 모음집 (7 INCH 4LP & Bonus 7 INCH 1LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9543079948</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9543079948</guid>
-            <pubDate>Thu, 16 Nov 2023 14:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[104,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231116_297/1700141365590Sm96l_JPEG/13506302462358148_978794636.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Chet (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537617965</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537617965</guid>
-            <pubDate>Wed, 15 Nov 2023 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_223/1700052850786wohTy_JPEG/29144022042485804_1558321191.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker - Chet (180G COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9537601395</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9537601395</guid>
-            <pubDate>Wed, 15 Nov 2023 13:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[29,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231115_100/1700052574453Bdpga_JPEG/31617486256603209_612062113.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
