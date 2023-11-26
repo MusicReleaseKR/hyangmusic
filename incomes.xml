@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 13:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 14:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[써니힐 & 데이브레이크 (Daybreak)
+														들었다 놨다 (45RPM COLOURED 7INCH SINGLE LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5373&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5373&amp;album_mode=music</guid>
+            <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[24,300]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005373_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야마가타 트윅스터
+														애국가 / 찹쌀송 (45RPM 7인치 LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</guid>
+            <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005372_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김목경
 														Old Fashioned Man (2021 REMASTERED) [LP]]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
             <content:encoded><![CDATA[8,600 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-004282_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Straylight Run
-														Straylight Run]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=3366&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=3366&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[8,700 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-003366_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astor Piazzolla
-														Long Play Collection (REMASTERED)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2621&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=WWMU&amp;code=2621&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[10,300 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/WWMU/WWMU-002621_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
