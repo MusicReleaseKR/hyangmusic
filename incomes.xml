@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 07:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 08:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Speech
+														Disciples Of A Lyrical Rebellion]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=1396&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=1396&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Nov 2023 08:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[7,400 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-001396_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air
+														Everybody Hertz]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=185&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=185&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Nov 2023 08:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[7,800 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/CLUB/CLUB-000185_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부활
 														7th Best (180G BLUE COLOURED LP)]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001149_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														Earth Vol. 7 (CD & DVD)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ELVA&amp;code=467&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ELVA&amp;code=467&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[11,400 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ELVA/ELVA-000467_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Acker Bilk
-														Stranger On The Shore]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=2250&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=STAN&amp;code=2250&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[7,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-002250_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
