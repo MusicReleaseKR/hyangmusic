@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 02:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 03:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부활
+														7th Best (180G BLUE COLOURED LP)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1218&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1218&amp;album_mode=music</guid>
+            <pubDate>Thu, 30 Nov 2023 03:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,300 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001218_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[써니힐 & 데이브레이크 (Daybreak)
 														들었다 놨다 (45RPM COLOURED 7INCH SINGLE LP)]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
             <content:encoded><![CDATA[7,100 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/STAN/STAN-002250_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Linda Eder
-														The Other Side Of Me]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=4282&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=CONT&amp;code=4282&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[8,600 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/CONT/CONT-004282_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
