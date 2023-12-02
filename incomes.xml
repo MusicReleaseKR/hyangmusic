@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 09:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 10:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jimmy Cliff
+														ICON]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=LTRG&amp;code=1233&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=LTRG&amp;code=1233&amp;album_mode=music</guid>
+            <pubDate>Sat, 02 Dec 2023 10:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[8,700 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/LTRG/LTRG-001233_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Speech
 														Disciples Of A Lyrical Rebellion]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
             <content:encoded><![CDATA[8,900 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/VWOR/VWOR-001045_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고상지
-														4집 - El Gran Astor Piazzoll (DIGI-PAK)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1149&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001149_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
