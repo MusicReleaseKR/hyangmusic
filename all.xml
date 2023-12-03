@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 15:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 16:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kanye West - The College Dropout (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9614718946</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9614718946</guid>
+            <pubDate>Sun, 03 Dec 2023 16:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231204_169/1701615751234ULMWz_JPEG/1624363057911529_623940875.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chet Baker - Chet Baker Sings (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9614679947</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 01:45:52 GMT</pubDate>
             <content:encoded><![CDATA[58,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231128_98/1701098808165BODlP_JPEG/15081237764108254_960641598.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉제인간 - 12가지 말들 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9591250234</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9591250234</guid>
-            <pubDate>Thu, 30 Nov 2023 01:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[16,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231127_121/1701073317612CXFNo_JPEG/12755396815843665_1898740159.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
