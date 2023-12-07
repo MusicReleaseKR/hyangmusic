@@ -4,9 +4,27 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 11:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 12:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신스 (Since)
+														1집 - Since 16]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</guid>
+            <pubDate>Thu, 07 Dec 2023 12:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000910_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임영웅
+														1집 - Im Hero (GIFT Ver.) [한정반]]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</guid>
+            <pubDate>Thu, 07 Dec 2023 12:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[11,100 원]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001201_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jimmy Cliff
 														ICON]]></title>
@@ -60,24 +78,6 @@
             <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
             <content:encoded><![CDATA[17,500 원]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005372_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김목경
-														Old Fashioned Man (2021 REMASTERED) [LP]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1205&amp;album_mode=music</guid>
-            <pubDate>Fri, 24 Nov 2023 10:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[29,100 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001205_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists
-														그대와 여는 아침 4 (10주년 기념)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=VWOR&amp;code=1045&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=VWOR&amp;code=1045&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[8,900 원]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/VWOR/VWOR-001045_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
