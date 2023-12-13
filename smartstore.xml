@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 03:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 04:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안희수 - 망가진 나침반을 들고 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9648843884</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9648843884</guid>
+            <pubDate>Wed, 13 Dec 2023 04:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231213_130/1702436547501Uh8Q8_JPEG/29739231365775737_975755180.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시황 - 도화 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9648815153</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Dec 2023 08:08:55 GMT</pubDate>
             <content:encoded><![CDATA[29,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231204_188/1701676751963xO3mr_JPEG/5208442648085037_671277358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9616402916</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9616402916</guid>
-            <pubDate>Mon, 04 Dec 2023 08:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231204_259/1701676237897cT2bp_JPEG/1376381450951331_1213934986.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
