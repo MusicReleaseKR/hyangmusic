@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 12:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 13:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VA - 대구 인디음악 연대기 2023 - Light’s on (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9659470402</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9659470402</guid>
+            <pubDate>Fri, 15 Dec 2023 13:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231215_256/1702642305167qaFND_JPEG/103778147837847985_1813650331.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis Quintet - Steamin' With The Miles Davis Quintet (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9659435535</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:01:34 GMT</pubDate>
             <content:encoded><![CDATA[43,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beatles - Let it be (Special Edition) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9620972069</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9620972069</guid>
-            <pubDate>Tue, 05 Dec 2023 14:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[29,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231205_292/1701783631119VvBtq_JPEG/19963715953625376_63050370.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
