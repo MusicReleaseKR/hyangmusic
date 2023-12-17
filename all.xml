@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 05:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 06:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 Twic - Perfect World (3rd ALBUM) [COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9665741265</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9665741265</guid>
+            <pubDate>Sun, 17 Dec 2023 06:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[77,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231217_87/1702789267003hshsU_JPEG/103925046725240500_483941703.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 Twice - &TWICE (JAPAN 2nd ALBUM) [COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9665722188</link>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 03:02:31 GMT</pubDate>
             <content:encoded><![CDATA[15,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_46/1701831146499rOVNk_JPEG/102966974322827683_486757932.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이화 - 1집 눈내리던 겨울밤 / 그대와 나 (REMASTERED) [180G WHITE COLOURED LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622550107</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622550107</guid>
-            <pubDate>Tue, 12 Dec 2023 09:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[43,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_110/1701829285801lr0fx_JPEG/102965120635573822_694239081.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
