@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 02:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:03:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우효 Oohyo - 돌아온 우효 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9668961508</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9668961508</guid>
+            <pubDate>Mon, 18 Dec 2023 03:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231218_215/1702866187095g1wfQ_JPEG/104002075796744051_193693654.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 Twic - Perfect World (3rd ALBUM) [COLOURED LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9665741265</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Dec 2023 09:01:34 GMT</pubDate>
             <content:encoded><![CDATA[19,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231206_249/17018315790281nNGm_JPEG/102967406845476641_966445358.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자이언티 Zion.T - 3집 Zip (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9622636457</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9622636457</guid>
-            <pubDate>Wed, 06 Dec 2023 03:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[15,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231206_46/1701831146499rOVNk_JPEG/102966974322827683_486757932.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
