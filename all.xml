@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 09:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 10:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상 - With All My Heart (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9714071740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9714071740</guid>
+            <pubDate>Thu, 28 Dec 2023 10:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[15,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231228_114/1703756858065cWGCe_JPEG/104892637789551871_1187354083.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soundtrack - PHOENIX 불새: REMINISCENSE OF FLOWER - by Takatsugu Muramatsu (2LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9712429668</link>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Dec 2023 11:01:31 GMT</pubDate>
             <content:encoded><![CDATA[77,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231221_80/1703154436860dNzt7_JPEG/104290325575973945_1855983826.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 - 숨을 쉰다 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9682988465</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9682988465</guid>
-            <pubDate>Thu, 21 Dec 2023 08:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[21,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231221_196/1703144534095gpHg5_JPEG/30447217967633411_403403276.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
