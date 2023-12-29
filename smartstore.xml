@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 10:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 11:02:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans  - Interplay (REMASTERED) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9719651008</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9719651008</guid>
+            <pubDate>Fri, 29 Dec 2023 11:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[32,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231229_196/1703844008306teKsz_JPEG/104979904044526377_430052143.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billie Holiday / Stay With Me (CLEAR COLOURED LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9719624292</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Dec 2023 09:02:49 GMT</pubDate>
             <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231222_296/1703231228552mQY2u_JPEG/104367008274606134_1165503018.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이원재 - 1집 좋아, 길 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9683914543</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9683914543</guid>
-            <pubDate>Thu, 21 Dec 2023 13:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[40,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231221_78/1703161124273VYRpk_JPEG/104296903989258966_1809619382.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
