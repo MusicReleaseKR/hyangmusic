@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 14:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 15:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</guid>
             <pubDate>Thu, 07 Dec 2023 12:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000910_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</guid>
             <pubDate>Thu, 07 Dec 2023 12:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[11,100 원]]></content:encoded>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001201_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -31,7 +31,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=LTRG&amp;code=1233&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=LTRG&amp;code=1233&amp;album_mode=music</guid>
             <pubDate>Sat, 02 Dec 2023 10:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[8,700 원]]></content:encoded>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/LTRG/LTRG-001233_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=1396&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=HRAP&amp;code=1396&amp;album_mode=music</guid>
             <pubDate>Thu, 30 Nov 2023 08:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[7,400 원]]></content:encoded>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/HRAP/HRAP-001396_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -49,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=185&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=CLUB&amp;code=185&amp;album_mode=music</guid>
             <pubDate>Thu, 30 Nov 2023 08:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[7,800 원]]></content:encoded>
+            <content:encoded><![CDATA[15,600]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/CLUB/CLUB-000185_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,7 +58,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1218&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KROK&amp;code=1218&amp;album_mode=music</guid>
             <pubDate>Thu, 30 Nov 2023 03:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[34,300 원]]></content:encoded>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001218_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -67,7 +67,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5373&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5373&amp;album_mode=music</guid>
             <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,000 원]]></content:encoded>
+            <content:encoded><![CDATA[24,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005373_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +76,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</guid>
             <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[17,500 원]]></content:encoded>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005372_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
