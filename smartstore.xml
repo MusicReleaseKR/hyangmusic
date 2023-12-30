@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 15:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 16:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[할인] Soundtrack - Deadpool 2 데드풀 2 (SCORE) [PICTURE DISC LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9725355900</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9725355900</guid>
+            <pubDate>Sat, 30 Dec 2023 16:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231231_224/1703949749396t7AgT_JPEG/105085577223849561_44199554.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro - Christmas Eve (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9725299562</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9725299562</guid>
+            <pubDate>Sat, 30 Dec 2023 16:02:13 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20231231_133/17039486180136Kp0c_JPEG/105084445840800276_222947887.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잭킹콩 Jackingcong - 1집 Dress code (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9723851283</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 22 Dec 2023 14:01:32 GMT</pubDate>
             <content:encoded><![CDATA[16,400]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231222_282/1703251631712XEmxi_JPEG/104387474425369258_1448148617.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Portrait In Jazz (24-BIT REMASTERED) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688645597</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688645597</guid>
-            <pubDate>Fri, 22 Dec 2023 14:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[16,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_24/1703250290989hiSB9_JPEG/104386124809487150_2046160863.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지올 팍 Zior Park - Where Does Sasquatch Live (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688423448</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688423448</guid>
-            <pubDate>Fri, 22 Dec 2023 13:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_63/1703245581001FT9ch_JPEG/104381360708120706_1362720503.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
