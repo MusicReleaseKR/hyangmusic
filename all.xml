@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 13:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 14:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Van Halen - Van Halen (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9733947153</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9733947153</guid>
+            <pubDate>Mon, 01 Jan 2024 14:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[28,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240101_37/1704116989266RjLrK_JPEG/105252885004088954_1461165040.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green Day - Dookie (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9733936170</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9733936170</guid>
+            <pubDate>Mon, 01 Jan 2024 14:01:27 GMT</pubDate>
+            <content:encoded><![CDATA[22,700]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240101_5/1704116648754NksCh_JPEG/105252544491889186_539588408.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[할인] Soundtrack - Deadpool 2 데드풀 2 (SCORE) [PICTURE DISC LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9725355900</link>
@@ -312,22 +328,6 @@
             <enclosure url="https://shop-phinf.pstatic.net/20231222_87/17032556010628oxe3_JPEG/104391435896072166_1111002656.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins - Bewitched & Dear Old Stockholm (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688847452</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688847452</guid>
-            <pubDate>Sat, 23 Dec 2023 11:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[14,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_199/1703255179110kkQbw_JPEG/104391013946757505_1954281313.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Waltz For Debby (24-BIT REMASTERED) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9688673003</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9688673003</guid>
-            <pubDate>Fri, 22 Dec 2023 14:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[16,400]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231222_282/1703251631712XEmxi_JPEG/104387474425369258_1448148617.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
 														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매] (향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
@@ -353,6 +353,15 @@
             <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
             <content:encoded><![CDATA[65,000]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Suuns
+														Images Du Futur (DIGI-PAK) (향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</guid>
+            <pubDate>Mon, 01 Jan 2024 14:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-005885_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신스 (Since)
@@ -418,15 +427,6 @@
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005373_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야마가타 트윅스터
-														애국가 / 찹쌀송 (45RPM 7인치 LP) (향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005372_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Compilation (180G CLEAR ORANGE COLOURED LP) (모바일 향뮤직 ─ 예약 음반)]]></title>
             <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
@@ -449,6 +449,14 @@
             <pubDate>Thu, 19 Jan 2023 23:03:22 GMT</pubDate>
             <content:encoded><![CDATA[백예린]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Images Du Futur (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
+            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=5885&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=5885&amp;album_mode=music</guid>
+            <pubDate>Mon, 01 Jan 2024 14:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[Suuns]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-005885_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1집 - Since 16 (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -520,7 +528,7 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=KROK&amp;code=1205&amp;album_mode=music</guid>
             <pubDate>Fri, 24 Nov 2023 10:02:16 GMT</pubDate>
             <content:encoded><![CDATA[김목경]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KROK/KROK-001205_s.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
         <item>
             <title><![CDATA[그대와 여는 아침 4 (10주년 기념) (모바일 향뮤직 ─ 입고 리스트)]]></title>
@@ -600,14 +608,6 @@
             <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=INDR&amp;code=4871&amp;album_mode=music</guid>
             <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
             <content:encoded><![CDATA[She &amp; Him]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
-        </item>
-        <item>
-            <title><![CDATA[Still Life (DIGI-PAK) (모바일 향뮤직 ─ 입고 리스트)]]></title>
-            <link>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLUB&amp;code=2918&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/m/?mcid=contents&amp;mpid=view&amp;cate_code=CLUB&amp;code=2918&amp;album_mode=music</guid>
-            <pubDate>Fri, 17 Nov 2023 12:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[Little Cub]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
         </item>
     </channel>

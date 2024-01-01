@@ -4,9 +4,18 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 13:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 14:02:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Suuns
+														Images Du Futur (DIGI-PAK)]]></title>
+            <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</link>
+            <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</guid>
+            <pubDate>Mon, 01 Jan 2024 14:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,200]]></content:encoded>
+            <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-005885_s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신스 (Since)
 														1집 - Since 16]]></title>
@@ -69,15 +78,6 @@
             <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
             <content:encoded><![CDATA[24,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005373_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야마가타 트윅스터
-														애국가 / 찹쌀송 (45RPM 7인치 LP)]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KINR&amp;code=5372&amp;album_mode=music</guid>
-            <pubDate>Sun, 26 Nov 2023 14:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KINR/KINR-005372_s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
