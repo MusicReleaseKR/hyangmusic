@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 14:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Treasure Land - Gateway (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765418740</guid>
+            <pubDate>Sun, 07 Jan 2024 15:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[3,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_172/1704636393504LzX2f_JPEG/105772173226034262_1029458301.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Engine - Engine (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9765338236</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[32,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240101_222/1704115566120C1Qy2_JPEG/105251400944388779_459840380.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[할인] Soundtrack - Deadpool 2 데드풀 2 (SCORE) [PICTURE DISC LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725355900</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725355900</guid>
-            <pubDate>Sat, 30 Dec 2023 16:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[25,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231231_224/1703949749396t7AgT_JPEG/105085577223849561_44199554.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
