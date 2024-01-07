@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 12:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 13:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어둠 (A Doom) - A Doom (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9765273135</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9765273135</guid>
+            <pubDate>Sun, 07 Jan 2024 13:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[27,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240107_240/1704632539258mlJrU_JPEG/105768367086135942_107016164.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thelonious Monk - Piano Solo (LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9762749252</link>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20231230_25/17039477046365JGPB_JPEG/105083600369208358_540302651.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Who - Who's Next (Remastered) [CD]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9725233718</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9725233718</guid>
-            <pubDate>Tue, 02 Jan 2024 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[16,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20231230_190/1703947324263O6TRE_JPEG/105083219997109809_1652225528.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
