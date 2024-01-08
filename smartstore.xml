@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 11:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 12:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[U2 - Lights Of Home (12INCH SINGLE 45RPM WHITE COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770731354</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770731354</guid>
+            <pubDate>Mon, 08 Jan 2024 12:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_65/1704715535658zItsT_JPEG/105851319369783917_146131273.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stone Roses - Stone Roses (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9770455311</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9770455311</guid>
+            <pubDate>Mon, 08 Jan 2024 12:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[26,800]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240108_121/1704711595611AE5Sh_JPEG/105847484325411886_308466013.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder - Song Review: A Greatest Hits Collection (2CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9770369313</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 03 Jan 2024 15:01:47 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240103_200/1704290306716Mswsz_JPEG/105426195427613682_855895726.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지윤 - 숨을 쉰다 (STAR BRIGHT GOLD COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9743090801</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9743090801</guid>
-            <pubDate>Wed, 03 Jan 2024 06:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[53,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240103_86/1704258602869uWLUH_JPEG/105394445581151609_674974906.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soundtrack - Le Jour Le Plus Long 지상 최대의 작전 (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9739134526</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9739134526</guid>
-            <pubDate>Thu, 04 Jan 2024 12:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[30,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240102_181/1704197622187wkbVI_JPEG/105333456009247506_1302504048.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
