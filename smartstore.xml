@@ -4,9 +4,33 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 13:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 14:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Diana Krall - The Very Best Of Diana Krall (2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9784258163</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9784258163</guid>
+            <pubDate>Wed, 10 Jan 2024 14:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_299/1704894530112RWLIo_JPEG/106030425849450155_1416726092.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sonny Rollins - Newk's Time (Blue Note Classic Vinyl Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9784228118</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9784228118</guid>
+            <pubDate>Wed, 10 Jan 2024 14:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_124/1704893960349W2fz6_JPEG/106029803063769597_947374267.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stanley Turrentine - Rough & Tumble (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9784214205</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9784214205</guid>
+            <pubDate>Wed, 10 Jan 2024 14:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[64,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_125/1704893255562hwXVh_JPEG/106029089382178255_1978176433.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ibrahim Ferrer - Mi Sueno (Buena Vista Social Club Presents) [180G LP]]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9783481130</link>
@@ -302,30 +326,6 @@
             <pubDate>Sun, 07 Jan 2024 14:01:45 GMT</pubDate>
             <content:encoded><![CDATA[3,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_258/1704634204542IqNRy_JPEG/31936888419597215_1888850001.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iron Savior - I've Been To Hell (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765325884</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765325884</guid>
-            <pubDate>Sun, 07 Jan 2024 14:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[3,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_246/1704633691661jO7tY_JPEG/105769519488894500_1231766880.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Issei Noro - Under The Sky (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765300245</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765300245</guid>
-            <pubDate>Sun, 07 Jan 2024 14:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[2,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_79/1704633256483tttHC_JPEG/105769084312949101_614234096.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ani Difranco - Little Plastic Castle (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765287220</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765287220</guid>
-            <pubDate>Wed, 10 Jan 2024 13:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_185/1704632918684Gtb9T_JPEG/105768746501823347_457423148.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
