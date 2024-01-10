@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 07:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 08:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundtrack - Godzilla -1.0 (고지라 마이너스 원) [2LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9782792526</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9782792526</guid>
+            <pubDate>Wed, 10 Jan 2024 08:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[70,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_299/1704872845165OUXkq_JPEG/106008624879605605_93545287.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남재섭 - 당신이 본 세계는 당신의 영화 (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9778199054</link>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 08:09:17 GMT</pubDate>
             <content:encoded><![CDATA[11,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240107_201/1704615402978fUd85_JPEG/105751301690397802_443089774.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상은 Lee-Tzsche - 4집 Begin (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9764706635</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9764706635</guid>
-            <pubDate>Mon, 08 Jan 2024 08:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[11,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_46/1704615066956txksr_JPEG/105750965663347361_2127920547.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
