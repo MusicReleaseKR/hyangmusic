@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 14:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 15:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue Mitchell - Bring It Home To Me (Blue Note Tone Poet Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9784306781</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9784306781</guid>
+            <pubDate>Wed, 10 Jan 2024 15:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20230518_103/1684410191160lRvln_JPEG/37777736161004065_1051572650.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thelonious Monk Trio - Thelonious Monk Trio (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9784292407</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9784292407</guid>
+            <pubDate>Wed, 10 Jan 2024 15:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240110_285/1704895107038ji6gJ_JPEG/106031002767944091_979270900.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Diana Krall - The Very Best Of Diana Krall (2LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9784258163</link>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 07:02:38 GMT</pubDate>
             <content:encoded><![CDATA[44,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240108_105/1704694602534Toui5_JPEG/105830386246341205_1474739356.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Treasure Land - Gateway (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765418740</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765418740</guid>
-            <pubDate>Sun, 07 Jan 2024 15:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[3,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_172/1704636393504LzX2f_JPEG/105772173226034262_1029458301.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Engine - Engine (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9765338236</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9765338236</guid>
-            <pubDate>Sun, 07 Jan 2024 14:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[3,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240107_258/1704634204542IqNRy_JPEG/31936888419597215_1888850001.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
