@@ -4,7 +4,7 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 14:02:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 15:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 16 Jan 2024 12:10:18 GMT</pubDate>
             <content:encoded><![CDATA[46,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240116_34/1705403356846gb2OM_JPEG/106539136569826659_810346646.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상 - 3집 - Cliche (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9813300717</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9813300717</guid>
+            <pubDate>Tue, 16 Jan 2024 15:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[25,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240115_281/17053294510559BX8k_JPEG/106465349766103438_518984729.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ray Charles - The Genius Sings The Blues (180G COLOURED LP)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 14:01:53 GMT</pubDate>
             <content:encoded><![CDATA[25,700]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240112_76/1705067302178NSTwu_JPEG/106203197911777757_2106594745.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glenn Miller - In The Mood (180G LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9797691275</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9797691275</guid>
-            <pubDate>Fri, 12 Jan 2024 14:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[25,700]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240112_131/1705067022167IGKlM_JPEG/106202917903511706_463224521.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
