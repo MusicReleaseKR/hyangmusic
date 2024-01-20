@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 22:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 23:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,7 +360,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=INDR&amp;code=5885&amp;album_mode=music</guid>
             <pubDate>Sat, 13 Jan 2024 21:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[8,600 원]]></content:encoded>
+            <content:encoded><![CDATA[17,200]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/INDR/INDR-005885_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
