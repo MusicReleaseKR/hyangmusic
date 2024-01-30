@@ -4,15 +4,23 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 09:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 10:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - Evening Breeze (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9902135126</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9902135126</guid>
+            <pubDate>Tue, 30 Jan 2024 10:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[53,010]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240130_75/1706605714312VRQye_JPEG/107741548122889454_540194421.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - 3집 내 마음 (180G LP)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9902090945</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9902090945</guid>
             <pubDate>Tue, 30 Jan 2024 09:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <content:encoded><![CDATA[45,100]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_61/1706604951945u20fb_JPEG/107740786780293672_61825765.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9902054143</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9902054143</guid>
             <pubDate>Tue, 30 Jan 2024 09:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <content:encoded><![CDATA[45,100]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_10/1706604259499gWBuq_JPEG/107740094334728641_1683947786.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://smartstore.naver.com/hyangmusic/products/9902016746</link>
             <guid>https://smartstore.naver.com/hyangmusic/products/9902016746</guid>
             <pubDate>Tue, 30 Jan 2024 09:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[48,500]]></content:encoded>
+            <content:encoded><![CDATA[45,100]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240130_236/1706603596844JdKHI_JPEG/107739431673308637_1001079650.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 10:01:26 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_123/1706259269948r4tIW_JPEG/107395104779019690_1211442568.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백하나 - Midnight Waltz (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9890015371</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9890015371</guid>
-            <pubDate>Fri, 26 Jan 2024 04:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[10,800]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_148/1706238113633tlxDV_JPEG/107373948463272406_1543907825.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
