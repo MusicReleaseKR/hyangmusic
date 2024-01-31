@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아날로그소년 - 택배왔어요 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9906164482</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9906164482</guid>
+            <pubDate>Wed, 31 Jan 2024 15:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240131_85/1706710075544GIHTl_JPEG/107845971281531696_286996414.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크루시픽스 크릭 Krucifix Kricc - 3집 Transform (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9906155987</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9906155987</guid>
+            <pubDate>Wed, 31 Jan 2024 15:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[11,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240131_143/1706709841318tnF4w_JPEG/107845737055541148_774816892.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Smile - Wall Of Eyes (BLUE COLOURED LP) [인디스토어 에디션] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9906139425</link>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 26 Jan 2024 14:01:47 GMT</pubDate>
             <content:encoded><![CDATA[44,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240126_132/1706275579876y1oPQ_JPEG/107411363583321616_1515183677.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김석준 - 나의 이름은 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891815333</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891815333</guid>
-            <pubDate>Fri, 26 Jan 2024 14:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_188/1706275375319tEkPz_JPEG/107411159015077693_2085220345.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김석준 - 20세기 소년 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9891807584</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9891807584</guid>
-            <pubDate>Fri, 26 Jan 2024 15:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[14,900]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240126_163/1706275196071qPMbJ_JPEG/107410979781100659_1045209646.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
