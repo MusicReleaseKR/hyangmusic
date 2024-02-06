@@ -4,9 +4,17 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 15:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 16:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bud Powell - Amazing Bud Powell Vol.1 (Blue Note Classic Vinyl Series) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926388401</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926388401</guid>
+            <pubDate>Tue, 06 Feb 2024 16:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_245/17072349701365pgYE_JPEG/108370749859731409_1870167381.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nirvana - Nevermind (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9926187433</link>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 27 Jan 2024 14:01:52 GMT</pubDate>
             <content:encoded><![CDATA[17,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240127_218/1706361816010aSeOI_JPEG/33664499892876788_408912064.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cranberries - Everybody Else Is Doing It, So Why Can't We (GREEN COLOURED LP)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9894412087</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9894412087</guid>
-            <pubDate>Sat, 27 Jan 2024 12:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[54,500]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240127_291/17063552520625xzTJ_JPEG/107491140772728348_1794169327.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
