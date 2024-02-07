@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 06:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 07:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스믹 보이 Cosmic Boy - Can I love (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928082697</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928082697</guid>
+            <pubDate>Wed, 07 Feb 2024 07:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[55,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_144/1707286593174VEY1S_JPEG/108422435875202559_983688573.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김범수 - 9집 여행 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9928053218</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9928053218</guid>
+            <pubDate>Wed, 07 Feb 2024 07:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[20,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_136/1707286105682GlNYV_JPEG/108421948391719605_790832605.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유 IU - The Winning (SPECIAL VER.) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9928033574</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 31 Jan 2024 12:09:32 GMT</pubDate>
             <content:encoded><![CDATA[23,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240128_69/1706442558172xr0KP_JPEG/107578337894877562_2087138922.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VA - Seoul Seoul Seoul (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896522305</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896522305</guid>
-            <pubDate>Wed, 31 Jan 2024 12:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[19,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_245/1706442058704U3Dek_JPEG/107577838422480743_943799877.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키보이스 - 화제의 총아 키보이스 힛트앨범 (LP MINIATURE) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9896501481</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9896501481</guid>
-            <pubDate>Sun, 28 Jan 2024 12:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[21,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240128_29/17064414466136bq48_JPEG/107577345324485036_1767878272.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
