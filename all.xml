@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 12:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 13:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 16 Feb 2024 03:02:07 GMT</pubDate>
             <content:encoded><![CDATA[59,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240216_288/1708051152490k8uJa_JPEG/109186995205842995_2049299511.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트램폴린 Trampauline - 2집 This Is Why We Are Falling For Each Other + Remix (2CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9951454895</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9951454895</guid>
+            <pubDate>Fri, 16 Feb 2024 13:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[26,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240214_113/17079136708768Idb0_JPEG/109049505711100405_1967460236.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디어 클라우드 Dear Cloud - 3집 Bright Lights (초도한정 사진집 증정) [CD] (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 07 Feb 2024 04:07:21 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_234/1707275526231YeRDE_JPEG/108411361065730968_464429215.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Morgan - Search For The New Land (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9926547537</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9926547537</guid>
-            <pubDate>Tue, 06 Feb 2024 18:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_103/170723893552482WiK_JPEG/108374770351675569_331296731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
