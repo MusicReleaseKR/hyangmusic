@@ -4,9 +4,25 @@
         <title>네이버 스마트스토어 ─ 향뮤직</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 11:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 12:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Metallica - Master Of Puppets (BATTERY BRICK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9963226563</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9963226563</guid>
+            <pubDate>Sat, 17 Feb 2024 12:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[60,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240217_80/1708168206157DPUxL_JPEG/109304094871722542_256354627.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica - ...And Justice For All (DYERS GREEN COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9963217997</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9963217997</guid>
+            <pubDate>Sat, 17 Feb 2024 12:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[80,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240217_266/1708167649586APm0o_JPEG/109303429304775797_1824239765.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tsuyoshi Yamamoto Trio - Sweet For K (CD)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9960241310</link>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 07 Feb 2024 06:08:29 GMT</pubDate>
             <content:encoded><![CDATA[46,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_123/1707284372324wtpHI_JPEG/34587056207664081_1231905707.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우물안 개구리 - 이불 속 라디오, 우안개입니다 (CD)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9927521090</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9927521090</guid>
-            <pubDate>Wed, 07 Feb 2024 04:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[20,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_234/1707275526231YeRDE_JPEG/108411361065730968_464429215.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Morgan - Search For The New Land (Blue Note Classic Vinyl Series) [180G LP]]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9926547537</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9926547537</guid>
-            <pubDate>Sat, 17 Feb 2024 11:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[37,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_103/170723893552482WiK_JPEG/108374770351675569_331296731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
