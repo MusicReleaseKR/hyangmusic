@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 10:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 11:02:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Fri, 16 Feb 2024 12:09:10 GMT</pubDate>
             <content:encoded><![CDATA[30,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_154/1707823760377DoxBK_JPEG/108959544095081079_629967061.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리페어 샵 Repair Shop - 빈방 (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9946992723</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9946992723</guid>
-            <pubDate>Fri, 16 Feb 2024 12:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[28,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240213_96/17078232722691EA06_JPEG/108959055985438004_1311631533.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔들리스 케이브 - 1993 (130G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 07 Feb 2024 04:07:21 GMT</pubDate>
             <content:encoded><![CDATA[20,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240207_234/1707275526231YeRDE_JPEG/108411361065730968_464429215.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lee Morgan - Search For The New Land (Blue Note Classic Vinyl Series) [180G LP] (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9926547537</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9926547537</guid>
+            <pubDate>Sat, 17 Feb 2024 11:01:33 GMT</pubDate>
+            <content:encoded><![CDATA[37,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240207_103/170723893552482WiK_JPEG/108374770351675569_331296731.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
