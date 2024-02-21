@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 12:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 13:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Allman Brothers Band - The Allman Brothers Band (LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/9981036730</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/9981036730</guid>
+            <pubDate>Wed, 21 Feb 2024 13:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[29,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240221_63/1708517528507Kr42N_JPEG/109653312216788280_1312772157.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무지개퀸텟 - 멋쟁이 아가씨 (180G RED & ORANGE MIX COLOURED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/9981007230</link>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 16 Feb 2024 12:09:10 GMT</pubDate>
             <content:encoded><![CDATA[35,000]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240213_166/1707752399033sYx2y_JPEG/108888297745113728_1243998905.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범수 - 9집 여행 (COLOURED LP) [넘버링 한정반] (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/9928293674</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/9928293674</guid>
-            <pubDate>Wed, 07 Feb 2024 08:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[47,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240207_98/1707291002948M7fOM_JPEG/108426830774015580_1519530519.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코 브릿지 (Eco Bridge)
