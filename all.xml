@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 12:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 13:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,7 +49,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=KHOP&amp;code=910&amp;album_mode=music</guid>
             <pubDate>Sat, 13 Jan 2024 21:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[3,700 원]]></content:encoded>
+            <content:encoded><![CDATA[14,900]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/KHOP/KHOP-000910_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
