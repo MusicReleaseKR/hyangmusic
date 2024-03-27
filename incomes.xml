@@ -4,7 +4,7 @@
         <title>향뮤직 ─ 입고 리스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 00:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 01:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,7 +31,7 @@
             <link>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</link>
             <guid>http://hyangmusic.com/View.php?cate_code=ODKP&amp;code=1201&amp;album_mode=music</guid>
             <pubDate>Thu, 07 Dec 2023 12:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[5,500 원]]></content:encoded>
+            <content:encoded><![CDATA[22,300]]></content:encoded>
             <enclosure url="http://hyangmusic.com/img_data/ODKP/ODKP-001201_s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
