@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>향뮤직 ─ 예약 음반</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 15:02:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[에코 브릿지 (Eco Bridge)
-														Compilation (180G CLEAR ORANGE COLOURED LP) [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8851&amp;album_mode=music</guid>
-            <pubDate>Mon, 12 Dec 2022 08:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[49,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008851_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
-														단독공연 [TURN ON THAT BLUE VINYL] 라이브 특별반 (2LP) [1인1매주문] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8850&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8850&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[54,900]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008850_s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린
-														2집 - Tellusboutyourself & Remix (3LP) [1인1매주문] [예약판매]]]></title>
-            <link>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</link>
-            <guid>http://hyangmusic.com/View.php?cate_code=KBND&amp;code=8848&amp;album_mode=music</guid>
-            <pubDate>Wed, 01 Feb 2023 06:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[65,000]]></content:encoded>
-            <enclosure url="http://hyangmusic.com/img_data/KBND/KBND-008848_s.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://hyangmusic.com/Def_List.php?list_name=precontract</id>
+    <title>향뮤직 ─ 예약 음반</title>
+    <updated>2024-03-28T16:03:29.665Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://hyangmusic.com/favicon.ico</icon>
+</feed>
