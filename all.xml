@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 14:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 15:03:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Banco del Mutuo Soccorso - Banco (180G BLUE COLOUED LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10777047125</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10777047125</guid>
+            <pubDate>Thu, 22 Aug 2024 15:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[50,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240822_150/17243371762886la2u_JPEG/39234075107698331_2035288129.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비츠냅 - Slow Down Town (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/10776963375</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/10776963375</guid>
+            <pubDate>Thu, 22 Aug 2024 15:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240822_269/17243359566739G58K_JPEG/39232855487839383_1985524451.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 폴스 The Poles - Anomalies in the oddity space (180G LP) (네이버 스마트스토어 ─ 향뮤직)]]></title>
             <link>https://smartstore.naver.com/hyangmusic/products/10775811545</link>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 22 Aug 2024 14:03:28 GMT</pubDate>
             <content:encoded><![CDATA[14,500]]></content:encoded>
             <enclosure url="https://shop-phinf.pstatic.net/20240806_32/1722871579834COUgJ_JPEG/9608799716569365_1343152029.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카디 KARD - Where To Now - Part 1 Yellow Light (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/10699821890</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/10699821890</guid>
-            <pubDate>Thu, 22 Aug 2024 14:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[22,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240805_146/17228642153303x3pB_JPEG/25439964092127565_1132341728.jpg?type=f140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미노이 meenoi - 2집 This is my life (CD) (네이버 스마트스토어 ─ 향뮤직)]]></title>
-            <link>https://smartstore.naver.com/hyangmusic/products/10699656399</link>
-            <guid>https://smartstore.naver.com/hyangmusic/products/10699656399</guid>
-            <pubDate>Thu, 22 Aug 2024 14:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,000]]></content:encoded>
-            <enclosure url="https://shop-phinf.pstatic.net/20240805_69/1722863786095MAso9_JPEG/5223779094649885_272269866.jpg?type=f140" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
