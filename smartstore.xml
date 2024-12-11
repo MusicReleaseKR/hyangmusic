@@ -1,8 +1,331 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://smartstore.naver.com/hyangmusic/category/32562d12fd7b46f2835fcb246ba18ce1?cp=1</id>
-    <title>네이버 스마트스토어 ─ 향뮤직</title>
-    <updated>2024-12-11T00:39:19.832Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://smartstore.naver.com/hyangmusic/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 스마트스토어 ─ 향뮤직</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 11 Dec 2024 02:21:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드니 성호 Denis Sungho - Grace (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11231556426</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11231556426</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241210_20/1733802587335oO0QX_JPEG/13884559078496453_1912047461.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파 aespa - Whiplash (5th Mini Album) [LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11231530561</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11231530561</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241210_39/1733802254203bUS5o_JPEG/2337721342928043_329817299.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파 aespa - 1집 Armageddon (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11231517393</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11231517393</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241210_20/1733801765093Ac1ru_JPEG/15532079921536868_577498768.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈 - 몽유호원 (CD) [일반반]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11231163297</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11231163297</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241113_204/17314661969600a68m_JPEG/4412008087208109_1965393132.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Coldplay - Ghost Stories (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11228581735</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11228581735</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20220513_116/1652436277584jzKTz_JPEG/53572176296727919_307800985.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peder Elias - Youth & Family (COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11227651371</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11227651371</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[35,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241209_104/1733723400130V9ofG_JPEG/67856213248139050_1892001726.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정웅 - 여름 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11225997628</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11225997628</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[10,400]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241209_285/1733676355274hsW4S_JPEG/10163731495720759_177503948.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[QM, Fredi Casso - Nazca Records (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11225986264</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11225986264</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241209_117/1733675594513L0Jpv_JPEG/15405909347871642_528786342.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lou Rawls - Black And Blue (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11222167755</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11222167755</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_39/1733566942952oLhHt_JPEG/18004927829687731_137162790.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis - Diggin With The Miles Davis Sextet (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11222102764</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11222102764</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_231/1733564755461r3uwT_JPEG/67697549865669148_294933797.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis - Relaxin with the Miles Davis Quintet (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11222030578</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11222030578</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_146/1733564130726IxjyP_JPEG/10051506969440447_1605769135.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joy Division - Warsaw (180G GRAY COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11222003800</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11222003800</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[42,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_133/1733561855078cQyp4_JPEG/67694686210526624_1705150890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pulp - Different Class (LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11221915269</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11221915269</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[45,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_206/1733560566026Nt3fV_JPEG/52118660456993060_327296961.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eminem - The Death Of Slim Shady (RED & BLUE COLOURED 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11221905637</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11221905637</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[72,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241207_280/1733558928355Cem6t_JPEG/10046304597409358_78230314.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson - Red (DELUXE EDITION) [2CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11221367913</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11221367913</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[24,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240109_252/1704798479092rmH3K_JPEG/105934262806941583_1298185495.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blind Gary Davis - Harlem Street Singer (Bluesville Acoustic Sounds Series) [180G LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11219167862</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11219167862</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[71,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_123/1733488901366j3vRr_JPEG/62078528452322154_1598719924.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - The Beatles' Second Album (US Album) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11219097783</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11219097783</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_224/1733488264594MgUKI_JPEG/17926249480529354_1514680367.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Something New (US Album) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11219075539</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11219075539</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_108/1733487867164cECps_JPEG/67620633606812128_529687652.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Meet The Beatles (US Album) [180G OPAQUE BLUE COLOURED LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11219064586</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11219064586</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_229/1733487585774KU28S_JPEG/66871197610457460_1681271226.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤 - 3집 YEOK SEONG (선공개앨범) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11217351353</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11217351353</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[18,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_223/1733455019710i49yu_JPEG/244567856619641_1091049100.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤 - 3집 YEOK SEONG (ARTBOOK EDITION) [CD]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11217294138</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11217294138</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[44,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_204/1733453837907OGENi_JPEG/6399649042204238_2032871848.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uriah Heep - The Magician's Birthday (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11217271617</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11217271617</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[44,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241206_42/1733453381487GKQ9U_JPEG/16182592952188647_755403736.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Omara Portuondo - Buena Vista Social Club Presents Omara Portuondo (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11215292267</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11215292267</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[38,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_25/1733402308664hPgsG_JPEG/191856817308540_1969440690.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helen Merrill - Helen Merrill With Clifford Brown (180G LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11215241242</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11215241242</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[32,500]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_180/1733401452052Uaiuz_JPEG/37955473513823173_1202182048.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Meet The Beatles (US Album) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11215192953</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11215192953</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_26/1733400319084FeyWd_JPEG/699601218113562_1910844897.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - Beatles'65 (US Album) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11215149782</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11215149782</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_30/1733399157250PS0Ec_JPEG/16024529139684936_1782843039.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라쿠나 Lacuna - 유령 (180G CLEAR GREEN COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11213424978</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11213424978</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[47,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_208/1733367192123EBmD5_JPEG/15097506962322304_1167178343.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스 Melomance - Romantic (180G SOLIDPINK COLOURED LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11213391198</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11213391198</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[41,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241205_75/1733366761094RIkP8_JPEG/67499526230349283_233860003.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁오 Hyukoh / Sunset Rollercoaster - AAA (180G TWO MABLE COLOURED LP) [2차분]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11209754990</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11209754990</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[49,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240925_65/1727263689049oSB7X_JPEG/8299122924626311_1443662451.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - A Hard Day’s Night (Original Motion Picture Soundtrack) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11208185163</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11208185163</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241204_215/1733244597590HEVnY_JPEG/61153182580052388_2034030683.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - The Early Beatles (US Album) [180G MONO LP]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11208176805</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11208176805</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241204_75/1733244280950Gn48a_JPEG/67377051738402102_1079635722.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beatles - 1964 US Albums In Mono (180G 8LP) [BOX SET]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11208071523</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11208071523</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[355,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241204_55/1733240711090huh3c_JPEG/13398330188159346_716057123.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pearl Jam - Vitalogy (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11208053704</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11208053704</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[20,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241204_121/1733240302760jxyrQ_JPEG/12826220194716960_915530772.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상웅 - 일상속에서 필요 되는 것들 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11206143306</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11206143306</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241203_228/1733205702975w2JTM_JPEG/11073535081897149_1480208391.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지만 – 그 사람에게 : 김소월 프로젝트 (180G 2LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11205396975</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11205396975</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[65,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241203_242/1733194243273bkHF6_JPEG/67327180387897991_853141462.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuyoshi Yamamoto Trio - Sweet For K (LP) [재생산]]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11202789713</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11202789713</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[57,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20240216_249/17080830521122iS0D_JPEG/109218885933312879_1988851785.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helloween - Live At Budokan (2CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11202778845</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11202778845</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[19,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241202_80/1733132551996VciMh_JPEG/8750605458835699_36416860.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kiko Loureiro - Theory Of Mind (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11202764191</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11202764191</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[16,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241202_247/1733131581248IYPRM_JPEG/67264366387319805_1934977890.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박정현 - Op.4 (180G PICTURE DISC LP)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11201513010</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11201513010</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[53,000]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241202_261/1733107902038R1GRA_JPEG/15180683094896576_194492467.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김늑 - 그대 아름다워 (CD)]]></title>
+            <link>https://smartstore.naver.com/hyangmusic/products/11201486338</link>
+            <guid>https://smartstore.naver.com/hyangmusic/products/11201486338</guid>
+            <pubDate>Wed, 11 Dec 2024 02:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[11,900]]></content:encoded>
+            <enclosure url="https://shop-phinf.pstatic.net/20241202_111/1733107056147jlsgN_JPEG/15179837194795348_1108657743.jpg?type=f140" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
